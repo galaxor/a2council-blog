@@ -10,6 +10,10 @@ platforms:
     icon: "fab fa-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
+  - type: Reddit
+    icon: "fab fa-reddit-alien"
+    link: "https://www.reddit.com/submit?url=URL&title=TITLE"
+
   # - type: Telegram
   #   icon: "fab fa-telegram"
   #   link: "https://t.me/share/url?url=URL&text=TITLE"
