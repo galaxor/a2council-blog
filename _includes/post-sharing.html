@@ -57,6 +57,10 @@ a.Mastodon { display: none; }
 
     {% for share in site.data.share.platforms %}
       {% assign link = share.link | replace: 'TITLE', title | replace: 'URL', url %}
+        {% comment %}For Mastodon, I link to an anchor tag.  My linter insists that the tag must exist.{% endcomment %}
+        {% if share.type == 'Mastodon' %}
+        <a name="{{ link | replace: '#', '' }}" />
+        {% endif %}
         <a href="{{ link }}" data-toggle="tooltip" data-placement="top"
           class="{{ share.type }}" title="{{ share.type }}" target="_blank" rel="noopener" aria-label="{{ share.type }}">
           <i class="fa-fw {{ share.icon }}"></i>
