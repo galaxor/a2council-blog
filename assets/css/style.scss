@@ -11,6 +11,21 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
+.table-wrapper > table.infobox caption {
+  caption-side: top;
+  color: var(--text-color);
+  font-weight: bold;
+}
+
+.table-wrapper > table.infobox tbody tr th {
+  min-width: 12ex;
+}
+
+.table-wrapper > table.infobox tbody tr td {
+  white-space: normal;
+}
+
+/* Icons for the links in the infobox, to help show where you're going. */
 .post-tail-wrapper .post-meta a:not(:hover), .post-content a:not(.img-link) {
   border-bottom: none;
   text-decoration: underline;
