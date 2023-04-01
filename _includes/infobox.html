@@ -1,0 +1,10 @@
+<dl class="infobox">
+{% capture time %}{{ include.date|date: "%l:%M%P" }}{% endcapture %}
+<dt class="datetime">Date</dt><dd class="datetime h-event"><time class="dt-start" datetime="{{ include.date }}">{{ include.date|date: "%A, %B %e, %Y" }}{% if time %}, at {{ time }}{% endif %}</time></dd>
+<dt class="agenda">Agenda</dt><dd class="agenda"><a href="{{ include.agenda|escape }}">{{ include.agenda|escape }}</a></dd>
+<dt class="zoom">Zoom</dt><dd class="zoom"><a href="https://a2gov.org/councilzoom">https://a2gov.org/councilzoom</a></dd>
+{% if include.mtgid %}<dt class="phone">Phone</dt><dd class="phone"><a href="tel:888-788-0099">888-788-0099</a> Meeting ID = {{ include.mtgid|escape }}, Participant ID = #</dd>{% endif %}
+<dt class="youtube">Youtube</dt><dd class="youtube">{% if include.youtube %}<a href="{{ include.youtube|escape }}">Watch on Youtube</a>{% else %}The link will appear on the <a href="https://www.youtube.com/@CTNAnnArbor">CTN Youtube channel</a> when the meeting starts. I'll update this link at that time.{% endif %}</dd>
+<dt class="thread">Live-tooting</dt><dd class="thread">{% if include.thread %}<a href="{{ include.thread|escape }}">Read my Mastodon Thread</a>. My posts are also cross-posted to Twitter, but the cross-poster does not put them together in a thread, so it's best to just read <a href="https://twitter.com/search?q=%23A2Council&src=typed_query&f=live">the #A2Council hashtag on Twitter</a>{% else %}I'll be live-tooting the meeting from my <a href="https://a2mi.social/@MegaMichelle">Mastodon account</a>. I'll post the link to the thread here at that time.  It will also cross-post to my <a href="https://twitter.com/xMegaMichellex">Twitter account</a>, but the posts will not be together in a thread there.{% endif %}</dd>
+<dt class="hashtag">Hashtag</dt><dd class="hashtag">There will also be commentary by myself and others on both the <a href="https://a2mi.social/tags/A2Council">#A2Council hashtag on Mastodon</a> and the <a href="https://twitter.com/search?q=%23A2Council&src=typed_query&f=live">#A2Council hashtag on Twitter</a>.</dd>
+</dl>
