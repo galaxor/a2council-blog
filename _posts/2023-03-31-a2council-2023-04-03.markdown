@@ -2,6 +2,7 @@
 layout: post
 title:  Ann Arbor City Council Preview for Monday, 2023-04-03
 date:   2023-03-31 22:47:00 -0400
+meeting_date: 2023-04-03 19:00:00 -0400
 categories: a2council preview
 tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris
 public_hearings:
@@ -12,8 +13,6 @@ public_hearings:
   - url:  "#ph-2--b-2-north-maple-apartments-zoning-and-ph-3--db-2-site-plan"
     desc: "PH-3: North Maple Apartments Site Plan"
 ---
-<style>.post-content { font-size: 1.3rem; }</style>
-
 <span class="h-event">The next <span class="p-name">Ann Arbor City Council meeting</span> will be <time class="dt-start" datetime="2023-04-03T19:00-0400">Monday, April 3, 2023, at 7pm</time>.</span>
 
 The thing I'm most excited about is the [North Maple Apartments](#ph-2--b-2-north-maple-apartments-zoning-and-ph-3--db-2-site-plan).  There is a public hearing about this.

@@ -11,6 +11,11 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
+/* I want post content to be bigger! */
+.post-content { 
+  font-size: 1.3rem; 
+}
+
 .table-wrapper > table.infobox caption {
   caption-side: top;
   color: var(--text-color);
