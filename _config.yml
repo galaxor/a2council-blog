@@ -18,15 +18,15 @@ timezone: America/Detroit
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Turbo Nerd # the main title
+title: A2Council Info # the main title
 
-tagline: Michelle's A2Council Thoughts # it will display as the sub-title
+tagline: Ann Arbor City council previews and wrap-ups, by Michelle Hughes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Ann Arbor City Council news and analysis, by Michelle Hughes.
+  Ann Arbor, Michigan City Council previews and wrap-ups. News and analysis, by Michelle Hughes.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://galaxor.github.io"
+url: "https://a2council.info"
 
 github:
   username: github_username # change to your github username
