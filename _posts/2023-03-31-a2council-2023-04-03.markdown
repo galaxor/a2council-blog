@@ -4,6 +4,13 @@ title:  Ann Arbor City Council Preview for Monday, 2023-04-03
 date:   2023-03-31 22:47:00 -0400
 categories: a2council preview
 tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris
+public_hearings:
+  - url:  "#ph-1--b-1-carbon-monoxide-detectors"
+    desc: "PH-1: Carbon Monoxide Detectors"
+  - url:  "#ph-2--b-2-north-maple-apartments-zoning-and-ph-3--db-2-site-plan"
+    desc: "PH-2: North Maple Apartments Zoning"
+  - url:  "#ph-2--b-2-north-maple-apartments-zoning-and-ph-3--db-2-site-plan"
+    desc: "PH-3: North Maple Apartments Site Plan"
 ---
 <style>.post-content { font-size: 1.3rem; }</style>
 
