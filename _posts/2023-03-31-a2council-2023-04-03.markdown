@@ -17,6 +17,8 @@ But mostly, it seems like a light agenda.
 
 ... maybe a little _too_ light!  I want MOAR housing, and MOAR transitioning away from car culture!  We've got crises on our hands here, people.  We need big systemic changes.  I want us to be making such big changes that people start to get uncomfortable!
 
+<!--more-->
+
 <dl class="infobox">
 <dt class="datetime">Date</dt><dd class="datetime h-event"><time class="dt-start" datetime="2023-04-03T19:00-0400">Monday, April 3, 2023, at 7pm</time></dd>
 <dt class="agenda">Agenda</dt><dd class="agenda"><a href="https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062170&GUID=EEEAD186-B47B-4544-9B2D-E206192F105A&Options=info|&Search=">https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062170&GUID=EEEAD186-B47B-4544-9B2D-E206192F105A&Options=info|&Search=</a></dd>
@@ -53,36 +55,8 @@ This is all good stuff, of course, but could be better.  They're going to have 6
 
 Furthermore, I think it's kind of sad that this type of development has to be done with a <abbr title="Planned Unit Development">PUD</abbr> rezoning.  A four-story, 79-unit apartment buildings on a transit line and near a school?  This is exactly the kind of stuff we should want!  Instead, our zoning code has made it illegal to build here, and this is treated as a special exception, with lots and lots of associated process, which is expensive, time-consuming, and risky for the developers, which means we're not getting this kind of stuff as fast as we could!  It should have been possible to make this building using an existing zoning code, and not the more complicated PUD zoning.
 
-<div id="n-maple-apts"></div>
-<script src="/assets/leaflet/leaflet.js"></script>
-<link href="/assets/leaflet/leaflet.css" rel="stylesheet"/>
-<script>
-// Where you want to render the map.
-var element = document.getElementById('n-maple-apts');
+{% include map.html boxid="n-maple-apts" text="Proposed site of N Maple Apts" lat=42.29890735421941 lon=-83.78157303066777 zoom=16 %}
 
-// Height has to be set. You can do this in CSS too.
-element.style = 'height:400px;';
-
-// Target's GPS coordinates.
-var lat            = 42.29890735421941;
-var lon            = -83.78157303066777;
-var zoom           = 16;
-var target = L.latLng(lat, lon);
-
-// Create Leaflet map on map element.
-var map = L.map(element);
-
-// Add OSM tile layer to the Leaflet map.
-L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
-
-// Set map's center to target with zoom.
-map.setView(target, zoom);
-
-// Place a marker on the same location.
-L.marker(target).addTo(map);
-</script>
 
 ## [DC-1: Pollinator Habitat](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6114207&GUID=9D5AB69B-D0A1-4C6E-B0CB-9BE70362E838&Options=&Search=)
 
