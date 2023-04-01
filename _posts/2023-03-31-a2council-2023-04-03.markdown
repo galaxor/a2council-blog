@@ -53,7 +53,7 @@ This is all good stuff, of course, but could be better.  They're going to have 6
 Furthermore, I think it's kind of sad that this type of development has to be done with a <abbr title="Planned Unit Development">PUD</abbr> rezoning.  A four-story, 79-unit apartment buildings on a transit line and near a school?  This is exactly the kind of stuff we should want!  Instead, our zoning code has made it illegal to build here, and this is treated as a special exception, with lots and lots of associated process, which is expensive, time-consuming, and risky for the developers, which means we're not getting this kind of stuff as fast as we could!  It should have been possible to make this building using an existing zoning code, and not the more complicated PUD zoning.
 
 <div id="n-maple-apts" style="height:400px"></div>
-  <script src="https://www.openlayers.org/api/OpenLayers.js"></script>
+  <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
 <script>
     var lat            = 42.29890735421941;
     var lon            = -83.78157303066777;
