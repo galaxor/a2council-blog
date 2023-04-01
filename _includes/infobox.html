@@ -12,6 +12,9 @@ Meeting Details
   <th class="agenda">Agenda</th><td class="agenda"><a class="agenda" href="{{ include.agenda|escape }}">Read the agenda here</a></td>
 </tr>
 <tr>
+  <th class="votes">Voting Chart</th><td class="votes">{% if include.votes %}<a class="voting-chart" href="{{ include.votes|escape }}">{{ include.votes|escape }}</a>{% else %}Soon after the meeting, the voting chart will be available at <a class="voting-chart" href="https://a2council.vote/">https://a2council.vote/</a>. I will put the link here at that time.{% endif %}</td>
+</tr>
+<tr>
   <th class="zoom">Zoom</th><td class="zoom"><a href="https://a2gov.org/councilzoom">https://a2gov.org/councilzoom</a></td>
 </tr>
 {% if include.mtgid %}
