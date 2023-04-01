@@ -1,0 +1,67 @@
+---
+layout: post
+title:  Ann Arbor City Council Preview for <time class="dtstart" datetime="2023-04-03">Monday, 2023-04-03</time>
+date:   2023-03-31 22:47:00 -0400
+categories: a2council preview
+tags: 
+---
+
+## [CA-4: Opioid Settlement](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6103430&GUID=664614CA-03AB-4E08-A6E9-6845E36BD75E&Options=&Search=&FullText=1)
+
+[In 2021, a coalition of state attorneys general](https://www.npr.org/2021/07/21/1018881195/state-attorneys-general-26-billion-opioid-settlement) reached [a settlement with opioid manufacturers](https://nationalopioidsettlement.com/executive-summary/), in which the pharmaceutical companies agreed to pay $26 billion to state and local governments for their role in the opioid crisis.  The city of Ann Arbor has already been getting money from this settlement.  But now, some pharmacies have been taken out of the main settlement, so we get to get extra money from them, if the city opts in to it.  
+
+It's on the consent agenda and is probably going to be agreed to without comment, but I wanted to note a couple things:
+
+Responses to the opioid epidemic have [made it difficult](https://www.forbes.com/sites/andrewpulrang/2021/03/17/people-with-chronic-pain-are-claiming-a-voice-in-the-opioids-crisis/?sh=3e5522e26c27) for [people who suffer from chronic pain](https://nationalpain.org/) to obtain the medication they need.  I mean, if the city turns down this money, that doesn't change any of this, so it probably doesn't make sense to turn down this free money.
+
+However, I don't know how the city intends to use this money, and I don't know how it's been using the money that comes from the earlier settlement.  I worry that some of this money will go to the police or the broken criminal justice system, which will exacerbate the social problems of drug use, rather than alleviating them.  If the city intends to spend this money on police, then yes, it makes sense to turn down this free money.
+
+## [PH-1 = B-1: Carbon Monoxide Detectors](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6066147&GUID=FC934D70-B535-460B-AD6F-57691EB287CC&Options=&Search=)
+
+This is a law that would require landlords to have carbon monoxide detectors, even in old apartments.  They said at the last meeting that they're already required in new apartments. Presumably, this requirement comes from the building code.  But this law would extend it to old apartments as well.
+
+I expect this to be uncontroversial.  However, at the last meeting, a councilmember (I forget which one), said that the version that was approved at first reading had a loophole in it, such that this law may end up not applying to most apartments.  There is a [proposed amendment](http://a2gov.legistar.com/View.ashx?M=F&ID=11772470&GUID=41D531F8-450D-44D3-A70A-4C63955CB7D5) to the proposed law, which would close the loophole.  This may or may not cause a procedural problem.  No one could quite figure it out during the meeting last time.  The procedural problem is that, in order to pass a new ordinance, the proposed ordinance has to be posted, along with the announcement of the public hearing.  After the public hearing, if substantive amendments are proposed to the law, it has to come back for another public hearing in its final form.  However, if the changes are deemed not to be substantive, then it does not require another public hearing.  Also, it might be the case that they might not need to have a second public hearing as long as they post, in writing, the proposed amendment.  I seem to recall that happening once or twice in the past.  We'll see!
+
+## [PH-2 = B-2: North Maple Apartments Zoning](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6035859&GUID=39B047F9-86E1-4368-AA20-411DDA2260DF&Options=&Search=) and [PH-3 = DB-2: Site Plan](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6113008&GUID=DCC308AD-51E6-46CF-A079-17C0FAB214A0&Options=&Search=)
+
+Someone is looking to build a 4-story, 79-unit apartment building at and around <span class="h-adr adr"><span class="p-street-address street-address">1855 N Maple Rd</span><abbr class="p-locality locality" title="Ann Arbor"></abbr><abbr class="p-region region" title="MI"></abbr><abbr class="p-postal-code postal-code" title="48103"></abbr><abbr class="p-country-name country-name" title="United States"></abbr></span>.  It will be a 4-story apartment building, with studios, one, and two bedrooms.  Twelve of those units will be permanently below market rate.  That is, the rent would be set such that people making 60% of the area median income will be able to afford one of these apartments while spending no more than 30% of their income.  Since these are proposed to be included in the supplemental zoning regulations, these apartments can never not be below market rate, without asking the city council to change the zoning. The apartment building will be fully electrified - electric stoves and heating - and will have solar panels and onsite storage batteries.
+
+This is all good stuff, of course, but could be better.  They're going to have 65 parking spots (all EV).  There could be less parking!  This would make room for MOAR housing.  Furthermore, they are pledging apartments to be below market rate, and I'm not convinced that this is the best way for them to contribute to housing affordability.  It might be better for them to contribute money to the city's affordable housing fund, where the Ann Arbor Housing Commission can leverage it in the most effective way.  These types of development deals offer below-market-rate housing, not subsidized housing.  They set the rent at what the math shows is affordable to a person making 60% <abbr title="area median income">AMI</abbr>.  Until the last couple of years, there was no central clearinghouse for people eligible for below-market-rate housing, to connect them to these types of apartments.  Now, there is [a waitlist operated by the county](https://www.annarborwaitlist.com/).  Still, [it can be awkward to fill these types of apartments](https://www.mlive.com/news/ann-arbor/2021/02/finding-people-to-fill-2-affordable-housing-units-in-ann-arbor-turns-out-to-be-a-challenge.html).  If the developer had, instead, offered money to the affordable housing fund, then it would go toward offering more subsidized housing.
+
+Furthermore, I think it's kind of sad that this type of development has to be done with a <abbr title="Planned Unit Development">PUD</abbr> rezoning.  A four-story, 79-unit apartment buildings on a transit line and near a school?  This is exactly the kind of stuff we should want!  Instead, our zoning code has made it illegal to build here, and this is treated as a special exception, with lots and lots of associated process, which is expensive, time-consuming, and risky for the developers, which means we're not getting this kind of stuff as fast as we could!  It should have been possible to make this building using an existing zoning code, and not the more complicated PUD zoning.
+
+<div id="n-maple-apts" style="height:400px"></div>
+  <script src="http://www.openlayers.org/api/OpenLayers.js"></script>
+<script>
+    var lat            = 42.29890735421941;
+    var lon            = -83.78157303066777;
+    var zoom           = 16;
+
+    var fromProjection = new OpenLayers.Projection("EPSG:4326");   // Transform from WGS 1984
+    var toProjection   = new OpenLayers.Projection("EPSG:900913"); // to Spherical Mercator Projection
+    var position       = new OpenLayers.LonLat(lon, lat).transform( fromProjection, toProjection);
+
+    map = new OpenLayers.Map("n-maple-apts");
+    var mapnik         = new OpenLayers.Layer.OSM();
+    map.addLayer(mapnik);
+
+    var markers = new OpenLayers.Layer.Markers( "Markers" );
+    map.addLayer(markers);
+    markers.addMarker(new OpenLayers.Marker(position));
+
+    map.setCenter(position, zoom);
+</script>
+
+## [DC-1: Pollinator Habitat](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6114207&GUID=9D5AB69B-D0A1-4C6E-B0CB-9BE70362E838&Options=&Search=)
+
+This resolution would ask people to mow their lawns and rake their leaves less frequently, in order to provide better habitat for pollinators.  Sounds like fun, wheeee.  It doesn't actually change any laws or regulations, though.  Also, if you want, the city has an "[integrated pest management](http://www.a2gov.org/ipm)" guide you can follow when you're planning what to plant in your yard.
+
+## [DC-2: More money for tree branch cleanup](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6116839&GUID=D0E12127-2529-4839-A8E3-0F38BA871249&Options=&Search=)
+
+Remember the big ice storm and the big snow storm from like a month ago or whatever?  Remember how it knocked down a bunch of tree branches?  The city's been trying to clean those up, and have been asking people to put the debris by on their easements, by the side of the road.  They've hired some kind of big claw truck to pick up those branches.  They're working on picking it all up, but it's apparently expensive!  They've already spend $250,000 on it - it was an emergency purchase by the city administrator, done without requiring council approval or an open bidding process, because it was declared to be an emergency expenditure.  The city's laws allow this.  But now, they need an additional $200,000 to (hopefully) finish the job.  Because there's still some time and money left on the original expenditure, it's no longer an emergency, so the city administrator is asking the council to approve the spending.
+
+This is a total of $450,000 to be spent on branch cleanup, and it will come from the extra money in the city's solid waste fund.
+
+I guess this all makes sense.  But it does kind of seem sad to spend this much money on it.  Remember in 2018, when $450,000 was the amount of money raised for pedestrian safety improvements, by the whole 40/40/20 plan?  That stuff makes permanent and systemic changes to the way the city is designed.  But this year, we're gonna blow $450,000 on helping single-family homeowners clean their lawns up.  Whatever, I can't think of a better way to get this accomplished.  Like, we could ask people to cut up those branches themselves, and slowly stuff them into their compost bins.  But that sounds like a recipe for it just never happening.  Do I really want to live among piles of branches for the rest of my life?
+
+Also, I swear I remember city administrator Milton Dohoney saying, at the beginning of the last city council meeting, that this would cost $750,000.  So, if we can get it for only $450,000, then hey, that's better than I thought.  But also, maybe that means this won't cover the whole amount, and we'll have to spend the other $300,000 later??  We'll see.
