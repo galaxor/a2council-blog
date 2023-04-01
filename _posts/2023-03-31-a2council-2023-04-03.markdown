@@ -5,6 +5,7 @@ date:   2023-03-31 22:47:00 -0400
 categories: a2council preview
 tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris
 ---
+<style>.post-content { font-size: 1.3rem; }</style>
 
 <span class="h-event">The next <span class="p-name">Ann Arbor City Council meeting</span> will be <time class="dt-start" datetime="2023-04-03T19:00-0400">Monday, April 3, 2023, at 7pm</time>.</span>
 
