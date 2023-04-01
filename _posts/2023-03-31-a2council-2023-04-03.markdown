@@ -72,8 +72,8 @@ var target = L.latLng(lat, lon);
 var map = L.map(element);
 
 // Add OSM tile layer to the Leaflet map.
-L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
 // Set map's center to target with zoom.
