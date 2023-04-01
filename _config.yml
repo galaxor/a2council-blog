@@ -15,12 +15,14 @@ lang: en
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Detroit
 
+excerpt_separator: <!--more-->
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: A2Council Info # the main title
 
-tagline: Ann Arbor City council previews and wrap-ups, by Michelle Hughes # it will display as the sub-title
+tagline: Ann Arbor City council previews and wrap-ups. News and analysis by Michelle Hughes # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Ann Arbor, Michigan City Council previews and wrap-ups. News and analysis, by Michelle Hughes.
