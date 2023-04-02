@@ -3,8 +3,11 @@ layout: post
 title:  Ann Arbor City Council Preview for Monday, 2023-04-03
 date:   2023-03-31 22:47:00 -0400
 meeting_date: 2023-04-03 19:00:00 -0400
+image:
+  path: /assets/2023-04-03/n-maple-apts.jpg
+  alt: An architectural rendering of what North Maple Apartments might look like when built - a one-story gym and community building, mostly in glass, next to a four-story apartment building in that modern style, with an articulated facade and three different materials represented.
 categories: a2council preview
-tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris
+tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris dte public-power seu
 public_hearings:
   - url:  "#ph-1--b-1-carbon-monoxide-detectors"
     desc: "PH-1: Carbon Monoxide Detectors"
@@ -24,6 +27,8 @@ But mostly, it seems like a light agenda.
 ... maybe a little _too_ light!  I want MOAR housing, and MOAR transitioning away from car culture!  We've got crises on our hands here, people.  We need big systemic changes.  I want us to be making such big changes that people start to get uncomfortable!
 
 <!--more-->
+
+## Meeting Details
 
 {% include infobox.html 
   date    = "2023-04-03T19:00-0400"
@@ -71,3 +76,33 @@ This is a total of $450,000 to be spent on branch cleanup, and it will come from
 I guess this all makes sense.  But it does kind of seem sad to spend this much money on it.  Remember in 2018, when $450,000 was the amount of money raised for pedestrian safety improvements, by the whole 40/40/20 plan?  That stuff makes permanent and systemic changes to the way the city is designed.  But this year, we're gonna blow $450,000 on helping single-family homeowners clean their lawns up.  Whatever, I can't think of a better way to get this accomplished.  Like, we could ask people to cut up those branches themselves, and slowly stuff them into their compost bins.  But that sounds like a recipe for it just never happening.  Do I really want to live among piles of branches for the rest of my life?
 
 Also, I swear I remember city administrator Milton Dohoney saying, at the beginning of the last city council meeting, that this would cost $750,000.  So, if we can get it for only $450,000, then hey, that's better than I thought.  But also, maybe that means this won't cover the whole amount, and we'll have to spend the other $300,000 later??  We'll see.
+
+## DB-1: [Accountability for DTE](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6066146&GUID=AFBC2258-DF58-450D-9696-FA0B37A44FBB&Options=&Search=)
+
+Remember a little while ago when there were ice storms and blizzards and people were without power for over a week, and people had to stay in warming centers and stuff?  We were all super mad at DTE for reaping huge profits and failing to invest in the maintenance of the power grid.  If they hadn't been so greedy, there wouldn't have been such a huge disaster here in Ann Arbor.
+
+At the next city council meeting after the storms (2023-03-06), city council considered a resolution in response to this anger.  It turns out that we don't actually have much leverage over DTE at this time, so the proposed resolution did little more than ask the state to pass some new regulations holing DTE accountable.
+
+However, one of the other things the resolution did was ask that DTE have a non-voting seat on the [Energy Commission](http://a2gov.legistar.com/Page.aspx?M=Q).  A lot of people felt like this was the exact wrong approach.  We [heard a lot of public commenters](https://www.youtube.com/watch?v=2LRcNmP-ysI), at that meeting, saying that DTE should not have that type of influence over the commission.  A lot of these people were advocates from the group [Ann Arbor for Public Power](https://annarborpublicpower.org/), which wants to establish a municipal public utility, and buy all the power distribution infrastructure that is currently owned by DTE.
+
+[The result of the deliberations](https://a2council.vote/post/council-meeting-2023-03-06/) at that meeting was that the city council referred the resolution to the energy commission, so they could come up with a proposal that better represented these opinions.
+
+So the proposal came back at to the city council, with the energy commission's input, on 2023-03-20.  At that meeting, [it was postponed](https://a2council.vote/post/council-meeting-2023-03-20/), this time so that the city's legal staff had a chance to look over the changes.
+
+Finally, the proposal is coming back to city council for a third time.  I'm a little concerned that, even if it passes now, the sense of urgency will be gone from the state legislators, and the resolution will not light the fire under them that it could have if it was passed more quickly.  However, I don't really expect it to have made that much of a difference at the state level even if it had been passed immediately.  That's why I'm being pretty vague about the actual things that the resolution asks the state to do.  They're probably all good ideas, but there's a lot of writing in there, and none of those good ideas are very likely to happen, so I haven't actually read it cover to cover, and I don't know what changes the energy commission made.  Or the legal staff.  If you're into that kind of thing, though, I'm sure it's a fun read.  Knock yourself out.  And I hope I'm wrong, and some of the good stuff in there actually does come to pass.
+
+There are a couple of initiatives that I'm a little more excited about, in terms of having the potential to give Ann Arbor a more resilient and sustainable energy future:
+
+* The resolution, [passed at the 2023-03-20 meeting](https://a2council.vote/post/council-meeting-2023-03-20/), to strongarm DTE for sustainability and resiliency concessions using [natural gas franchise negotiations](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6056211&GUID=FCD3A35E-BC18-4FA3-894F-D8979C15DFA2&Options=&Search=) as our point of leverage.
+* The [Sustainable Energy Utility](https://www.a2gov.org/departments/sustainability/Sustainability-Me/Pages/Ann-Arbor's-Sustainable-Energy-Utility-%28SEU%29.aspx) that the city's [Office of Sustainability and Innovation](https://www.a2gov.org/departments/sustainability/Pages/default.aspx) is working on.
+* The [Ann Arbor for Public Power](https://annarborpublicpower.org/) push to establish a municipal utility and buy DTE's infrastructure assets.  Even if this effort doesn't meet those actual goals, it gives us a powerful lever in negotiating with DTE, and those levers are hard to come by.  Word on the street is this is what happened with a similar initiative in Boulder, CO.  They didn't establish a public power utility, but they got so many concessions from the private utility that they achieved many of their goals anyway.
+
+
+## DS-1: [Water Revenue Bond Issue Intent](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6103429&GUID=31242111-9FDE-46A7-BE20-FDCE134B1D5B&Options=&Search=&FullText=1)
+
+If passed, this would serve as a notice that the city intends to sell $45 million in bonds to pay for the water supply system.  These would be revenue bonds.  That is, the city wouldn't be burdened by debt in its general fund.  Instead, the loans would be paid off from revenue from the city's water customers' bills, over the course of 30 years.
+
+Information about this is pretty light in the city council packet, but according to [councilmember Briggs's blog](https://us3.campaign-archive.com/?u=a346f7bb4c7ddb07e6f535e4b&id=8245ee85d1):
+> This bond will help fund the planned for and [necessary improvements to the City's Water Treatment Plant](http://www.a2wtpfacilityplan.com/) included in the [Water Capital Improvements Plan](https://www.a2gov.org/departments/water/pages/article.aspx?i=35). 
+
+If this passes, we don't actually have the power to sell the bonds yet.  Instead, there's a 45-day period where people can lodge protest petitions to stop it from happening.  _Then_ we can sell the bonds.
