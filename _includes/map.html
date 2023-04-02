@@ -1,4 +1,7 @@
+<figure>
+{% if include.caption %}<figcaption>{{ include.caption | escape }}</figcaption>{% endif %}
 <div id="{{ include.boxid }}"></div>
+</figure>
 <script src="/assets/leaflet/leaflet.js"></script>
 <link href="/assets/leaflet/leaflet.css" rel="stylesheet"/>
 <script>

@@ -61,7 +61,7 @@ This is all good stuff, of course, but could be better.  They're going to have 6
 
 Furthermore, I think it's kind of sad that this type of development has to be done with a <abbr title="Planned Unit Development">PUD</abbr> rezoning.  A four-story, 79-unit apartment buildings on a transit line and near a school?  This is exactly the kind of stuff we should want!  Instead, our zoning code has made it illegal to build here, and this is treated as a special exception, with lots and lots of associated process, which is expensive, time-consuming, and risky for the developers, which means we're not getting this kind of stuff as fast as we could!  It should have been possible to make this building using an existing zoning code, and not the more complicated PUD zoning.
 
-{% include map.html boxid="n-maple-apts" text="Proposed site of N Maple Apts" lat=42.29890735421941 lon=-83.78157303066777 zoom=16 %}
+{% include map.html boxid="n-maple-apts" caption="Interactive Map: Proposed Site of North Maple Apartments" text="Proposed site of N Maple Apts" lat=42.29890735421941 lon=-83.78157303066777 zoom=16 %}
 
 
 ## DC-1: [Pollinator Habitat](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6114207&GUID=9D5AB69B-D0A1-4C6E-B0CB-9BE70362E838&Options=&Search=)
