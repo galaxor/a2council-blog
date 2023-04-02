@@ -11,6 +11,25 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
+/* Show the entire preview in the article list */
+#post-list .post-preview .post-content > p {
+  margin: 0;
+  overflow: auto;
+  text-overflow: ellipsis;
+  display: block;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+#post-list .post-preview a {
+  color: var(--link-color);
+  text-decoration: underline;
+}
+
+#post-list .post-preview h1 {
+  color: var(--link-color);
+}
+
 /* I want post content to be bigger! */
 .post-content { 
   font-size: 1.3rem; 

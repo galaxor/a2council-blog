@@ -5,6 +5,14 @@ date:   2023-03-26 17:23:50 -0400
 categories: a2council wrapup
 tags: storm debris risk-fund that-damn-bridge mobility spin ebikes housing 121-e-catherine 415-w-washington co-detectors energy natural-gas natural-gas-franchise dte city-flag social-work schools aaps pto
 ---
+
+The morning after the <span class="h-event"><span class="p-name">Ann Arbor City Council meeting</span> on <time class="dt-start" datetime="2023-03-20T19:00-0400">Monday, March 20, 2023</time></span>, I wrote some notes to myself to organize my thoughts while I talked on my <a href="https://wcbn.org/">radio show</a> about what happened at the meeting.  The notes were extensive enough that I thought to myself "I should start writing these up for real and making them into blog posts."  I didn't fix this one up, though.  These are the just the notes to myself.  For future meetings, I hope to have more detailed information, but I figured it'd be more helpful than not to put these notes up as is.
+
+See also, the <a class="voting-chart" href="https://a2council.vote/post/council-meeting-2023-03-20/">voting chart</a> for this meeting.
+
+<!--more-->
+
+
 ## Storm Damage
 
 The city will have spent $750k removing all the tree debris taken down by the storms.  Give ‘em another month.
