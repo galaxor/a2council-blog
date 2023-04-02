@@ -6,6 +6,7 @@ meeting_date: 2023-04-03 19:00:00 -0400
 image:
   path: /assets/2023-04-03/n-maple-apts.jpg
   alt: An architectural rendering of what North Maple Apartments might look like when built - a one-story gym and community building, mostly in glass, next to a four-story apartment building in that modern style, with an articulated facade and three different materials represented.
+  credit: "From the <a href=\"http://a2gov.legistar.com/View.ashx?M=F&ID=11680941&GUID=9810C26C-FD44-46FB-BB1C-F6047C1131E6\">project's proposal documents</a>"
 categories: a2council preview
 tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris dte public-power seu
 public_hearings:

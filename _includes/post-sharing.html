@@ -49,6 +49,7 @@ a.Mastodon { display: none; }
 
 
 <div class="share-wrapper">
+  <nav aria-label="Share">
   <span class="share-label text-muted mr-1">{{ site.data.locales[site.lang].post.share }}</span>
   <span class="share-icons">
     {% capture title %}{{ page.title }} - {{ site.title }}{% endcapture %}
@@ -74,4 +75,5 @@ a.Mastodon { display: none; }
     </i>
 
   </span>
+  </nav>
 </div>
