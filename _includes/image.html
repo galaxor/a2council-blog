@@ -1,6 +1,6 @@
 <div class="mt-3 mb-3">
 <figure>
 <img src="{{ include.src }}" alt="{{ include.alt | escape }}" class="lazyloaded" width="1200" height="630" />
-<figcaption class="text-center pt-2 pb-2">{{ include.caption | escape }}{% if include.credit %}<p>{{ include.credit }}</p></figcaption>
+<figcaption class="text-center pt-2 pb-2">{{ include.caption | escape }}{% if include.credit %}<p>{{ include.credit }}</p>{% endif %}</figcaption>
 </figure>
 </div>

@@ -62,14 +62,14 @@ There's already enough suburan nonsense around there.  Other banks with drive-th
   src     = "/assets/2023-04-04/Current-2929-Plymouth-Rd.jpg"
   alt     = "Google Maps photo of the dingbat office building currently at 2929 Plymouth Road"
   caption = "The dingbat office building currently at 2929 Plymouth Road"
-  credit  = "From <a href="https://goo.gl/maps/6fp3ku9rbio3qzRi7">Google street view</a>"
+  credit  = "From <a href=\"https://goo.gl/maps/6fp3ku9rbio3qzRi7\">Google street view</a>"
 %}
 
 {% include image.html 
   src     = "/assets/2023-04-04/Current-UMCU.jpg"
   alt     = "Google Maps photo of the current location of the UMCU"
   caption = "The current location of the UMCU."
-  credit  = "From <a href="https://goo.gl/maps/dL9NBjgtynByy9vQ8">Google street view</a>"
+  credit  = "From <a href=\"https://goo.gl/maps/dL9NBjgtynByy9vQ8\">Google street view</a>"
 %}
 
 
