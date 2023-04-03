@@ -1,0 +1,37 @@
+<table class="infobox details">
+<caption>
+{{ include.caption | escape }}
+</caption>
+
+<tbody>
+{% capture time %}{{ include.date|date: "%l:%M%P" }}{% endcapture %}
+<tr>
+  <th class="datetime">Date</th><td class="datetime h-event"><time class="dt-start" datetime="{{ include.date }}">{{ include.date|date: "%A, %B %e, %Y" }}{% if time %}, at {{ time }}{% endif %}</time></td>
+</tr>
+<tr>
+  <th class="agenda">Agenda</th><td class="agenda"><a class="agenda" href="{{ include.agenda|escape }}">Read the agenda here</a></td>
+</tr>
+{% if include.mtgid %}
+  <tr>
+    <th class="phone">Phone</th><td class="phone"><a class="tel" href="tel:888-788-0099">888-788-0099</a> Meeting ID = {{ include.mtgid|escape }}, Participant ID = #</td>
+  </tr>
+{% endif %}
+<tr>
+  <th class="youtube">Youtube</th><td class="youtube">{% if include.youtube %}<a class="youtube" href="{{ include.youtube|escape }}">Watch on Youtube</a>{% else %}The link will appear on the <a class="youtube" href="https://www.youtube.com/@CTNAnnArbor">CTN Youtube channel</a> when the meeting starts. I'll update this link at that time.{% endif %}</td>
+</tr>
+<tr>
+  <th class="thread">Live-tooting</th><td class="thread">{% if include.thread %}<a class="mastodon" href="{{ include.thread|escape }}">Read my Mastodon Thread</a>. My posts are also cross-posted to Twitter, but the cross-poster does not put them together in a thread, so it's best to just read <a class="twitter" href="https://twitter.com/search?q=%23A2Council&src=typed_query&f=live">the #A2Council hashtag on Twitter</a>{% else %}I may or may not be live-tooting the meeting from my <a class="mastodon" href="https://a2mi.social/@MegaMichelle">Mastodon account</a>. If I do, I'll post the link to the thread here at that time.  It will also cross-post to my <a class="twitter" href="https://twitter.com/xMegaMichellex">Twitter account</a>, but the posts will not be together in a thread there.{% endif %}</td>
+</tr>
+<tr>
+  <th class="hashtag">Hashtag</th><td class="hashtag">There may also be commentary by myself and/or others on both the <a class="mastodon" href="https://a2mi.social/tags/A2Council">#A2Council hashtag on Mastodon</a> and the <a class="twitter" href="https://twitter.com/search?q=%23A2Council&src=typed_query&f=live">#A2Council hashtag on Twitter</a>.</td>
+</tr>
+</tbody>
+</table>
+
+<table class="infobox get-involved">
+<caption>How to get involved</caption>
+<tbody>
+<tr class="email-council"><th>Email {{ include.email_name }}</th><td>You can email {{ include.email_name }} at <a class="email" href="mailto:include.email">CityCouncil@a2gov.org</a></td></tr>
+<tr class="public-hearing"><th>Public Comment</th><td>You don't have to sign up in advance to speak at the meeting. During the meeting, you can call at <a class="tel" href="tel:888-788-0099">888-788-0099</a> Meeting ID = {{ include.mtgid|escape }}, Participant ID = #.</td></tr>
+</tbody>
+</table>
