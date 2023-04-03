@@ -35,6 +35,8 @@ But mostly, it seems like a light agenda.
   date    = "2023-04-03T19:00-0400"
   agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062170&GUID=EEEAD186-B47B-4544-9B2D-E206192F105A&Options=info|&Search="
   mtgid   = "942 1273 2148"
+  thread  = "https://a2mi.social/@MegaMichelle/110137368315757929"
+  youtube = "https://www.youtube.com/watch?v=1b9N_zFcJXI"
 %}
 
 ## CA-4: [Opioid Settlement](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6103430&GUID=664614CA-03AB-4E08-A6E9-6845E36BD75E&Options=&Search=&FullText=1)
