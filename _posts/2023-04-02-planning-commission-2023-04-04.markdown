@@ -58,19 +58,20 @@ There's already enough suburan nonsense around there.  Other banks with drive-th
   zoom=16
 %}
 
-<div class="mt-3 mb-3">
-<figure>
-<img src="/assets/2023-04-04/Current-2929-Plymouth-Rd.jpg" alt="Google Maps photo of the dingbat office building currently at 2929 Plymouth Road" class="lazyloaded" width="1200" height="630" />
-<figcaption class="text-center pt-2 pb-2">The dingbat office building currently at 2929 Plymouth Road<p>From <a href="https://goo.gl/maps/6fp3ku9rbio3qzRi7">Google street view</a></p></figcaption>
-</figure>
-</div>
+{% include image.html 
+  src     = "/assets/2023-04-04/Current-2929-Plymouth-Rd.jpg"
+  alt     = "Google Maps photo of the dingbat office building currently at 2929 Plymouth Road"
+  caption = "The dingbat office building currently at 2929 Plymouth Road"
+  credit  = "From <a href="https://goo.gl/maps/6fp3ku9rbio3qzRi7">Google street view</a>"
+%}
 
-<div class="mt-3 mb-3">
-<figure>
-<img src="/assets/2023-04-04/Current-UMCU.jpg" alt="Google Maps photo of the current location of the UMCU" class="lazyloaded" width="1200" height="630" />
-<figcaption class="text-center pt-2 pb-2">The current location of the UMCU.<p>From <a href="https://goo.gl/maps/dL9NBjgtynByy9vQ8">Google street view</a></p></figcaption>
-</figure>
-</div>
+{% include image.html 
+  src     = "/assets/2023-04-04/Current-UMCU.jpg"
+  alt     = "Google Maps photo of the current location of the UMCU"
+  caption = "The current location of the UMCU."
+  credit  = "From <a href="https://goo.gl/maps/dL9NBjgtynByy9vQ8">Google street view</a>"
+%}
+
 
 ## Discussion of [Downtown Development Premiums](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6114881&GUID=C4DDDE5C-FF45-4A5E-B851-0D2815506809&Options=&Search=)
 
