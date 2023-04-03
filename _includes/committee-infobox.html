@@ -31,7 +31,7 @@
 <table class="infobox get-involved">
 <caption>How to get involved</caption>
 <tbody>
-<tr class="email-council"><th>Email {{ include.email_name }}</th><td>You can email {{ include.email_name }} at <a class="email" href="mailto:include.email">CityCouncil@a2gov.org</a></td></tr>
+<tr class="email-council"><th>Email {{ include.email_name }}</th><td>You can email {{ include.email_name }} at <a class="email" href="mailto:{{ include.email }}">{{ include.email }}</a></td></tr>
 <tr class="public-hearing"><th>Public Comment</th><td>You don't have to sign up in advance to speak at the meeting. During the meeting, you can call at <a class="tel" href="tel:888-788-0099">888-788-0099</a> Meeting ID = {{ include.mtgid|escape }}, Participant ID = #.</td></tr>
 </tbody>
 </table>
