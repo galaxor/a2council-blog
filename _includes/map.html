@@ -14,8 +14,15 @@ element.style = 'height:400px;';
 // Target's GPS coordinates.
 var lat            = {{ include.lat }};
 var lon            = {{ include.lon }};
-var zoom           = {{ include.zoom }};
 var target = L.latLng(lat, lon);
+
+{% if include.lat2 %}
+var lat2           = {{ include.lat2 }};
+var lon2           = {{ include.lon2 }};
+var target2 = L.latLng(lat2, lon2);
+{% endif %}
+
+var zoom           = {{ include.zoom }};
 
 // Create Leaflet map on map element.
 var map = L.map(element);
@@ -28,8 +35,17 @@ L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 // Set map's center to target with zoom.
 map.setView(target, zoom);
 
+// Place the map markers.
+
 // Place a marker on the same location.
 L.marker(target).addTo(map)
   {% if include.text %}.bindPopup(`{{ include.text|escape }}`).openPopup(){% endif %}
 ;
+
+{% if include.lat2 %}
+L.marker(target2).addTo(map)
+  {% if include.text2 %}.bindPopup(`{{ include.text2|escape }}`){% endif %}
+;
+{% endif %}
+
 </script>
