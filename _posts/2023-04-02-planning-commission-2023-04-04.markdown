@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Planning Commission Preview for Monday, 2023-04-04
+title:  Planning Commission Preview for Tuesday, 2023-04-04
 date:   2023-04-02 18:01:00 -0400
 meeting_date: 2023-04-04 19:00:00 -0400
 image:
@@ -11,7 +11,7 @@ categories: planning-commission preview
 tags: 2929-plymouth-rd plymouth-rd credit-union umcu downtown-premiums
 ---
 
-<span class="h-event">The next <span class="p-name">[Ann Arbor Planning Commission](https://www.a2gov.org/departments/planning/development-review/Pages/CityPlanningCommission.aspx) meeting</span> will be <time class="dt-start" datetime="2023-04-04T19:00-0400">Monday, April 4, 2023, at 7pm</time>.</span>
+<span class="h-event">The next <span class="p-name">[Ann Arbor Planning Commission](https://www.a2gov.org/departments/planning/development-review/Pages/CityPlanningCommission.aspx) meeting</span> will be <time class="dt-start" datetime="2023-04-04T19:00-0400">Tuesday, April 4, 2023, at 7pm</time>.</span>
 
 There's a thing on there that I'm worried about:  [A proposed new branch](#proposed-university-of-michigan-credit-union-at-2929-plymouth-road) of the [University of Michigan Credit Union](https://umcu.org/) at 2929 Plymouth Road, which is currently a weird [dingbat-style](https://en.wikipedia.org/wiki/Dingbat_%28building%29) office building that I used to work in.  I think a standalone drive-through credit union is one of the worst possible uses of this land.
 
