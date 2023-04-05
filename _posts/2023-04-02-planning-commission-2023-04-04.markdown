@@ -26,6 +26,8 @@ Also on the agenda:  An [interesting-looking discussion](#discussion-of-downtown
   caption = "Planning Commission Meeting"
   agenda  = "http://a2gov.legistar.com/MeetingDetail.aspx?ID=1069297&GUID=199C787F-7175-4325-9F19-071F74C5826D&Options=info|&Search="
   mtgid   = "977 6634 1226"
+  youtube = "https://www.youtube.com/watch?v=-qW6d6DrwgA"
+  thread  = "https://a2mi.social/@MegaMichelle/110143037248783442"
   email_name = "the planning commission"
   email   = "Planning@a2gov.org"
 %}
