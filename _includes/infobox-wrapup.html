@@ -1,0 +1,34 @@
+<table class="infobox details">
+<caption>
+Ann Arbor City Council Meeting
+</caption>
+
+<tbody>
+{% capture time %}{{ include.date|date: "%l:%M%P" }}{% endcapture %}
+<tr>
+  <th class="datetime">Date</th><td class="datetime h-event"><time class="dt-start" datetime="{{ include.date }}">{{ include.date|date: "%A, %B %e, %Y" }}{% if time %}, at {{ time }}{% endif %}</time></td>
+</tr>
+<tr>
+  <th class="agenda">Agenda</th><td class="agenda"><a class="agenda" href="{{ include.agenda|escape }}">Read the agenda here</a></td>
+</tr>
+<tr>
+  <th class="votes">Voting Chart</th><td class="votes">{% if include.votes %}<a class="voting-chart" href="{{ include.votes|escape }}">{{ include.votes|escape }}</a>{% else %}Soon after the meeting, the voting chart will be available at <a class="voting-chart" href="https://a2council.vote/">https://a2council.vote/</a>. I will put the link here at that time.{% endif %}</td>
+</tr>
+<tr>
+  <th class="youtube">Youtube</th><td class="youtube">{% if include.youtube %}<a class="youtube" href="{{ include.youtube|escape }}">Watch on Youtube</a>{% else %}The link will appear on the <a class="youtube" href="https://www.youtube.com/@CTNAnnArbor">CTN Youtube channel</a> when the meeting starts. I'll update this link at that time.{% endif %}</td>
+</tr>
+{% if include.thread %}
+<tr>
+  <th class="thread">Live-tooting</th><td class="thread"><a class="mastodon" href="{{ include.thread|escape }}">Read my live-posted Mastodon Thread</a></td>
+</tr>
+{% endif %}
+</tbody>
+</table>
+
+<table class="infobox get-involved">
+<caption>How to get involved</caption>
+<tbody>
+<tr class="contact-rep"><th>Contact Your Rep</th><td>You can find <a href="https://www.a2gov.org/departments/city-council/Pages/Home.aspx">your representative's contact info</a> on the city's website.</td></tr>
+<tr class="email-council"><th>Email the entire Council</th><td>You can email the entire city council at <a class="email" href="mailto:CityCouncil@a2gov.org">CityCouncil@a2gov.org</a></td></tr>
+</tbody>
+</table>
