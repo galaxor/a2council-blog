@@ -1,0 +1,48 @@
+<figure>
+{% if include.caption %}<figcaption>{{ include.caption | escape }}</figcaption>{% endif %}
+<div id="{{ include.boxid }}"></div>
+</figure>
+<script src="/assets/leaflet/leaflet.js"></script>
+<link href="/assets/leaflet/leaflet.css" rel="stylesheet"/>
+<script>
+// Where you want to render the map.
+var element = document.getElementById('{{ include.boxid }}');
+
+// Height has to be set. You can do this in CSS too.
+element.style = 'height:400px;';
+
+// Target's GPS coordinates.
+var targets = [];
+
+{% for location in include.locations %}
+var lat            = {{ location.lat | escape }};
+var lon            = {{ location.lon | escape  }};
+targets.push({text: `{{ location.text | escape }}`,
+              latlon: L.latLng(lat, lon)});
+{% endfor %}
+
+var zoom           = {{ include.zoom }};
+
+// Create Leaflet map on map element.
+var map = L.map(element);
+
+// Add OSM tile layer to the Leaflet map.
+L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+// Set map's center to target with zoom.
+map.setView(targets[0].latlon, zoom);
+
+// Place the map markers.
+
+// Place a marker on the same location.
+var first = true;
+for (const target of targets) {
+  var thingy = L.marker(target.latlon).addTo(map).bindPopup(target.text);
+  if(first) { 
+    thingy.openPopup(); 
+    first=false;
+  }
+}
+</script>

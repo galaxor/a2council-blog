@@ -1,0 +1,137 @@
+---
+layout: post
+title:  Ann Arbor City Council Wrap-up for Monday, 2023-04-03
+date:   2023-04-05 18:19:00 -0400
+meeting_date: 2023-04-03 19:00:00 -0400
+categories: a2council wrap-up
+image:
+  path: /assets/2023-04-03/stormresponse.png
+  alt: "A screenshot of the city's storm response dashboard.  It is a map of the city, labelled 'Storm Event Small and Large and Branch Pickup'.  On the left side, there is a caption, 'City of Ann Arbor Ice/Snow Storm Response'.  Below that are two boxes.  One, in green, says 'Areas: 9'.  The other, in white, says 'Total Areas: 30'.  The main map, in the center, has a caption, 'Status of storm response. Select the search icon to search for an address'.  There is a search icon and a hamburger menu.  Different areas of the city are colored in different colors, and it lists what day the branches are estimated to be cleared there."
+  caption: A screenshot of the city's storm response dashboard.  It says "Storm Event Small and Large and Branch Pickup"
+  credit: "<a href=\"https://a2gov.org/stormresponse\">https://a2gov.org/stormresponse</a>"
+tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris dte public-power seu
+
+map_locations_parks:
+  - text: Burns Park
+    lat: 42.26623843553206
+    lon: -83.72816083354608
+
+  - text: Bandemer Park
+    lat: 42.299174822996896
+    lon: -83.74403340060945
+
+  - text: Island Park
+    lat: 42.289990456429365
+    lon: -83.73009430171402
+
+  - text: Olson Park
+    lat: 42.31855609743126
+    lon: -83.7312047871179
+
+  - text: Southeast Area Park
+    lat: 42.23207048187221
+    lon: -83.70278251595788
+---
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> <time class="dt-start" datetime="2023-04-03T19:00-0400">Monday, April 3, 2023, at 7pm</time>.</span>  This is my wrap-up of what happened there.
+
+As I mentioned in [article previewing the meeting](/posts/a2council-2023-04-03/), the thing I was most excited about was North Maple Apartments.  And that passed unanimously!
+
+Another big thing that happened at the meeting was that $200k was approved to supplement the $250k already spent on post-storm tree cleanup, for a total of $450k.  They also announced the launch of a [post-storm tree cleanup dashboard](https://a2gov.org/stormresponse) where you can see when your neighborhood is likely to be cleaned up.
+
+Other things that were passed at the meeting:
+* Five more parks slated for ADA assessment.
+* Opioid settlement accepted.
+* New ordinance requiring carbon monoxide detectors in apartments.
+* DTE Accountability resolution.
+* Pollinator habitat resolution (it's the like last year's "[No Mow May](https://www.a2gov.org/departments/sustainability/Sustainability%20Natural%20Resources/Pages/No-Mow-May-Initiative.aspx)", but moreso).
+* $45m of revenue bonds to maintain the water system (mostly pipes).
+
+<!--more-->
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062170&GUID=EEEAD186-B47B-4544-9B2D-E206192F105A&Options=info|&Search="
+  votes   = "https://a2council.vote/post/council-meeting-2023-04-03/"
+  youtube = "https://www.youtube.com/watch?v=1b9N_zFcJXI"
+  thread  = "https://a2mi.social/@MegaMichelle/110137368315757929"
+  preview = "/posts/a2council-2023-04-03/"
+%}
+
+
+## CA-3: [Add 5 parks to ADA assessment](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6103434&GUID=5FF2EABD-621B-40A9-BA50-843633620774&Options=&Search=)
+
+In February 2022, the city council approved a [contract to evaluate the accessibility of all city-owned park facilities](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5393742&GUID=81DCDD3E-334E-4CED-8376-F7AC4DF663A2&Options=ID%7cText%7c&Search=R-22-020&FullText=1) for $210k.  The funding for this assessment was as follows:
+
+* $150k from the Parks Maintenance and Capital Improvements budget
+* $ 60k as a result of the Parks Fairness Resolution are available in the FY22 Parks & Recreation General Fund budget (the Parks Fairness Resolution ensures that parks gets at least 1% of whatever the general fund happens to be, so that they don't have to keep begging for funds).
+
+However, a few parks were apparently not included in this accessibility assessment.  Reading between the lines, it seems like maybe these parks are somehow not owned by the city, but are only run by the city?  Because the assessment was meant to include all city-owned parks.
+
+At any rate, the consultants came to us and said "Hey, for just $9k more, we can do the assessment of these other parks!" and at the city council meeting, the city council said "Yes Plz!" ([unanimously](https://a2council.vote/post/council-meeting-2023-04-03/)).
+
+The additional parks that will be covered by this $9k contract extension are:
+* [Bandemer](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/Bandemer.aspx)
+* [Burns](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/Burns.aspx)
+* [Island](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/Island.aspx)
+* [Olson](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/Olson.aspx)
+* [Southeast Area](https://www.a2gov.org/departments/Parks-Recreation/parks-places/Pages/SoutheastArea.aspx)
+
+Note that this is just an accessibility _assessment_.  We'll still have to spend additional funds at some point in order to actually make the accessibility improvements suggested by the report.
+
+You may have also noticed that I didn't list it in my [article previewing the meeting](/posts/a2council-2023-04-03/).  That's because I didn't notice it!
+
+{% include mapn.html
+  boxid="parks"
+  caption="Interactive Map: Additional Parks Which Will Be Getting an Accessibility Assessment"
+  locations=page.map_locations_parks
+  zoom=11 
+%}
+
+## CA-4: [Opioid settlement](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6103430&GUID=664614CA-03AB-4E08-A6E9-6845E36BD75E&Options=&Search=&FullText=1)
+
+The city was already receiving money from the [national opioid settlement](https://nationalopioidsettlement.com/executive-summary/) from 2021, in which certain pharmaceutical companies agreed to pay states and municipalities for their role in the opioid crisis.  But now, a few other companies are being made to pay separately.  It was up to the city to accept or not accept the settlement.  If they didn't accept the settlement, they could try to sue those companies individually, but would not have and would not have won.  They accepted the settlement.
+
+So the city will now be getting money from Allergan, Teva, CVS, and Walmart.
+
+In my [preview article](/posts/a2council-2023-04-03/), I expressed the concern that I don't want the money to be used to fund punitive responses to drugs, since in my view, drugs are a health problem more than anything else.  Someone called in to city council to give the same opinion, so I'm glad it was heard.
+
+Ultimately, the question of how to spend that money was not on the agenda, though, and there was no reason not to accept it.
+
+## PH-1 = B-1: [Carbon Monoxide Detectors](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6066147&GUID=FC934D70-B535-460B-AD6F-57691EB287CC&Options=&Search=)
+
+This law was not controversial and passed easily.  Carbon monoxide detectors are now required in all apartments, not just newly-built ones.  I suppose that means you can tell your landlord about this law.  Also, you could use the city's [Report a Problem](https://www.a2gov.org/services/Pages/Report-a-Problem.aspx) feature, and the city will to write to your landlord and tell them they're out of compliance with the law.  I use this feature when I visit a store whose bathroom does not have free menstrual supplies, because the law now requires them to.  Usually, the store gets a letter from the city, and then says "oh, we didn't know", and then puts free menstrual supplies in the bathroom.  So maybe it'll work for carbon monoxide detectors too.
+
+## B-2 and DB-2, [North Maple Apartments zoning](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6035859&GUID=39B047F9-86E1-4368-AA20-411DDA2260DF&Options=&Search=) and [Site Plan](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6113008&GUID=DCC308AD-51E6-46CF-A079-17C0FAB214A0&Options=&Search=)
+
+Approved.  79 apartments, 12 of which are below-market-rate (or payment-in-lieu).  All electric (15% of power).  Geothermal.  Super insulated.  Only 65 parking spots (all EV).  They’re gonna build a fancy crosswalk w/ safety island, and a covered bus shelter.  It’s right near Skyline High.  It’s taking over some township island to do it.
+
+It’s a PUD because the crummy zoning insists that this be low-density area, and someone wrote down that if we annex this land it should be R1B.  Boo, them!  Fix that document!
+
+A silly NIMBY opposed.  Describe waking up one day to find a "30 story skyscraper" in her backyard, and CM Song said “I hope we can change the conversation from ‘I was here first so I get to choose who my neighbors are” to “I want to share all these wonderful amenities with more neighbors.’”, and we’re all here for the same reasons:  Work, school, etc.
+
+CM Song is a “Nuclear Golden Retriever”.
+
+## Tree Cleanup
+
+They had already spent $250k on cleanup, and are asking for $200k more.  At the last meeting, Dohoney said $750k.  Does that mean we can expect another ask for money later?  Cuz this is only $450k.  Staff says “no clue, this is unprecedented.  Probably???”  Also, check out https://a2gov.org/stormresponse
+Mayor warns that this is gonna GET precedented real dang fast!  Climate change, y’all!  We should prepare for this in the future.
+
+## DTE Accountability
+
+This is a resolution asking the state to create more regulations to hold DTE accountable for their infrastructure failing during those storms and stuff.  It asks for a whole bunch of stuff that all seems like a good idea and I hope it happens.  The Energy Commission weighed in with other suggestions.  I don’t feel like it’s helpful to dwell on the specific suggestions, because they have to go through the state, and we’ll see if and when that happens.
+
+Things I like, to give us energy autonomy:
+* Natural gas franchise negotiation, passed at the last meeting.
+* SEU
+* Ann Arbor for Public Power
+
+## Pollinator Habitat
+
+City Council suggests that you mow less frequently, especially in the spring, and rake less frequently, in order to promote pollinators and biodiversity.  Check out the city’s “Integrated Pest Management” website for ideas on biodiverse lawn care.  https://a2gov.org/ipm.
+
+This doesn’t actually change any laws or anything.  Nobody’s gonna make you do or not do anything.  You’ve always had the ability to grow your lawn to 12”.  You’ve always had the ability to plant native plants.  (The city’s not offering to help with that).  This is just like “No Mow May” - a suggestion.
+
+## Water Bonds
+
+We are selling $45m of 30y revenue bonds to do capital improvements to the water system.  This is not for water treatment facility upgrades - that’s going to be funded by federal grants and stuff, probably.  No, this $45m is for fixing pipes that are already in the ground.
