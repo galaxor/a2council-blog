@@ -30,7 +30,8 @@ tail_includes:
   {% if page.image %}
     {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
     {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-    {% capture alt %}alt="{{ page.image.alt | default: "Preview Image" }}"{% endcapture %}
+    {% capture caption %}{% if page.image.caption %}{{ page.image.caption }}{% else %}{{ page.image.alt }}{% endif %}{% endcapture %}
+    {% capture alt %}alt="{{ page.image.alt | default: "Preview Image" | escape }}"{% endcapture %}
 
     {% capture lqip %}
       {% if page.image.lqip %}
@@ -41,8 +42,8 @@ tail_includes:
     <div class="mt-3 mb-3">
     <figure>
       <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip | strip }}>
-      {%- if page.image.alt -%}
-        <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}{% if page.image.credit %}<p>{{ page.image.credit }}</p>{% endif %}</figcaption>
+      {%- if caption -%}
+        <figcaption class="text-center pt-2 pb-2">{{ caption | escape }}{% if page.image.credit %}<p>{{ page.image.credit }}</p>{% endif %}</figcaption>
       {%- endif -%}
     </figure>
     </div>
