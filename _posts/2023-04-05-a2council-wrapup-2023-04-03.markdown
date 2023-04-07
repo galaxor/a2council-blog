@@ -58,6 +58,15 @@ Other things that were passed at the meeting:
   preview = "/posts/a2council-2023-04-03/"
 %}
 
+## Upcoming Public Meetings
+
+At the beginning of the city council meetings, councilmembers get a chance to speak on any topic.  Many of them choose to list the dates of public meetings they're aware of.  Here's the ones that Councilmember Lisa Disch announced (I emailed her to make sure I got the details right):
+
+Recycle Ann Arbor and Washtenaw County are planning a new [Drop-off Station](https://www.recycleannarbor.org/divisions/drop-off-station) off Platt Road.  There will be two public engagement meetings about this:
+
+* <span class="h-event"><span class="p-name">The Ann Arbor public meeting about the new Drop-Off Station</span> will be on <time class="dt-start" datetime="2023-04-13T18:30-0400"><strong>Thursday, April 13, 2023 at 6:30 p.m.</strong></time>, at the <span class="p-location h-card"><strong><span class="p-name">Ann Arbor Senior Center in Burns Park</span></strong>, <span class="p-adr">1320 Baldwin Avenue, Ann Arbor, MI 48104</span></span></span>
+* <span class="h-event"><span class="p-name">The Pittsfield Township meeting about the new Drop-Off Station</span> will be on <time class="dt-start" datetime="2023-04-19T18:30-0400"><strong>Wednesday, April 19, 2023, at 6:30pm</strong></time>, at <span class="p-location h-card"><strong><span class="p-name">Pittsfield Township Hall</span></strong>, <span class="p-adr">6201 West Michigan Avenue, Ann Arbor, MI 48108</span></span></span>
+
 
 ## CA-3: [Add 5 parks to ADA assessment](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6103434&GUID=5FF2EABD-621B-40A9-BA50-843633620774&Options=&Search=)
 
@@ -88,6 +97,41 @@ You may have also noticed that I didn't list it in my [article previewing the me
   zoom=11 
 %}
 
+## B-2 and DB-2, [North Maple Apartments zoning](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6035859&GUID=39B047F9-86E1-4368-AA20-411DDA2260DF&Options=&Search=) and [Site Plan](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6113008&GUID=DCC308AD-51E6-46CF-A079-17C0FAB214A0&Options=&Search=)
+
+This was the most exciting thing on the agenda.  More housing!  I always get excited about that.  This is a four-story apartment building, consisting of 79 apartments, in a mix of studio, one, and two bedroom.  Of those 79 apartments, 12 of them are below-market-rate.  This means that the rent will be set so that someone making no more than 60% of the area median income can afford it, while paying only 30% of their income in rent.  Also, in order to qualify for these reduced-rent apartments, you must make no more than 60% of the area median income.  
+
+The county operates [a waitlist for these privately-run below-market-rate apartments](https://www.annarborwaitlist.com/).
+
+However, the developer may choose, instead of having the 12 below-market-rate apartments, to pay into the affordable housing trust fund, where it can be used by the Ann Arbor Housing Commisison, or Avalon Housing (or, theoretically, some other nonprofit) to leverage other grants to make subsidized housing.
+
+Anyway, North Main apartments will have all sorts of great energy efficiency stuff, like extra insulation, geothermal heating and cooling, only 65 parking spots for the 79 apartments, with all parking spots EV capable.  Bike storage.  They're going to build a fancy crosswalk with a safety island and a covered bus shelter.
+
+Not every housing development has to come before the city council.  This one did because they were asking for a special zoning consideration.  This land included several parcels that were formerly township islands - that is, they're in the jurisdiction of one of the townships, rather than the city.  But the city has annexed them at the request of the property owner, and now must be zoned.  What should their zoning category be?  Well, according to the master planning documents, this area is slated for low-density things like single-family homes.  So in order to get something that fulfils the current goals of the city, the developer had to go through the arduous "Planned Unit Development" process, and go through lots of hearings, and make lots of promises about what the development would be like.  The way the <abbr title="Planned Unit Development">PUD</abbr> process goes, it's as though the city has put its foot down about what it wants - single family homes!  And we're doing the developer a huge favor by allowing them to build something more profitable, so now they have to negotiate with us.  This lets us ask for things like the below-market-rate housing.
+
+But the thing is, I think that the goals of the city council, and much of the public, have changed since those planning documents were written.  We now want more housing to be built, faster!  So it doesn't make sense to act like we're doing them a favor by allowing them to build what it is that we actually, in our hearts, want them to build.  We should make these types of buildings easier to build, by ceasing the practice of making the stuff we want illegal to build.
+
+At the public hearing for this building, someone who lives near there spoke up against it, alleging that this would be a 30-story skyscraper in her backyard, and isn't that horrible?
+
+Councilmember Linh Song replied, "I hope we can change the conversation from 'I was here first so I get to choose who my neighbors are' to 'I want to share all these wonderful amenities with more neighbors.'", and that we’re all here for the same reasons:  Work, school, etc.
+
+The city council unanimously approved the building.
+
+## DC-2: [Tree Cleanup](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6116839&GUID=D0E12127-2529-4839-A8E3-0F38BA871249&Options=&Search=)
+
+The big snow and ice storms left a lot of branches down.  The city has been working to clean it up.  The city administrator approved a $250k emergency expenditure to do so.  To this, city council approved an additional $200k, at this meeting, for a total of $450k spent on the cleanup.
+
+Staff didn't know if this was going to pay for the entire cleanup, but seemed to think it wouldn't.  They said it was an unprecedented situation, so it was hard to predict how long it would take or how much it would cost.
+
+Mayor Taylor warned that this type of situation is gonna *get* precedented real quick, what with climate change!  We should expect and plan for more wild weather events like this.
+
+Finally, the city has created a dashboard so you can monitor the cleanup's progress, and find out when your neighborhood will get cleaned up.  The dashboard is available at [https://a2gov.org/stormresponse](https://a2gov.org/stormresponse).  The picture at the top of this article is a screenshot of that dashboard.  Unfortunately, I don't think there's a way for me to embed that dashboard in an interactive way here.
+
+## PH-1 = B-1: [Carbon Monoxide Detectors](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6066147&GUID=FC934D70-B535-460B-AD6F-57691EB287CC&Options=&Search=)
+
+The city council passed a new law requiring carbon monoxide detectors in all apartments, not just newly-built ones.  This law was not controversial and passed easily.  I suppose that means you can tell your landlord about this law.  Also, you could use the city's [Report a Problem](https://www.a2gov.org/services/Pages/Report-a-Problem.aspx) feature, and the city will to write to your landlord and tell them they're out of compliance with the law.  I use this feature when I visit a store whose bathroom does not have free menstrual supplies, because the law now requires them to.  Usually, the store gets a letter from the city, and then says "oh, we didn't know", and then puts free menstrual supplies in the bathroom.  So maybe it'll work for carbon monoxide detectors too.
+
+
 ## CA-4: [Opioid settlement](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6103430&GUID=664614CA-03AB-4E08-A6E9-6845E36BD75E&Options=&Search=&FullText=1)
 
 The city was already receiving money from the [national opioid settlement](https://nationalopioidsettlement.com/executive-summary/) from 2021, in which certain pharmaceutical companies agreed to pay states and municipalities for their role in the opioid crisis.  But now, a few other companies are being made to pay separately.  It was up to the city to accept or not accept the settlement.  If they didn't accept the settlement, they could try to sue those companies individually, but would not have and would not have won.  They accepted the settlement.
@@ -98,40 +142,24 @@ In my [preview article](/posts/a2council-2023-04-03/), I expressed the concern t
 
 Ultimately, the question of how to spend that money was not on the agenda, though, and there was no reason not to accept it.
 
-## PH-1 = B-1: [Carbon Monoxide Detectors](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6066147&GUID=FC934D70-B535-460B-AD6F-57691EB287CC&Options=&Search=)
+## DB-1: [DTE Accountability](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6066146&GUID=AFBC2258-DF58-450D-9696-FA0B37A44FBB&Options=&Search=)
 
-This law was not controversial and passed easily.  Carbon monoxide detectors are now required in all apartments, not just newly-built ones.  I suppose that means you can tell your landlord about this law.  Also, you could use the city's [Report a Problem](https://www.a2gov.org/services/Pages/Report-a-Problem.aspx) feature, and the city will to write to your landlord and tell them they're out of compliance with the law.  I use this feature when I visit a store whose bathroom does not have free menstrual supplies, because the law now requires them to.  Usually, the store gets a letter from the city, and then says "oh, we didn't know", and then puts free menstrual supplies in the bathroom.  So maybe it'll work for carbon monoxide detectors too.
+This is a resolution asking the state to create more regulations to hold DTE accountable for their infrastructure failing during those storms and stuff.  It asks for a whole bunch of stuff that all seems like a good idea and I hope it happens.  The Energy Commission weighed in with other suggestions.  I don’t feel like it’s helpful to dwell on the specific suggestions, because they have to go through the state, and we’ll see if and when that happens.  But I understand these are some really good suggestions!
 
-## B-2 and DB-2, [North Maple Apartments zoning](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6035859&GUID=39B047F9-86E1-4368-AA20-411DDA2260DF&Options=&Search=) and [Site Plan](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6113008&GUID=DCC308AD-51E6-46CF-A079-17C0FAB214A0&Options=&Search=)
+We have some other paths to get us more energy resilience, and greener energy.  I'm more excited about these things because they are within our power:
+* The resolution, [passed at the 2023-03-20 meeting](https://a2council.vote/post/council-meeting-2023-03-20/), to strongarm DTE for sustainability and resiliency concessions using [natural gas franchise negotiations](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6056211&GUID=FCD3A35E-BC18-4FA3-894F-D8979C15DFA2&Options=&Search=) as our point of leverage.
+* The [Sustainable Energy Utility](https://www.a2gov.org/departments/sustainability/Sustainability-Me/Pages/Ann-Arbor's-Sustainable-Energy-Utility-%28SEU%29.aspx) that the city's [Office of Sustainability and Innovation](https://www.a2gov.org/departments/sustainability/Pages/default.aspx) is working on.
+* The [Ann Arbor for Public Power](https://annarborpublicpower.org/) push to establish a municipal utility and buy DTE's infrastructure assets.  Even if this effort doesn't meet those actual goals, it gives us a powerful lever in negotiating with DTE, and those levers are hard to come by.  Word on the street is this is what happened with a similar initiative in Boulder, CO.  They didn't establish a public power utility, but they got so many concessions from the private utility that they achieved many of their goals anyway.
 
-Approved.  79 apartments, 12 of which are below-market-rate (or payment-in-lieu).  All electric (15% of power).  Geothermal.  Super insulated.  Only 65 parking spots (all EV).  They’re gonna build a fancy crosswalk w/ safety island, and a covered bus shelter.  It’s right near Skyline High.  It’s taking over some township island to do it.
 
-It’s a PUD because the crummy zoning insists that this be low-density area, and someone wrote down that if we annex this land it should be R1B.  Boo, them!  Fix that document!
+## DC-1: [Pollinator Habitat](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6114207&GUID=9D5AB69B-D0A1-4C6E-B0CB-9BE70362E838&Options=&Search=)
 
-A silly NIMBY opposed.  Describe waking up one day to find a "30 story skyscraper" in her backyard, and CM Song said “I hope we can change the conversation from ‘I was here first so I get to choose who my neighbors are” to “I want to share all these wonderful amenities with more neighbors.’”, and we’re all here for the same reasons:  Work, school, etc.
+City Council suggests that you mow less frequently, especially in the spring, and rake less frequently, in order to promote pollinators and biodiversity.  Check out the city’s "[Integrated Pest Management](https://a2gov.org/ipm)" website for ideas on biodiverse lawn care.
 
-CM Song is a “Nuclear Golden Retriever”.
+This doesn’t actually change any laws or anything.  Nobody's gonna make you do or not do anything.  You’ve always had the ability to grow your lawn to 12".  You’ve always had the ability to plant native plants, and the city’s not offering to help with that.  This is just like last year's "[No Mow May](https://www.a2gov.org/departments/sustainability/Sustainability%20Natural%20Resources/Pages/No-Mow-May-Initiative.aspx)" - a suggestion.
 
-## Tree Cleanup
+## DS-1: [Water Bonds](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6103429&GUID=31242111-9FDE-46A7-BE20-FDCE134B1D5B&Options=&Search=&FullText=1)
 
-They had already spent $250k on cleanup, and are asking for $200k more.  At the last meeting, Dohoney said $750k.  Does that mean we can expect another ask for money later?  Cuz this is only $450k.  Staff says “no clue, this is unprecedented.  Probably???”  Also, check out https://a2gov.org/stormresponse
-Mayor warns that this is gonna GET precedented real dang fast!  Climate change, y’all!  We should prepare for this in the future.
+The city council voted to sell $45m of 30y revenue bonds to do capital improvements to the water system.  This is not for water treatment facility upgrades - that’s going to be funded by federal grants and stuff, probably.  No, this $45m is for fixing pipes that are already in the ground.
 
-## DTE Accountability
-
-This is a resolution asking the state to create more regulations to hold DTE accountable for their infrastructure failing during those storms and stuff.  It asks for a whole bunch of stuff that all seems like a good idea and I hope it happens.  The Energy Commission weighed in with other suggestions.  I don’t feel like it’s helpful to dwell on the specific suggestions, because they have to go through the state, and we’ll see if and when that happens.
-
-Things I like, to give us energy autonomy:
-* Natural gas franchise negotiation, passed at the last meeting.
-* SEU
-* Ann Arbor for Public Power
-
-## Pollinator Habitat
-
-City Council suggests that you mow less frequently, especially in the spring, and rake less frequently, in order to promote pollinators and biodiversity.  Check out the city’s “Integrated Pest Management” website for ideas on biodiverse lawn care.  https://a2gov.org/ipm.
-
-This doesn’t actually change any laws or anything.  Nobody’s gonna make you do or not do anything.  You’ve always had the ability to grow your lawn to 12”.  You’ve always had the ability to plant native plants.  (The city’s not offering to help with that).  This is just like “No Mow May” - a suggestion.
-
-## Water Bonds
-
-We are selling $45m of 30y revenue bonds to do capital improvements to the water system.  This is not for water treatment facility upgrades - that’s going to be funded by federal grants and stuff, probably.  No, this $45m is for fixing pipes that are already in the ground.
+The bonds will not be sold right away.  There is a 45-day period for people to file protest petitions first.  _Then_ the city can sell those bonds.
