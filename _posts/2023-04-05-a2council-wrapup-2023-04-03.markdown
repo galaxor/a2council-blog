@@ -9,7 +9,7 @@ image:
   alt: "A screenshot of the city's storm response dashboard.  It is a map of the city, labelled 'Storm Event Small and Large and Branch Pickup'.  On the left side, there is a caption, 'City of Ann Arbor Ice/Snow Storm Response'.  Below that are two boxes.  One, in green, says 'Areas: 9'.  The other, in white, says 'Total Areas: 30'.  The main map, in the center, has a caption, 'Status of storm response. Select the search icon to search for an address'.  There is a search icon and a hamburger menu.  Different areas of the city are colored in different colors, and it lists what day the branches are estimated to be cleared there."
   caption: A screenshot of the city's storm response dashboard.  It says "Storm Event Small and Large and Branch Pickup"
   credit: "<a href=\"https://a2gov.org/stormresponse\">https://a2gov.org/stormresponse</a>"
-tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris dte public-power seu
+tags: opioid carbon-monoxide landlords north-maple-apartments housing pud affordable-housing pollinators lawns storm debris dte public-power seu parks disability
 
 map_locations_parks:
   - text: Burns Park
@@ -103,7 +103,7 @@ This was the most exciting thing on the agenda.  More housing!  I always get exc
 
 The county operates [a waitlist for these privately-run below-market-rate apartments](https://www.annarborwaitlist.com/).
 
-However, the developer may choose, instead of having the 12 below-market-rate apartments, to pay into the affordable housing trust fund, where it can be used by the Ann Arbor Housing Commisison, or Avalon Housing (or, theoretically, some other nonprofit) to leverage other grants to make subsidized housing.
+However, the developer may choose, instead of having the 12 below-market-rate apartments, to pay into the affordable housing trust fund, where it can be used by the [Ann Arbor Housing Commisison](https://www.a2gov.org/departments/Housing/Pages/default.aspx), or [Avalon Housing](https://avalonhousing.org/) (or, theoretically, some other nonprofit) to leverage other grants to make subsidized housing.
 
 Anyway, North Main apartments will have all sorts of great energy efficiency stuff, like extra insulation, geothermal heating and cooling, only 65 parking spots for the 79 apartments, with all parking spots EV capable.  Bike storage.  They're going to build a fancy crosswalk with a safety island and a covered bus shelter.
 
