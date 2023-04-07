@@ -38,6 +38,7 @@ But mostly, it seems like a light agenda.
   thread  = "https://a2mi.social/@MegaMichelle/110137368315757929"
   youtube = "https://www.youtube.com/watch?v=1b9N_zFcJXI"
   votes   = "https://a2council.vote/post/council-meeting-2023-04-03/"
+  wrapup  = "/posts/a2council-wrapup-2023-04-03/"
 %}
 
 ## CA-4: [Opioid Settlement](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6103430&GUID=664614CA-03AB-4E08-A6E9-6845E36BD75E&Options=&Search=&FullText=1)

@@ -14,6 +14,11 @@ Ann Arbor City Council Meeting
 <tr>
   <th class="votes">Voting Chart</th><td class="votes">{% if include.votes %}<a class="voting-chart" href="{{ include.votes|escape }}">{{ include.votes|escape }}</a>{% else %}Soon after the meeting, the voting chart will be available at <a class="voting-chart" href="https://a2council.vote/">https://a2council.vote/</a>. I will put the link here at that time.{% endif %}</td>
 </tr>
+{% if include.wrapup %}
+<tr>
+  <th class="wrapup">Wrap-Up</th><td class="wrapup"><a href="{{ include.wrapup }}">Read my wrap-up of how this meeting went</a></td>
+</tr>
+{% endif %}
 <tr>
   <th class="zoom">Zoom</th><td class="zoom"><a href="https://a2gov.org/councilzoom">https://a2gov.org/councilzoom</a></td>
 </tr>
