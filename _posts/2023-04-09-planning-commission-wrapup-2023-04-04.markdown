@@ -13,11 +13,11 @@ tags: 2929-plymouth-rd plymouth-rd credit-union umcu downtown-premiums
 ---
 
 
-<span class="h-event">The next <span class="p-name">[Ann Arbor Planning Commission](https://www.a2gov.org/departments/planning/development-review/Pages/CityPlanningCommission.aspx) meeting</span> will be <time class="dt-start" datetime="2023-04-04T19:00-0400">Tuesday, April 4, 2023, at 7pm</time>.</span>
+<span class="h-event">The <span class="p-name">[Ann Arbor Planning Commission](https://www.a2gov.org/departments/planning/development-review/Pages/CityPlanningCommission.aspx) met</span> on <time class="dt-start" datetime="2023-04-04T19:00-0400">Tuesday, April 4, 2023, at 7pm</time>.</span>  This is my wrapup of what happened at the meeting.
 
-There's a thing on there that I'm worried about:  [A proposed new branch](#proposed-university-of-michigan-credit-union-at-2929-plymouth-road) of the [University of Michigan Credit Union](https://umcu.org/) at 2929 Plymouth Road, which is currently a weird [dingbat-style](https://en.wikipedia.org/wiki/Dingbat_%28building%29) office building that I used to work in.  I think a standalone drive-through credit union is one of the worst possible uses of this land.
+I was watching mostly because I was concerned about [a proposed new branch](#proposed-university-of-michigan-credit-union-at-2929-plymouth-road) of the [University of Michigan Credit Union](https://umcu.org/) at 2929 Plymouth Road, which is currently a weird [dingbat-style](https://en.wikipedia.org/wiki/Dingbat_%28building%29) office building that I used to work in.  It was proposed to be a standalone, single-story bank with a drive-through, which I thought was a horrendous waste of that land, and something that would prolong car culture.
 
-Also on the agenda:  An [interesting-looking discussion](#discussion-of-downtown-development-premiums) about the development incentives that the city offers to downtown developers, and how they might be changed in order to achieve the results we want, such as more housing downtown.
+Also on the agenda was a [discussion about the development incentives](#discussion-of-downtown-development-premiums) that the city offers to downtown developers, and how they might be changed in order to achieve the results we want, such as more housing downtown.
 
 <!--more-->
 
@@ -37,6 +37,66 @@ Also on the agenda:  An [interesting-looking discussion](#discussion-of-downtown
 
 ## Proposed [University of Michigan Credit Union at 2929 Plymouth Road](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6027309&GUID=E23F61D0-A17F-4065-B240-E3A3F88CCA78&Options=&Search=)
 
+I was quite worried about the University of Michigan Credit Union's proposal to demolish the office building at 2929 Plymouth Road and replace it with a car-oriented single-story drive-through bank.  They also plan to move from their current, transit-oriented site on Plymouth road, to this new, car-oriented site a little ways down.  I thought this would be worse for everyone:  It would be worse for credit union members, who would not be able to access the location via transit as easily; It would be worse for the city because it would perpetuate car culture at a time when the city's goals suggest we should be moving quickly away from car dependency (the [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals).
+
+It turns out I need not have worried about this <abbr title="University of Michigan Credit Union">UMCU</abbr> drive-through site.  The planning commission universally hated it!  The discussion was some two hours, and most of that time was the planning commissioners berating the petitioner for having the audacity to bring forward such an obviously offensive proposal!
+
+Before the meeting, commissioner Lisa Sauve made [a quick sketch of a building that would be closer to what they would have wanted to see](https://twitter.com/lisauve_/status/1643305536790618138).
+
+{% include image.html
+  src="/assets/2023-04-04/sauve-1.jpg"
+  alt="Screenshot from Twitter.  Posted by Lisa Sauve, @lisasauve_, on Apr 4: TC-1 potential of 2929 Plymouth (instead of proposed bank with 3 drive-thru lanes):
+15' front + 30' rear setback
+217,447 SF gross area
+80% efficiency = 217 units @ 800 SF (2 bed)
+40k SF ground floor covered parking (~100 spots)
+30k SF solar roof area + courtyard #a2council"
+  caption="Screenshot from Lisa Sauve's twitter post."
+  credit="From <a href=\"https://twitter.com/lisauve_/status/1643305536790618138\">https://twitter.com/lisauve_/status/1643305536790618138</a>"
+%}
+
+In the course of the dressing down, commissioner ((Gibb-Randall???)) said that it looked like the petitioner (UMCU) had not done their homework, where "their homework" was watching planning commission meetings for recent drive-through applictaions to see what the planning commission was looking for.
+
+And, okay, it was cathartic for me to see the drive-through verbally demolished in this way.  But was it entirely fair to ask the developer to be watching old planning commission meetings?  Ideally, it seems to me like an applicant should only need to look to one source to determine whether they have a good application, and that source should be our zoning code.  The way I see it, the entire expectations should be written in here, rather than having further, secret expectations.  The advantage of this arrangement is that it is fair - everyone has access to the same rules, and everyone knows where to look to find the rules.
+
+What do the rules say about this drive-through?  This site is currently zoned with the "O" (office) zoning.  In that zone, everything about their one-story, car oriented bank is permitted by right, and doesn't require any approval from the planning commission or city council.  However, a drive-through facility is permitted only as a Special Exception Use, which must be approved by planning commission!  This can be seen on the table in 5.15.2 of the [Unified Development Code](https://www.a2gov.org/departments/planning/Documents/UDC%20Edition%208%202-26-2023.pdf) (page 43), which is [referenced on the city's webpage](https://www.a2gov.org/departments/planning/Pages/Unified%20Development%20Code.aspx), which is referenced in the city's ordinances, [Title V, Chapter 55](https://library.municode.com/mi/ann_arbor/codes/code_of_ordinances?nodeId=TITVZOPL).
+
+The criteria for getting a Special Exception Use are listed in section 5.29.5, part D, of the [Unified Development Code](https://www.a2gov.org/departments/planning/Documents/UDC%20Edition%208%202-26-2023.pdf), page 206.
+
+<div class="collapseblock" 
+  data-uncollapse="Read the criteria for a Special Exception Use"
+  data-collapse="Hide this section">
+<ol>
+<li>The proposed use(s) shall be of such location, size and character as to be compatible with the appropriate and orderly Development of the zoning district and adjacent zoning districts in which the Site is situated. In applying this standard, the Planning Commission shall consider whether the proposed use:
+  <ol class="lettered-lower-case">
+  <li>Will be consistent with the general objectives of the City Master Plan.</li>
+  <li>Will be designed, constructed, operated and maintained in a manner that is compatible with the existing and planned</li>
+character of the general vicinity.</li>
+  <li>Will be consistent with the general character of the neighborhood considering population density, design, scale and bulk; and the intensity and character of activity.</li>
+  <li>Will not be detrimental to the use, peaceful enjoyment, economic value or Development of neighboring property, or the neighborhood area in general.</li>
+  <li>Will not have a detrimental effect on the natural environment.</li>
+  </ol></li>
+<li>The location and size of the proposed use(s), the nature and intensity of the Principal Use and all Accessory Uses, the Site layout and its relation to streets giving access to it, shall be such that traffic to and from the use(s), the assembly of Persons in connection with the use(s), and the effect of the proposed use(s) on public services and facilities, will not be Hazardous or inconvenient to the neighborhood nor unduly conflict with the normal traffic of the neighborhood. In applying this standard the Planning Commission shall consider, at a minimum:
+  <ol class="lettered-lower-case">
+  <li>The location of and access to off-street parking and the safe provision for pedestrian traffic.</li>
+  <li>The relationship of the proposed use to main traffic thoroughfares and to streets and road intersections.</li>
+  <li>Vehicular turning movements in relationship to traffic flow routes.</li>
+  <li>The intensity and character of traffic and parking conditions on the Site, and in the general area.</li>
+  <li>The requirements for additional public services and facilities that will be created by the proposed use will not be detrimental to the social and economic welfare of the community.</li>
+  </ol></li>
+<li>The standards of density and required Open Spaces for the proposed use shall be at least equal to those required by this chapter in the zoning district in which the proposed use is to be located, unless a variance is granted pursuant to Section 5.29.13.</li>
+</ol>
+</div>
+  
+
+The disadvantage of this method is that these rules are written in law, and it can take a long time to update our laws, whereas *expectations* can be changed capriciously.  As a fan of the rule of law, I am usually opposed to capriciously-applied laws.  But here, I'm stating it as though it's an advantage because I am frustrated that our zoning code hasn't kept up with the changing consensus of the city.  The consensus I'm referring to is the idea that our city cannot continue to be designed around car convenience and low-density living, and that we must instead practice a kind of urbanism that makes it easy to live, work, and travel without a car, with many destinations in walking distance, and people living with sufficient density to make transit efficient.  This type of urbanism would achieve the city's [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals.
+
+It seems to me that the planning commissioners are similarly frustrated by our slow progress toward these goals, and don't want to allow developments like this to make us slide backward in our progress.
+
+The difference between an opinion that I hold, vs an opinion shared by the entire planning commission, is that the planning commission has the power to change some of this stuff.  They could put an item on their next meeting's agenda to place an absolute ban on new drive-throughs in the city, rather than allowing the status quo to continue, where drive-throughs are allowed by Special Exception Use.
+
+I think that, as long as this consensus exists, the planning commission should speed through changes like this.  But perhaps I'm overestimating how quickly this change could be done.  Laws must be carefully crafted.  But heck, I want it!  Step on the gas!
+
 
 {% include map.html boxid="credit-union" 
   caption="Interactive Map: Proposed and Current Sites of University of Michigan Credit Union" 
@@ -54,7 +114,7 @@ Also on the agenda:  An [interesting-looking discussion](#discussion-of-downtown
 {% include image.html 
   src     = "/assets/2023-04-04/Current-2929-Plymouth-Rd.jpg"
   alt     = "Google Maps photo of the dingbat office building currently at 2929 Plymouth Road"
-  caption = "The dingbat office building currently at 2929 Plymouth Road"
+  caption = "The dingbat office building currently at 2929 Plymouth Road, which would be replaced by the proposed drive-through bank"
   credit  = "From <a href=\"https://goo.gl/maps/6fp3ku9rbio3qzRi7\">Google street view</a>"
 %}
 
