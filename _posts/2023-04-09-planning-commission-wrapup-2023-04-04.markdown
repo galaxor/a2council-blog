@@ -37,6 +37,8 @@ But I think the thing that's going to have a larger impact on the city overall w
 ## Discussion of [Downtown Development Premiums](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6114881&GUID=C4DDDE5C-FF45-4A5E-B851-0D2815506809&Options=&Search=)
 
 
+
+
 ## Proposed [University of Michigan Credit Union at 2929 Plymouth Road](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6027309&GUID=E23F61D0-A17F-4065-B240-E3A3F88CCA78&Options=&Search=)
 
 As I wrote in [my preview of this meeting](/posts/planning-commission-2023-04-04/#proposed-university-of-michigan-credit-union-at-2929-plymouth-road), I was quite worried about the University of Michigan Credit Union's proposal to demolish the office building at 2929 Plymouth Road and replace it with a car-oriented single-story drive-through bank.  They also plan to move from their current, transit-oriented site on Plymouth road, to this new, car-oriented site a little ways down.  I thought this would be worse for everyone:  It would be worse for credit union members, who would not be able to access the location via transit as easily; It would be worse for the city because it would perpetuate car culture at a time when the city's goals suggest we should be moving quickly away from car dependency (the [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals).
@@ -57,7 +59,7 @@ Before the meeting, commissioner Lisa Sauve made [a quick sketch of a building t
   credit="From <a href=\"https://twitter.com/lisauve_/status/1643305536790618138\">https://twitter.com/lisauve_/status/1643305536790618138</a>"
 %}
 
-In the course of the dressing down, commissioner ((Gibb-Randall???)) said that it looked like the petitioner (UMCU) had not done their homework, where "their homework" was watching planning commission meetings for recent drive-through applictaions to see what the planning commission was looking for.
+In the course of the dressing down, commissioner Shannan Gibb-Randall said "<a class="youtube" href="https://youtu.be/-qW6d6DrwgA?t=7723">It doesn't take a lot to look back at our past meetings to understand just how much controversy there has been about drive throughs.... I feel like you all need to just do your homework</a>." They were also slammed for submitting a petition with traditional gas heat, rather than electric.
 
 And, okay, it was cathartic for me to see the drive-through verbally demolished in this way.  But was it entirely fair to ask the developer to be watching old planning commission meetings?  Ideally, it seems to me like an applicant should only need to look to one source to determine whether they have a good application, and that source should be our zoning code.  The way I see it, the entire expectations should be written in here, rather than having further, secret expectations.  The advantage of this arrangement is that it is fair - everyone has access to the same rules, and everyone knows where to look to find the rules.
 
@@ -89,13 +91,14 @@ character of the general vicinity.</li>
 <li>The standards of density and required Open Spaces for the proposed use shall be at least equal to those required by this chapter in the zoning district in which the proposed use is to be located, unless a variance is granted pursuant to Section 5.29.13.</li>
 </ol>
 </div>
-  
+
+So, what does that regulation mean?  Does the planning commission have the authority to turn down this drive through?  Sure.  There's plenty of stuff in there that's a matter of opinion.  But if we don't change the laws, a future planning commission might have a different opinion and let crummy stuff happen because they have bad opinions (i.e. ones I disagree with).
 
 The disadvantage of expecting all the regulations to be written in law is that it can take a long time to update our laws, whereas *expectations* can be changed capriciously.  As a fan of the rule of law, I am usually opposed to capriciously-applied laws.  But here, I'm stating it as though it's an advantage because I am frustrated that our zoning code hasn't kept up with the changing consensus of the city.  The consensus I'm referring to is the idea that our city cannot continue to be designed around car convenience and low-density living, and that we must instead practice a kind of urbanism that makes it easy to live, work, and travel without a car, with many destinations in walking distance, and people living with sufficient density to make transit efficient.  This type of urbanism would achieve the city's [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals.
 
 It seems to me that the planning commissioners are similarly frustrated by our slow progress toward these goals, and don't want to allow developments like this to make us slide backward in our progress.
 
-The difference between an opinion that I hold, vs an opinion shared by the entire planning commission, is that the planning commission has the power to change some of this stuff.  They could put an item on their next meeting's agenda to place an absolute ban on new drive-throughs in the city, rather than allowing the status quo to continue, where drive-throughs are allowed by Special Exception Use.
+The difference between an opinion that I hold, vs an opinion shared by the entire planning commission, is that the planning commission has the power to change some of this stuff.  They could put an item on their next meeting's agenda to place an absolute ban on new drive-throughs in the city, rather than allowing the status quo to continue, where drive-throughs are allowed by Special Exception Use.  They could put forward an ordinance change proposal, which city council would probably approve.
 
 I think that, as long as this consensus exists, the planning commission should speed through changes like this.  But perhaps I'm overestimating how quickly this change could be done.  Laws must be carefully crafted.  But heck, I want it!  Step on the gas!
 
