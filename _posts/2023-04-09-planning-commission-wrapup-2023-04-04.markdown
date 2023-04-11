@@ -17,7 +17,7 @@ tags: 2929-plymouth-rd plymouth-rd credit-union umcu downtown-premiums
 
 I was watching mostly because I was concerned about [a proposed new branch](#proposed-university-of-michigan-credit-union-at-2929-plymouth-road) of the [University of Michigan Credit Union](https://umcu.org/) at 2929 Plymouth Road, which is currently a weird [dingbat-style](https://en.wikipedia.org/wiki/Dingbat_%28building%29) office building that I used to work in.  It was proposed to be a standalone, single-story bank with a drive-through, which I thought was a horrendous waste of that land, and something that would prolong car culture.
 
-Also on the agenda was a [discussion about the development incentives](#discussion-of-downtown-development-premiums) that the city offers to downtown developers, and how they might be changed in order to achieve the results we want, such as more housing downtown.
+But I think the thing that's going to have a larger impact on the city overall was the [discussion about the development incentives](#discussion-of-downtown-development-premiums) that the city offers to downtown developers, and how they might be changed in order to achieve the results we want, such as more housing downtown.
 
 <!--more-->
 
@@ -34,10 +34,12 @@ Also on the agenda was a [discussion about the development incentives](#discussi
   email   = "Planning@a2gov.org"
 %}
 
+## Discussion of [Downtown Development Premiums](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6114881&GUID=C4DDDE5C-FF45-4A5E-B851-0D2815506809&Options=&Search=)
+
 
 ## Proposed [University of Michigan Credit Union at 2929 Plymouth Road](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6027309&GUID=E23F61D0-A17F-4065-B240-E3A3F88CCA78&Options=&Search=)
 
-I was quite worried about the University of Michigan Credit Union's proposal to demolish the office building at 2929 Plymouth Road and replace it with a car-oriented single-story drive-through bank.  They also plan to move from their current, transit-oriented site on Plymouth road, to this new, car-oriented site a little ways down.  I thought this would be worse for everyone:  It would be worse for credit union members, who would not be able to access the location via transit as easily; It would be worse for the city because it would perpetuate car culture at a time when the city's goals suggest we should be moving quickly away from car dependency (the [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals).
+As I wrote in [my preview of this meeting](/posts/planning-commission-2023-04-04/#proposed-university-of-michigan-credit-union-at-2929-plymouth-road), I was quite worried about the University of Michigan Credit Union's proposal to demolish the office building at 2929 Plymouth Road and replace it with a car-oriented single-story drive-through bank.  They also plan to move from their current, transit-oriented site on Plymouth road, to this new, car-oriented site a little ways down.  I thought this would be worse for everyone:  It would be worse for credit union members, who would not be able to access the location via transit as easily; It would be worse for the city because it would perpetuate car culture at a time when the city's goals suggest we should be moving quickly away from car dependency (the [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals).
 
 It turns out I need not have worried about this <abbr title="University of Michigan Credit Union">UMCU</abbr> drive-through site.  The planning commission universally hated it!  The discussion was some two hours, and most of that time was the planning commissioners berating the petitioner for having the audacity to bring forward such an obviously offensive proposal!
 
@@ -89,7 +91,7 @@ character of the general vicinity.</li>
 </div>
   
 
-The disadvantage of this method is that these rules are written in law, and it can take a long time to update our laws, whereas *expectations* can be changed capriciously.  As a fan of the rule of law, I am usually opposed to capriciously-applied laws.  But here, I'm stating it as though it's an advantage because I am frustrated that our zoning code hasn't kept up with the changing consensus of the city.  The consensus I'm referring to is the idea that our city cannot continue to be designed around car convenience and low-density living, and that we must instead practice a kind of urbanism that makes it easy to live, work, and travel without a car, with many destinations in walking distance, and people living with sufficient density to make transit efficient.  This type of urbanism would achieve the city's [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals.
+The disadvantage of expecting all the regulations to be written in law is that it can take a long time to update our laws, whereas *expectations* can be changed capriciously.  As a fan of the rule of law, I am usually opposed to capriciously-applied laws.  But here, I'm stating it as though it's an advantage because I am frustrated that our zoning code hasn't kept up with the changing consensus of the city.  The consensus I'm referring to is the idea that our city cannot continue to be designed around car convenience and low-density living, and that we must instead practice a kind of urbanism that makes it easy to live, work, and travel without a car, with many destinations in walking distance, and people living with sufficient density to make transit efficient.  This type of urbanism would achieve the city's [Vision Zero](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx) and [A2Zero](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx) goals.
 
 It seems to me that the planning commissioners are similarly frustrated by our slow progress toward these goals, and don't want to allow developments like this to make us slide backward in our progress.
 
@@ -124,7 +126,3 @@ I think that, as long as this consensus exists, the planning commission should s
   caption = "The current location of the UMCU."
   credit  = "From <a href=\"https://goo.gl/maps/dL9NBjgtynByy9vQ8\">Google street view</a>"
 %}
-
-
-## Discussion of [Downtown Development Premiums](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6114881&GUID=C4DDDE5C-FF45-4A5E-B851-0D2815506809&Options=&Search=)
-
