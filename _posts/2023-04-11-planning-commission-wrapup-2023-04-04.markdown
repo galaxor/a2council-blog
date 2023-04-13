@@ -52,6 +52,20 @@ The consultant reminded us of the scope of the discussion:
 
 > What do you require, and then what do you incentivize?  And if there's things that are musts, require it ... if you can.  This is a good policy space for if you can't require it, or where the market needs a nudge or a bump in order to deliver what you need or what you want.
 
+I might add another thing:  If you don't _not_ want something, don't disallow it!  Our incentive structure is based on the idea that we're doing the developers a big favor by allowing them to build tall, because building tall is ostensibly something we don't want.  But if the developer is going to build a tall building with lots of housing, and we want lots of housing, why don't we just let them?
+
+I guess the answer is that we don't just want housing.  We want _below-market-rate_ housing!  But we've been offering the below-market-rate housing incentive for years now, and it doesn't seem to be an attractive incentive to developers, in that nobody has taken it.  Perhaps the problem is that the developers don't want to maintain below-market-rate housing onsite.  Perhaps the problem is they don't want to offer it at below market rates at all.  But whatever it is, it seems that simply asking for it is not enough to get it.  Instead, we're getting shorter buildings, with less market-rate housing, and no below-market-rate housing and no contribution to the housing fund.
+
+Some commissioners seemed open to this idea, of simply allowing taller buildings by right rather than creating an incentive.  And commissioners were very open to striking down other little-used incentives, in order to focus on a smaller menu of what it is we want the most.  A "pedestrian amenities" incentive, for example, could be replaced by requirements for pedestrian amenities.  A historic preservation incentive could be struck down.  The consultant mentioned one place where the historic preservation incentive was used:  The hotel that was built at the old Greyhound station, where they preserved a portion of the bus station's facade, with a big attractive sign that says "Bus".  It looks cool, but it's misleading since there isn't actually a bus there!
+
+There was one type of incentive that they were very interested in offering, which we are not offering now: Incentivizing Access for disadvantaged groups.  I'm not sure what, specifically, they want to incentivize.  The document from the the consultant suggests an incentive designed to "Diversify pool of developers building in Downtown."
+
+But the consultant pointed out that zoning isn't necessarily the right tool to use in this situation.  Perhaps some sort of program would be better.  She mentioned the brownfield tax credit as an example of how a program, and not a zoning ordinance, achieves the effect of having private developers build on contaminated land, and cleaning up that land.  Perhaps there could be some sort of reparations tax credit for Black-owned businesses!  That would be very exciting.
+
+Anyway, no decisions were made at this meeting.  The consultant just listened carefully to what the planning commission said, and will synthesize it into a document that will be discussed at a future meeting.  I'm sure that will be a fascinating meeting as well.
+
+If you have thoughts about any of this, send them to Planning@a2gov.org.
+
 
 
 ## Proposed [University of Michigan Credit Union at 2929 Plymouth Road](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6027309&GUID=E23F61D0-A17F-4065-B240-E3A3F88CCA78&Options=&Search=)
