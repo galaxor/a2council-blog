@@ -106,3 +106,9 @@ a.mastodon:before {
 a.twitter:before {
   content: "\f099";
 }
+
+/* Ordered lists, good for citing ordinances */
+
+ol.lettered-lower-case {
+  list-style-type: lower-alpha;
+}
