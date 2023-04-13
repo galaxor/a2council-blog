@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Planning Commission Wrap-Up for Tuesday, 2023-04-04
-date:   2023-04-09 10:20:00 -0400
+date:   2023-04-11 20:28:00 -0400
 meeting_date: 2023-04-04 19:00:00 -0400
 image:
   path: /assets/2023-04-04/eligible-for-premium.jpg
@@ -36,6 +36,21 @@ But I think the thing that's going to have a larger impact on the city overall w
 
 ## Discussion of [Downtown Development Premiums](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6114881&GUID=C4DDDE5C-FF45-4A5E-B851-0D2815506809&Options=&Search=)
 
+The city offers certain "incentives" to downtown developers to make it more likely that they will build the types of buildings that we want.  The incentives often go down like this:  Our zoning districts set a maximum height on buildings.  But developers probably want to build taller, in order to make more money off the land they bought!  So we have these "incentives" to say -- okay, we will allow you to build taller, but only if you build in a certain way, even if it's inconvenient for you.
+
+In 2019, the city council voted to [change the way the premiums work](http://a2gov.legistar.com/LegislationDetail.aspx?ID=4147361&GUID=CF65060C-858F-4C8B-A0A7-BC2294D1E926&Options=ID%7cText%7c&Search=premium&FullText=1).  Previously, we offered a "residential premium" - we gave incentives to developers who were building housing downtown, rather than some other use.  In 2019, the city council changed it to be a premium only for _affordable_ housing.  It seems like it makes sense:  A residential premium seems to be ideal for a market in which developers want to build office buildings downtown and need to be incentivized to build housing.  But the way things are now, residential is likely to be the more profitable use, so developers will probably want to build housing, but maybe we can make them do it the way we want!
+
+But, it doesn't seem to have worked out this way.  The way I heard it, the affordable housing premium has not been utilized since it was passed.  Might this be a case in which we asked for more and thus got less?  Might we get less if we ask for more?  Perhaps there is a way to tweak this in order to make it work out the way we want.  Furthermore, affordable housing isn't the only thing we incentivize.  We also incentivize environmenal building practices, historical preservation, etc.  Maybe we ought to rethink how all of our downtown premiums work, so that we will be more likely to get the type of building we want.
+
+At a 2022-03-22 meeting of the planning commission's Ordinance Review Committee, [staff summarized the situation with downtown premiums](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5528392&GUID=61DC2701-B9AD-47B0-9D8A-52CD057593A4&Options=ID%7cText%7c).
+
+At [the 2023-04-04 Planning Commission meeting](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1069297&GUID=199C787F-7175-4325-9F19-071F74C5826D&Options=info%7C&Search=), the Planning Commission began a project of re-envisioning the downtown premiums, with the help of a consultant.  The purpose of this meeting's discussion was to figure out what the commission's goals are for a downtown premium program.  This will be done over the course of several meetings.
+
+In this meeting, they discussed the planning commission's goals for the premiums.  
+
+The consultant reminded us of the scope of the discussion:
+
+> What do you require, and then what do you incentivize?  And if there's things that are musts, require it ... if you can.  This is a good policy space for if you can't require it, or where the market needs a nudge or a bump in order to deliver what you need or what you want.
 
 
 
