@@ -9,7 +9,7 @@ image:
   caption: An architectural rendering of what a development at 415 W Washington might look like.
   credit: "From <a href=\"http://a2gov.legistar.com/LegislationDetail.aspx?ID=4414274&GUID=FF0FFBAD-E26E-4148-985B-4CC210477EEC&Options=ID%7CText%7C&Search=R-19-138\">a 2020 resolution</a>.  Specifically, from <a href=\"http://a2gov.legistar.com/View.ashx?M=F&ID=8238417&GUID=5A4FF14D-E1A2-49B5-869A-7ED16FBD44A3\">the PDF dealing with options for redevelopment</a>"
 categories: a2council preview
-tags: 415-w-washington comprehensive-plan density segregation housing budget defund-the-police unarmed-response
+tags: 415-w-washington comprehensive-plan density segregation housing budget defund-the-police unarmed-response chimney-swifts treeline-trail airport hangar fbo gelman-plume water-rates water council-rules
 public_hearings:
   - url:  "#ph-1--b-1-415-w-washington"
     desc: "415 West Washington"
