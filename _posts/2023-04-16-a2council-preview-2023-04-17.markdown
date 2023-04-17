@@ -45,7 +45,7 @@ The things I'm most excited about are:
 ## Meeting Details
 
 {% include infobox.html 
-  date    = "2023-04-04T19:00-0400"
+  date    = "2023-04-17T19:00-0400"
   agenda  = "http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062171&GUID=CA414ADD-66B8-48BE-9373-6DCAFA7EECC3&Options=info|&Search="
   mtgid   = "942 1273 2148"
 %}
