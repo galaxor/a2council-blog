@@ -1,0 +1,203 @@
+---
+layout: post
+title:  Ann Arbor City Council Preview for Monday, 2023-04-17
+date:   2023-04-16 13:38:00 -0400
+meeting_date: 2023-04-17 19:00:00 -0400
+image:
+  path: /assets/2023-04-17/415-w-washington-rendering.jpg
+  alt: An architectural rendering of what a development at 415 W Washington might look like.  The first floor is up on stilts, and one side of the building has 3 stories and the other side has 5 stories.  There is a walking path through the property.
+  caption: An architectural rendering of what a development at 415 W Washington might look like.
+  credit: "From <a href=\"http://a2gov.legistar.com/LegislationDetail.aspx?ID=4414274&GUID=FF0FFBAD-E26E-4148-985B-4CC210477EEC&Options=ID%7CText%7C&Search=R-19-138\">a 2020 resolution</a>.  Specifically, from <a href=\"http://a2gov.legistar.com/View.ashx?M=F&ID=8238417&GUID=5A4FF14D-E1A2-49B5-869A-7ED16FBD44A3\">the PDF dealing with options for redevelopment</a>"
+categories: a2council preview
+tags: 415-w-washington comprehensive-plan density segregation housing budget defund-the-police unarmed-response
+public_hearings:
+  - url:  "#ph-1--b-1-415-w-washington"
+    desc: "415 West Washington"
+map_415_w_washington:
+  - lat: 42.28022290463792
+    lon: -83.75243271637474
+    text: "415 W Washington"
+  - lat: 42.28038319057523
+    lon: -83.75119209919065
+    text: "The Blind Pig"
+  - lat: 42.279601978540384
+    lon: -83.75328108753985
+    text: "St Paul Lutheran Church"
+  - lat: 42.27853357121308
+    lon: -83.75150188938429
+    text: "Liberty Lofts"
+  - lat: 42.27972861988274
+    lon: -83.7520637875398
+    text: "The Mark"
+  - lat: 42.28114240339128
+    lon: -83.75292927397211
+    text: "YMCA"
+---
+<span class="h-event">The next <span class="p-name">Ann Arbor City Council meeting</span> will be <time class="dt-start" datetime="2023-04-17T19:00-0400">Monday, April 17, 2023, at 7pm</time>.</span>
+
+The things I'm most excited about are:
+* The contract for the much-needed, long-awaited, long-delayed [comprehensive land use plan update](#ca-14-comprehensive-land-use-plan-update)
+* The [budget presentation](#int-3-presentation-on-the-city-administrators-proposed-budget) for the FY 2024-2025 budget
+* The PUD zoning and concept plan for [415 W Washington](#ph-1--b-1-415-w-washington)
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox.html 
+  date    = "2023-04-04T19:00-0400"
+  agenda  = "http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062171&GUID=CA414ADD-66B8-48BE-9373-6DCAFA7EECC3&Options=info|&Search="
+  mtgid   = "942 1273 2148"
+%}
+
+## CA-14: [Comprehensive Land-Use Plan Update](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6124799&GUID=9D65CC3D-0D29-4EC8-84E5-085A0325CB33&Options=&Search=)
+
+This is a contract for a consultant to work with the city to create a new Comprehensive Land Use Plan.  The work will cost $700k, and go on until July 2024.
+
+The [Comprehensive Plan](https://www.a2gov.org/departments/planning/Pages/City-Master-Plan.aspx) is a collection of documents that the city uses to guide its land use planning and zoning decisions.  New zoning decisions should be consistent with the comprehensive plan.  And that is sometimes a problem for our city, because some of the relevant plans have not been updated since 2009, and we now have a different understanding of what we need to do, based on the ongoing housing crisis and climate crisis in the city.  Specifically, some of our 2009 plans call for suburban, car-oriented, sparse development.  Nowadays, more people understand the need for denser development in the city, so that more people can live here and fewer people need cars.  And sometimes, we are held back in our ability to get the types of developments we know we need in this city because of our out-of-date plans demanding that we get the types of developments we used to think we needed.
+
+For example, look at the [staff report](https://a2gov.legistar.com/View.ashx?M=F&ID=11664204&GUID=3E7E1F77-ABB6-4207-B2E8-DE77575CDB10) from the [North Maple rezoning](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6035859&GUID=39B047F9-86E1-4368-AA20-411DDA2260DF&Options=&Search=) item on the last city council meeting's agenda (2023-04-04).  It says "The Comprehensive Plan – Land Use Element recommends residential uses (single-family) in this location".  Thus, in order to develop this site in a denser, less car-focused way, the developer had to go through the much more onerous "Planned Unit Development" process, to get individually approved for their building as a special case.  There might be other developments that are not even being proposed because they don't expect to successfully navigate that process, and therefore, single-family, low-density, car-based development continues.  The worst is "bigfooting" - when an older, smaller single-family home is torn down in order to build a newer, very expensive single-family home, rather than building an apartment complex and housing more people more sustainably.
+
+Therefore, it is my hope that a new comprehensive plan emerges from this process, which will call for more density and fewer cars.
+
+It seems like the city council is thinking along these lines as well.  Here is what they are asking for in this resolution:
+
+<blockquote>
+RESOLVED, That in carrying out the work identified in the Scope of Services, City staff, Interface Studios, and the Planning Commission work to develop and deliver a Comprehensive Plan to the City Council at the conclusion of this work that:
+
+<ol>
+<li>Carefully considers and implements those portions of the A2Zero Living Carbon Neutrality Plan applicable to land use and development activity in the City;</li>
+<li>In the context of largely developed City, make recommendations of adding new homes and densification in single-family zoned areas, and other areas and zoning districts;</li>
+<li>Develop recommendations and policies that promote fewer zoning districts or categories, that contain more flexibility for re-use and adaptability over time;</li>
+<li>A proposed land use framework that seeks to emphasize values over specified land use limitations where possible;</li>
+<li>Recommendations and policies that undue [sic] and/or seek to repair past land use policies and regulations that resulted in exclusion of people based on race, income or other characteristics and other inequities.</li>
+</ol>
+</blockquote>
+
+I think this sets a good tone for the comprehensive plan update.  I'm particularly excited about working to redress segregation.  The RFP has even stronger language on this topic:
+
+> The City has contributed to racial and related segregation through decisions and investments over time. This work will acknowledge and accept this, and focus on reparative measures and policies that will seek to not only minimize such outcomes in the future, but undo damages of the past.
+
+This plan will be made with significant public engagement.  And the public engagement will not all be of the type where it only engages curmudgeons with lots of time on their hands to talk about how much better it was when this place was all single-family homes.  In [the contract](http://a2gov.legistar.com/View.ashx?M=F&ID=11827269&GUID=689E6EB4-C982-45A1-9734-65D3C7E0E700), the consultant says they will create a neighborhood outreach team, by hiring people to mobilize their own neighborhoods to provide feedback.  They will also host several focus groups focused on specific topics.
+
+However, city staff is responsible for recruiting for the focus groups, rather than experts with lots of experience in recruiting diverse voices.  And there will also be plenty of passive input solicitation, such as online surveys, and open houses, which are likely to be attended by an unrepresentative group of curmudgeons who want to preserve suburban, car-oriented living.  I hope that the consultant is able to weigh this feedback appropriately.
+
+A lot of work will be put into the development of this plan.  The new plan won't be available until July 2024.  That's a lot of time to continue developing the city wrong.  But I understand that the equitable development of this plan will require time.  I just wish we had started a couple of years ago.  Then we might be seeing the new, denser housing already being developed.
+
+In 2019, there was [a proposal to contract with this same consultant to do the master plan update](http://a2gov.legistar.com/LegislationDetail.aspx?ID=4272305&GUID=A6C111F1-75D7-4711-B4CD-A0D31ACF0278&Options=ID%7cText%7c&Search=master+plan&FullText=1), but it was tabled indefinitely by the city council.  The makeup of the city council at that time was much different, and a majority of the members were opposed to high-density development, and wished to preserve as much of the suburban feel of Ann Arbor as possible.  They were worried that an update to the comprehensive plan would result in higher-density, non-car-dependant development.  They had some different excuse for why they said they wanted to table it, but I forgot what the excuse was.
+
+In 2020, the anti-development faction no longer had a majority on the city council, but the Comprehensive Land Use Plan Update was delayed because of the pandemic -- the city was worried it might not have that much money to spend on the update, and that feedback would not be easy to gather.  I remember this happening, but I can't find a specific link to it in Legistar right now.
+
+I don't know why 2021 and 2022 went by without a Comprehensive Land Use Plan update.  Nobody brought it up.
+
+At least now, we have a more diverse, and more equity-focused mix of people on Council.  The 2019 proposal did not include any language about undoing segregation, and did not specifically direct the outcome of building the city to higher densities.  So hopefully, the result of all this delay will be a stronger Comprehensive Plan overall.
+
+
+## INT-3: Presentation on the [City Administrator's Proposed Budget](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6122664&GUID=6B3491D0-5C3A-45CC-90E4-3FFE304AA06B&Options=&Search=)
+
+It's Budget Season.  By which I mean that the City Council [must approve its 2024-2025 budget by July 1](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/budget-guide/Pages/default.aspx).  That means the city council must be considering now what goes into the budget.  To me, this sort of seems to be coming out of the blue.  I am used to a little more fanfare around the creation of the budget - solicitation of feedback, public meetings in which staff presents information to the city council.  But instead, this presentation is the first I'm hearing about the budget this year.
+
+Now that I look for There have been some presentations about the budget posted to <a class="youtube" href="https://www.youtube.com/@CTNAnnArbor">the CTN Ann Arbor Youtube channel</a>, but they don't appear to have been discussed at a publicly-posted meeting.  Usually, the city council has work sessions where they hear this information, and invites the public.  Here are the videos I was able to find:
+
+* [Budget Overview](https://www.youtube.com/watch?v=_gPoUKHo7m4&pp=ygUhYW5uIGFyYm9yIGN0biBidWRnZXQgcHJlc2VudGF0aW9u)
+* [Public Services Area Budget Presentation](https://www.youtube.com/watch?v=LQreAsFLa1o&pp=ygUhYW5uIGFyYm9yIGN0biBidWRnZXQgcHJlc2VudGF0aW9u)
+* [City Attorney's Office Budget Presentation](https://www.youtube.com/watch?v=7hPBDBQX7pI&pp=ygUhYW5uIGFyYm9yIGN0biBidWRnZXQgcHJlc2VudGF0aW9u)
+
+I guess I'll watch those.
+
+I don't know what the city administrator's budget proposal will entail.  I would expect that the agenda would have a powerpoint presentation attached, but it has no information whatsoever.  So I'm going to be quite surprised by this.
+
+At least this is happening in April, with the budget due at the beginning of July, so hopefully, the city council will have some time to discuss this publicly and pass resolutions and amendments.  That would be a better process than is usually used, where all the budget amendments show up at once, at the last second, at the very next meeting after we see the city administrator's proposed budget.
+
+Things that I hope to see in this budget:  
+* A reduction in the amount of money we spend on the police (some $31m).
+* A redistribution of that money into other things, such as subsidized housing, and unarmed response.
+* Probably some other stuff.
+
+If they increase the police budget, I will be cross.
+
+On the topic of unarmed response:  In 2022, the city received $24m from the American Rescue Plan Act, and [decided to spend $3.5m of this to create an unarmed response program](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5534294&GUID=E5B3011D-DF6A-474F-A18E-AC754BA50E6E&Options=ID%7CText%7C&Search=R-22-096).  As this would be an ongoing program, this one-time infusion of money would only get it started, but we would have to continue funding it in our budgets to keep it going.  So I hope to see some funding to continue the program in this budget.  However, if anything is happening with the unarmed response program, it's not happening very visibly, and I don't think the program has started yet.  Perhaps the [Coalition for Re-envisioning Our Safety](https://www.reenvisionoursafety.org/) has more information about this.
+
+
+## PH-1 = B-1: [415 W Washington](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6054963&GUID=41B151CE-10DE-4380-811B-79A5ADFADB3E&Options=&Search=)
+
+In 2019, the city council passed [a resolution asking the Ann Arbor Housing Commission to evaluate all city-owned land for potential development of subsidized housing](http://a2gov.legistar.com/LegislationDetail.aspx?ID=3903308&GUID=38598520-B6EE-4907-878A-D523E72D50FD&Options=ID%7cText%7c&Search=housing&FullText=1).  After undertaking the analysis, the Ann Arbor Housing Commission came back with [its recommendations](http://a2gov.legistar.com/LegislationDetail.aspx?ID=4218095&GUID=FE93751E-7D9B-4B45-8D74-575095A4AA75&Options=ID%7CText%7C&Search=R-19-138).  They said that 415 W Washington was not suitable for the development of subsidized housing because it is close to a railroad track and in a flood zone.  [They undertook a public engagement process](http://a2gov.legistar.com/View.ashx?M=F&ID=8238417&GUID=5A4FF14D-E1A2-49B5-869A-7ED16FBD44A3), and came back with a recommendation to sell the land to a developer who could develop housing here, and then either provide some units as below-market-rate housing, or put money into the affordable housing trust fund.
+
+In order to make this site more attractive to a developer, the city undertook a process to prepare the special <abbr title="Planned Unit Development">PUD</abbr> zoning and a concept plan.  That way, it will be easier to attract a developer to develop this land in the way that we want, because they know that as long as they build to these specifications, many of the hurdles have already been cleared.
+
+This is what is on the agenda at this meeting:  The PUD zoning and a concept plan.  If the city council passes this, all a developer will have to do is submit their final site plan for approval by staff.  So hopefully we will be able to find a developer to buy this land, build the housing that we want, and contribute to affordable housing either through onsite units or by contributions to the affordable housing fund.
+
+This site is challenging to build on becuase it is situated in the flood plain and the flood way.  People at council meetings keep talking about the difference between these things and I never remember, but some people seem to feel this is an important distinction.  But this site has both!  The concept plan calls for building the building on stilts, so that the first floor will be parking, and the actual habitations are above the height we expect a flood to hit.
+
+Another reason this site is challenging is because it is contaminated.  It served as a fleet service building for the city, at some time in the past.  It must've been before 1998, because that building has been abandoned as long as I've been here.  But anyway, lots of chemicals got into the soil.  So there will have to be a brownfield plan to clean the site up - that's where a developer pays up-front to remediate the soil, and then the city pays them back over a long period of time by not charging them property taxes on the full value of the building.  The brownfield plan is not included in this proposal.  It will have to be worked out between a developer and the city.
+
+In addition to the soil remediation and the housing, the city will benefit from this development in another way:  By extending the [Treeline Trail](https://www.a2gov.org/departments/systems-planning/programs/Documents/Allen%20Creek%20Greenway%20Master%20Plan%20Project/Treeline_MasterPlan_Draft_v11.pdf) through this property - a publicly-accessible, nonmotorized path which is not directly adjacent to a road with cars.
+
+This plan also calls for the preservation of the historic chimney that's at the site, which is a habitat for [chimney swifts](https://en.wikipedia.org/wiki/Chimney_swift).  [Purpose-built Chimney Swift towers](https://nc.audubon.org/news/build-your-own-chimney-swift-tower) can be made for as little as $600, but people also like historic preservation, as well as natural preservation, so they want the chimney.
+
+At this meeting, this is Second Reading for this ordinance.  It already passed at first reading, at the [2023-03-20 meeting of the city council](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062168&GUID=0FC65A83-D886-430A-BB56-96513D85DA08&Options=info&7C&Search=).  That means that there will be a public hearing for this item, and if it passes, it will happen.
+
+{% include image.html
+  src = "/assets/2023-04-17/415-w-washington-concept-plan.jpg"
+  alt = "A schematic drawing of 415 W Washington and some nearby buildings, mostly focused on relative heights. It will not reach as high as the St Paul's Lutheran Church, and will be at the same height as \"Liberty Lofts\".  It will be 70' tall, and sort of have two towers, with a courtyard in between.  One tower is taller than the other - 5 stories vs 3.  Also, the ground floor is stilts and parking lot."
+  caption = "A schematic drawing showing the height of what a 415 W Washington development might be like, compared with the heights of nearby buildings."
+  credit = "From the <a href=\"http://a2gov.legistar.com/View.ashx?M=F&ID=11701974&GUID=029DA7E1-4227-4053-8E2C-33DBDFD28C1E\">concept plan</a>"
+%}
+
+{% include mapn.html
+  boxid     = "415-w-washington"
+  locations = page.map_415_w_washington
+  caption   = "An interactive map of 415 W Washington and the other locations mentioned in the concept plan diagram."
+  zoom      = 17
+%}
+
+{% include image.html
+  src     = "/assets/2023-04-17/Chimney-Swift-Tower.jpg"
+  alt     = "Photo of a chimney swift tower on a roof.  It is a tall, grey box.  It is tied down by guy wires and has metal legs sticking out for stability and each foot is resting on a wooden plank.  There is some sort of electronic box attached to it, and a red cable runs along the roof to connect to it."
+  caption = "A purpose-built chimney swift tower."
+  credit  = "Jean-Sébastien Guénette, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC-BY</a>, from <a href=\"https://en.wikipedia.org/wiki/Chimney_swift#/media/File:Nesting_tower_for_Chimney_Swift_GUEJ080501-24.jpg\">wikipedia</a>."
+%}
+
+
+## CA-9: [Airport Hangar Lease](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6122675&GUID=D553D0EF-A3AC-41A9-890B-5854C768A3FD&Options=&Search=)
+
+The city is in charge of operating the [municipal airport](https://www.a2gov.org/departments/fleet-facility/Airport/Pages/default.aspx).  One of the hangars at the airport is leased to a privately-run company that repairs and refuels planes.  This type of company is called a "Fixed-Base Operator (FBO)".  The same company has been operating as the FBO there since the 90s, but the person who was running it wanted to retire.  The city council, therefore, sought someone else to lease the hangar and operate an FBO there.
+
+In November of 2022, [the city council authorized a lease to one Beacon Aviation](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5940156&GUID=048C52D9-96CB-432A-92F7-421D19649AA8&Options=ID%7cText%7c&Search=R-22-374&FullText=1).  This would not be something that would catch my eye on an agenda, since it seems so routine.  But it came to my attention when <a class="youtube" href="https://youtu.be/kgF6LlWXgTw?t=666">Mark Roisen, the retiring operator of the current FBO, spoke at the council meeting</a>.  Apparently, there had been some mix-up where he thought he would be able to continue operating his business there and choose his successor, but he did not properly fill out the RFP when the time came.  So, that's sad for him, but it happened in the past.
+
+At this meeting, the thing that's on the agenda is to stop leasing to Beacon Aviation and to instead lease to Herron Aviation Group.  It turns out that Beacon Aviation was a partnership between Herron Aviation Group and Great Lakes Air Ventures, but Great Lakes Air Ventures wants out, and Herron Aviation Group says they're cool doing it by themselves, so this is a simple swaperoo.
+
+I wouldn't even mention this, except for that drama that went down last time this came up.
+
+
+## CA-13: [Additional Funding for Gelman Plume Litigation](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6123466&GUID=BB7455EF-5DE5-41D4-A7BC-D35A81CFD029&Options=&Search=)
+
+Gelman Plume litigation is neverending.  Here's another $150,000 for it.  At some point, would it be worth stopping the litigation and paying for the cleanup ourselves?  Theoretically, but we're nowhere near that point.  It's going to cost untold millions to do the cleanup.  We can dump tremendous money into getting the original polluter to clean up their 1,4-dioxane spill and we will never come close to it being as expensive as the actual cleanup.  I do hope we succeed, though.  While it is morally right for us to not have to pay to clean up the pollution that they caused, if they just won't do it, it hardly matters that we were right.
+
+But, let's stay the course and try to win.
+
+
+## C-1: [Water Rate Increases](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6122673&GUID=A5D97CFF-B226-417A-9440-D6301D5F0E39&Options=&Search=) and C-2: [Stormwater Rate Increases](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6122674&GUID=B86C7EFD-570D-4D6A-9631-9B1C10880908&Options=&Search=)
+
+Water rates are increasing, in order to cover the costs of upgrades to our water treatment plant.  One reason we need to upgrade the plant is to make sure we can clean up all the dioxane, PFAS, and hexavalent chromium that people keep dumping in the water!  But that's actually a very small portion of what the money will be spent on.  The water treatment plant was built in the 1930s and just needs routing maintenance and upgrades that we've been putting off.
+
+This is another thing that would just be a routine no-brainer, except that it was a major campaign issue in 2018, when a bunch of city council members ran on the platform of claiming that there was an evil conspiracy to change water rates or something.  All of those people have been voted out of office, so it is no longer controversial to collect enough funds to fix our water treatment plant.
+
+I tried to find the capital improvement plan for the water system on the city's website. I found [this article talking about the water capital improvement plan](https://www.a2gov.org/departments/water/pages/article.aspx?i=35), which linked to [the city's general page about capital improvement plans](https://www.a2gov.org/departments/systems-planning/programs/Pages/Capital-Improvement-Planning.aspx), but the [water section of this page](https://www.a2gov.org/departments/systems-planning/programs/Pages/SWIPP.aspx) has no documents listed.  I filed [a ticket with the city](https://seeclickfix.com/web_portal/vJVn5mBi5wQBY7ztM8883ufB/issues/14375261) about this.
+
+However, there is at least this [map of planned capital improvements](https://a2-mi.maps.arcgis.com/apps/dashboards/2795c7caa1414c83b770e952761c5fda) and you can filter it to show only the water-related stuff.
+
+
+## DC-1: [Amendment to Council Rules](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6123551&GUID=1740B255-1846-4515-B92C-FF5C488C0513&Options=&Search=)
+
+A few meetings ago, the city council attempted to postpone an item until a certain date, to give staff time to work on a request.  I forget when that happened.  But the city attorney informed them that they could only postpone an item to the very next meeting, or table it indefinitely.  They didn't like that, because they wanted to get it on the calendar and not forget it, but they also wouldn't have the necessary information at the very next meeting.
+
+Furthermore, it had been the practice of the city council to postpone things until a certain date.  The old city attorney let them get away with it, but the new city attorney had a stricter reading of Roberts Rules of Order, and of the city council's rules.
+
+So, the city council administration committee came up with this proposal to amend the rules to allow them to postpone items to certain dates, or until a certain condition is met "[(e.g. moving consideration after a specific report has been issued)](http://a2gov.legistar.com/View.ashx?M=F&ID=11824156&GUID=EEFAC8AB-8CE8-4157-872E-ADE27C2FA4A6)".
+
+The new rules also specify that the city administrator can move the agenda around to put related things together.
+
+Sometimes, we'll see a rezoning and a site plan come to a meeting, and because of some arcane categorization scheme, the city council will end up discussing the rezoning, and then a whole bunch of other things, and then the site plan for that same development proposal.  This would allow the city administrator to put those type of things together.
+
+Now, at the beginning of every meeting, the city council has a section where the mayor asks if anyone wants to propose changes to the agenda, and the city council could make these type of changes themselves at this time, but they never think to.  This would let staff do it for them ahead of time, to streamline discussion.
