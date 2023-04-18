@@ -50,6 +50,7 @@ The things I'm most excited about are:
   mtgid   = "942 1273 2148"
   youtube = "https://www.youtube.com/watch?v=oaYHCuOpXPg"
   thread  = "https://a2mi.social/@MegaMichelle/110216635786456938"
+  votes   = "https://a2council.vote/post/council-meeting-2023-04-17/"
 %}
 
 ## CA-14: [Comprehensive Land-Use Plan Update](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6124799&GUID=9D65CC3D-0D29-4EC8-84E5-085A0325CB33&Options=&Search=)
