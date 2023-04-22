@@ -141,80 +141,168 @@ The way I see it, if we really want to pay tribute to indigenous land holders, w
 
 ### Unarmed Response
 
-In 2022, 
+In 2022, the city council passed its [resolution about what to do with the $23m that the city would receive from the American Rescue Plan act](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5534294&GUID=E5B3011D-DF6A-474F-A18E-AC754BA50E6E&Options=ID%7CText%7C).  Among the allocations was $3.5m to start a program of unarmed response.  The idea was to have someone you can call who is not the police.  The police sometimes behave in dangerous ways and can hurt or kill people.  If your intent is to get help for a loved one who is experiencing a mental health crisis, and you call 911, that loved one may end up murdered instead of helped, [as happened to Aura Rosser here in Ann Arbor in 2014](https://radicalwashtenaw.org/2015/04/02/peoples-retort-to-the-prosecutors-report/).  Therefore, people may choose not to call 911 to get help for people who they want helped and not killed.
 
-ARPA resolution
-http://a2gov.legistar.com/LegislationDetail.aspx?ID=5534294&GUID=E5B3011D-DF6A-474F-A18E-AC754BA50E6E&Options=ID%7CText%7C
+So instead, we could create a different program - a way to get experts out to someone who needs help, and make sure that these experts are unarmed, and are not police, and therefore more likely to help and less likely to kill.  This program may work similarly to the [CAHOOTS program in Eugene, Oregon](https://whitebirdclinic.org/what-is-cahoots/).
 
-2022 resolution for Public Service Consultants
-http://a2gov.legistar.com/LegislationDetail.aspx?ID=5664583&GUID=EC8616E5-1427-44FE-824B-E6352DC955AC&Options=ID%7cText%7c&Search=public+sector+consultants&FullText=1
-(PSC contract update to pay respondants)
-http://a2gov.legistar.com/LegislationDetail.aspx?ID=5865158&GUID=B4531347-ABBC-4B2B-99B0-3DA9752E8B34&Options=ID%7cText%7c&Search=public+sector+consultants&FullText=1
+But how _exactly_ will the program work?  In June 2022, the city council passed a [resolution to hire a consultant for $100k](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5664583&GUID=EC8616E5-1427-44FE-824B-E6352DC955AC&Options=ID%7cText%7c&Search=public+sector+consultants&FullText=1) to conduct public engagement to gather ideas for how the program should work.  And [amended the contract in October 2022](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5664583&GUID=EC8616E5-1427-44FE-824B-E6352DC955AC&Options=ID%7cText%7c&Search=public+sector+consultants&FullText=1) to include $5,000 to pay participants for their time.  
 
-Hillard Heintze report
-https://www.a2gov.org/departments/city-administrator/Documents/Hillard%20Heintze%20Report%20for%20Ann%20Arbor%20Police%20Department%2011-3-17.pdf
+I certainly hope that this goes better than the [2017 Hillard Heintze contract](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5664583&GUID=EC8616E5-1427-44FE-824B-E6352DC955AC&Options=ID%7cText%7c&Search=public+sector+consultants&FullText=1) to figure out how to create a police oversight commission.  That resulted in a [disastrous report](https://www.a2gov.org/departments/city-administrator/Documents/Hillard%20Heintze%20Report%20for%20Ann%20Arbor%20Police%20Department%2011-3-17.pdf) that was completely unacceptable to the advocates who were trying to create a police oversight commission, and had to be completely ignored when designing the [Independent Community Police Oversight Commission](https://www.a2gov.org/departments/city-clerk/Boards-and-Commissions/Pages/Independent-Community-Police-Oversight-Commission.aspx).
 
-Resolution to award Hillard Heintze contract
-http://a2gov.legistar.com/LegislationDetail.aspx?ID=2962042&GUID=072D6BE3-C14F-4FDD-9FC4-A765B5DD936A&Options=ID|Text|
+For the unarmed response program, the relevant advocates are [the Coalition for Re-envisioning Our Safety (CROS)](https://www.reenvisionoursafety.org/).  I hope their ideas are considered.
 
+So, why did the city administrator bring any of this up in the budget discussion?
 
-Unarmed response: $3.5M from ARPA.  $250k from marijuana $$$ in each of FY23, 24, 25.  What is the status of this program???  Ask CROS maybe?  Ask CM Song? (She made sure it was ARPA-funded) or CM Harrison (interested in this issue)
+He mentioned the $3.5M in <abbr title="American Rescue Plan Act">ARPA</abbr> money to get the program started, and also said that $250k would be allocated from marijuana tax money in each of FY2023, 2024, and 2025, to run the program.  We'll have a more realistic picture of what kind of money it takes to run the program once we get it off the ground, which we won't do until that consultant report comes back.
 
 ### Downtown Safety
 
-Downtown safety:  They want walking teams downtown with fire-EMS, and "supportive connections".  Great idea except the police.  Ppl won't talk when they're around and won't get their needs met.  Cops will take notes on ppl & use it to oppress their community.
+The city administrator mentione creating a new team for "downtown safety".  The team would walk around downtown and talk to people and see if they need help.  The team will consist of someone from the city's [Supportive Connections](https://www.a2gov.org/services/Pages/Supportive-Connections.aspx) department, an <abbr title="Emergency Medical Technician">EMT</abbr> from the fire department, and ... a police officer.
+
+I think those first two are a great idea, and the last one is such a bad idea that it negates the other two.  Do we want to help people?  Great, send supportive connections and EMTs.  Do we want to hurt people and throw them in jail?  Great, send police.  But if we want to give people help, we would be most effective if the people could be honest with the people who are trying to help them.  But people who need help are going to be less likely to be honest about the help they need when there is a police officer around.  Police officers are too likely to inflict harm on a person needing help, or their friends.  For example, If a person needs help because of a substance use disorder, or knows someone who needs help for that reason, it is not safe to discuss this in front of a police officer who might arrest them instead of helping them.  Meanwhile, even in an innocuous conversation, police will be gathering intelligence that they can use to suppress the community.
+
+So I sincerely hope they rethink this program to have only the EMT and supportive connections.
 
 
 ### Election Center
 
-City Administrator Dohoney says he wants to buy a new building
+City Administrator Dohoney says he wants to buy a new building.  He expects this to be a 7-figure land transaction, and cost $300k annually for operating expenses.  This building will house [CTN](https://www.a2gov.org/departments/communications/CTN/Pages/default.aspx), an Emergency Operations Center, and a new Election Center.
 
-A new building for the city to buy or build:  Election Center + CTN + Emergency Operations Center. 7-fig land transaction. $300k annual expense.  9 days early voting. EOC would run during storms, vice president visits, etc.  Violent fascist uprisings???
+The Election Center will be some sort of operations center for elections.  They intend to have 9 days of early voting.
+
+The Emergency Operations Center will be where they coordinate the city's response to emergencies.  City administrator Dohoney said that if they had an emergency operations center, it would've been activated for the snow storm, the ice storm, and the vice president's visit.  Instead, they rely on the University of Michigan to donate space for temporary emergency operations centers for each emergency.
 
 ### Compensation Study
 
-They're gonna do a study, $150k, about compensation, to make us competitive and equitable. We need good staff.  We need to hire & retain them.
+City Administrator Dohoney said that the city's compensation is not competitive.  Therefore, talented city staff leaves their jobs for more lucrative ones in the private sector, or simply choose not to come work for the city in the first place.  Furthermore, it remains to be seen that compensation levels are equitable.  It may be that women or people of color are making less than they should, given their positions.
+
+In order to sort this all out, the city administrator proposes undertaking a compensation study, and hiring a consultant for $150k to do it.  Then we will be able to reassess compensation levels.
 
 ### Better Office for Supportive Connections
 
-"Supportive Connections" moved from 4th flr courthouse to 1st flr city hall.  Using opioid settlement $ to remodel.  Toynbee Idea: Safe consumption center.
+The city's [Supportive Connections](https://www.a2gov.org/services/Pages/Supportive-Connections.aspx) department is currently on the 4th floor of the Justice Center, which has the police station and the courthouse.  That means that people who need supportive services have to pass through a metal detector and be searched, and aren't allowed to bring phones in, and then end up in a cramped office.
+
+The city administrator proposes remodeling city hall, to build a new Supportive Connections office on the first floor of city hall, using money from the [opioid settlement](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6103430&GUID=664614CA-03AB-4E08-A6E9-6845E36BD75E&Options=&Search=&FullText=1).  That seems like a reasonable use of that money.
+
+I wish that the new Supportive Connections office included a [safe consumption center](https://drugpolicy.org/issues/supervised-consumption-services).
 
 ### Redevelop City Hall
 
-Redevelop city hall, with market-rate development?  Use less office space cuz WFH.
+The City Administrator said that the city will need more revenue.  He proposes redeveloping city hall, to put market-rate housing there.  I didn't totally understand the plan, from the presentation.  Will they be knocking down city hall and finding office space elsewhere?  Will they be knocking down city hall, and developing a new building with office and residential, and then putting the city offices in the office part?  I don't know.  He did mention that city hall doesn't need as much space as it used to, now that so many of the city's staff work from home.
+
+I just hope they keep the city's services downtown and resist the temptation to get a new office out in car-land where it is inaccessible.
+
+{% include map.html
+  boxid = "city-hall"
+  lat = 42.28172232317355
+  lon = -83.74539232433673
+  zoom = 18
+  caption = "An interactive map showing where City Hall is"
+%}
 
 ### Market-Rate Development at the Kline Lot
 
-Market-rate development at the Kline lot?????  What did AAHC say?  Too big for all-subsidized housing.  Maybe split the land up like Veridian or 5th/William Y lot??
+The City Administrator also proposed raising revenue by selling the Kline Lot for market-rate housing development.  The Kline lot is a city-owned parking lot downtown.  
 
-### Defund the Police??
+When the Ann Arbor Housing Commission did its [study of the feasibility of affordable housing at each underutilized city-owned property](http://a2gov.legistar.com/LegislationDetail.aspx?ID=4218095&GUID=FE93751E-7D9B-4B45-8D74-575095A4AA75&Options=ID%7CText%7C&Search=R-19-138), they suggested developing the Kline lot as affordable housing, after public engagement.  They deemed this spot as more complicated than some of the others that were proposed, so it hasn't yet become their top priority.  I can't find it, but I swear I remember a presentation in which Jen Hall, director of the Ann Arbor Housing Commission, said that the Kline Lot was so large that it would be hard to build something there that was all subsidized housing funded by federal Low-Income Housing Tax Credits, and that we might have to do something else in order to get that space developed.  I hadn't thought that she was suggesting selling the lot for entirely market-rate development.  I was expecting a proposal more like what we have with the [old Y Lot, at 350 S. Fifth](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5465054&GUID=1EA934B5-DB88-4AE8-AF42-EDC6E6303D99&Options=ID%7cText%7c&FullText=1), or the county's [Veridian at County Farm Park](https://www.veridian.community/) project, where part of the lot will be developed as federally-subsidized housing and the other part as market rate housing.
 
-I'm not hearing enough about defunding the police!
+It may be that we need the money we would get from selling the entire lot, or that we need the money we would get from the property taxes on the entire lot.  Or it may be that it is possible to develop some of this as subsidized housing after all.  I would like to hear more about this proposal.  Here is the [report from public engagement that was done about this lot](https://www.community-engagement-annarbor.com/lots/309-s-ashley).
+
+{% include map.html
+  boxid = "kline-lot"
+  lat = 42.278696227597354
+  lon = -83.74952827404454
+  zoom = 17
+  caption = "Interactive map showing the location of the Kline Lot, at 350 S. Ashley"
+%}
 
 ### Unallocted $1M
 
-$1M marijuana tax unallocated.  What to do with it???
-Do yr duty by smoking more marijuana.  Marijuana tax revenue did not increase.
+The City Administrator's proposed budget leaves $1M unallocated, from the money that the city gets from the marijuana sales tax.  What will the city council do with this money?  That will be decided in the next couple of meetings, and with your input.  You can email [CityCouncil@a2gov.org](mailto:CityCouncil@a2gov.org).
 
-## Comprehensive Plan Update
+He also said that, in each previous year since the legalization of marijuana in 2018, the city has gotten more money from the marijuana tax than it did the previous year.  But this year, for the first time, our marijuana tax income has plateaued.
 
-CA-14: Comprehensive Plan update.  Explicitly about more housing, and redressing segregation:
-From the RFP: The City has contributed to racial and related segregation through decisions and investments over time. This work will acknowledge and accept this, and focus on reparative measures and policies that will seek to not only minimize such outcomes in the future, but undo damages of the past.
+Therefore, it is your civic duty to buy more marijuana!  Come on, people!  The city needs income to help people!
 
-I hope public engagement will be representative & include ppl who live here as well as ppl who don't, but would want to.
+### Defund the Police??
+
+One thing I did not hear enough about in this presentation is defunding the police.  He didn't explicitly say anything about allocating more money to the police, but he didn't say anything about allocating less, either.  And he didn't show the summary tables of the proposed budget, either, so I don't know how mad I am yet.
+
+Last I checked, the city was spending more than $30m per year on police - a program that hurts people and is not effective at helping people.  If we spent anywhere near that much on subsidized housing, mental health care, and supportive services, there would be far fewer problems.
+
+
+## The [Comprehensive Plan Update](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6124799&GUID=9D65CC3D-0D29-4EC8-84E5-085A0325CB33&Options=&Search=)
+
+The Comprehensive Land Use Plan update was something I talked about more extensively in my [preview post that I wrote before this meeting](/posts/a2council-wrapup-2023-04-17/).  Essentially, the Comprehensive Land Use Plan is what the city can use to guide its zoning and planning priorities.  [Our current Comprehensive Land Use Plan](https://www.a2gov.org/departments/planning/Pages/City-Master-Plan.aspx) contains elements that were designed when car-centric, suburban life was thought to be desirable.  We now know that it is bad for the cultural development of cities, bad for equity and affordability, and bad for the planet, so it is good that we will develop a new plan based on these values.
+
+I have high hopes for this process, because the resolution approving the contract includes these as explicit goals:
+
+<blockquote>
+<ul>
+<li>Develop recommendations and policies that promote fewer zoning districts or categories, that contain more flexibility for re-use and adaptability over time;</li>
+<li>Recommendations and policies that undue [sic] and/or seek to repair past land use policies and regulations that resulted in exclusion of people based on race, income or other characteristics and other inequities.</li>
+</ul>
+</blockquote>
+
+The thing the city council passed at this meeting was a contract with "Interface Studio LLC" for $700k to develop a new Comprehensive Land Use plan that is targeted to be ready in June of 2024.  The time between now and then will be used for extensive public input, and I hope that the public input is designed to gather a representative set of people, rather than just the ordinary folks who jump up to volunteer for this sort of thing.  And I hope that this representative set of people includes not just people who live in Ann Arbor now, but also people who _could_ and _would_ live in Ann Arbor if our land use was less exclusionary.
+
 
 ## 415 W Washington [Zoning and Concept Plan](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6054963&GUID=41B151CE-10DE-4380-811B-79A5ADFADB3E&Options=&Search=)
 
-B-1: 415 W Washington. "Pre-entitlement" - city clears the way for a private developer to do this.  We'll get $ for subsidized housing. We couldn't build subsidized here because of flood plain / flood way.  5 stories, 157 units, historic preservation, chimney swifts, soil remediation, treeline trail.
+The city council passed a PUD rezoning and Concept Plan for 415 W Washington, which has been an abandoned city building and a parking lot for decades.  It was [considered for subsidized housing development](http://a2gov.legistar.com/View.ashx?M=F&ID=8238417&GUID=5A4FF14D-E1A2-49B5-869A-7ED16FBD44A3), but it turns out that the lot is entirely in the flood plain and the flood way, and it is too close to railroad tracks, so it doesn't qualify for federal [Low-Income Housing Tax Credits](https://www.huduser.gov/portal/datasets/lihtc.html), which are the main way that the [Ann Arbor Housing Commission](https://www.a2gov.org/departments/Housing/Pages/default.aspx) funds its subsidized housing.
 
-## Center of the City
+Therefore, the plan is to sell this land to a developer.  The city can then use the sale money, and the property taxes, for affordable housing purposes, and also require the developer to have some of the apartments reserved as non-subsidized below-market-rate housing, but allow the developer to pay a fee instead of providing this housing onsite.  That money can then go toward providing subsidized housing elsewhere.
 
-Center of the City: Lots of speakers say it's time to put this mess out of its misery, after the staff memo about the feasibility of doing food trucks there.
+The reason for the city to pass this zoning and concept plan is that it will make this deal more attractive to developers, knowing that the regulatory hurdles have been cleared.  The developer will still have to create a Site Plan, which must be accepted by the city's planning staff, but the risk for a developer is much lower than buying the land not knowing what, if anything, they will be allowed to build.
 
-## Gelman Litigation
+The developer must also undertake a soil remediation project, because this land is contaminated with dangerous chemicals that are left over from when this building was used to service city-owned vehicles.  Any development here will come with a "brownfield plan", where the developer will pay upfront to remediate the soil, and then the city will slowly pay them back over the years, in the form of reduced property taxes.  The details of this brownfield plan will be hammered out if and when a developer decides to develop this site.
 
-CA-12: $150k for Gelman litigation:  Thresholds have been crossed where the court order says they need to build new monitoring wells & do stuff, but they didn't do it, so we need to launch an additional lawsuit.
+The concept plan and zoning that were passed at this meeting call for some of the land to be reserved as part of the [Treeline Trail](https://www.a2gov.org/departments/systems-planning/programs/Documents/Allen%20Creek%20Greenway%20Master%20Plan%20Project/Treeline_MasterPlan_Draft_v11.pdf) - a publicly-accessible, nonmotorized path which is not directly adjacent to a road with cars.
 
-CA-11: Earhart sidewalk.  This one is a no brainer, but people have been complaining about another sidewalk on Earhart.  City has a compromise that will narrow the road, put the sidewalk there, & remove fewer trees.
+This plan also calls for the preservation of the historic chimney that's at the site, which is a habitat for [chimney swifts](https://www.audubon.org/field-guide/bird/chimney-swift).  [Purpose-built Chimney Swift towers](https://nc.audubon.org/news/build-your-own-chimney-swift-tower) can be made for as little as $600, but people also like historic preservation, as well as natural preservation, so they want the chimney.
 
-Water rate increases, to support water capital improvements. Some of that treatment plant is from the 1930s.
+The rezoning and concept plan were approved by city council.  Now, we just have to find a developer who's willing to take up the project. 🤞.
+
+The concept plan calls for 5 stories, and 157 units.  15% of these units (min 15 units) would be below-market-rate, or require a contribution to the affordable housing fund instead.
+
+{% include image.html
+  src = "/assets/2023-04-17/415-w-washington-concept-plan.jpg"
+  alt = "A schematic drawing of 415 W Washington and some nearby buildings, mostly focused on relative heights. It will not reach as high as the St Paul's Lutheran Church, and will be at the same height as \"Liberty Lofts\".  It will be 70' tall, and sort of have two towers, with a courtyard in between.  One tower is taller than the other - 5 stories vs 3.  Also, the ground floor is stilts and parking lot."
+  caption = "A schematic drawing showing the height of what a 415 W Washington development might be like, compared with the heights of nearby buildings."
+  credit = "From the <a href=\"http://a2gov.legistar.com/View.ashx?M=F&ID=11701974&GUID=029DA7E1-4227-4053-8E2C-33DBDFD28C1E\">concept plan</a>"
+%}
+
+{% include mapn.html
+  boxid     = "415-w-washington"
+  locations = page.map_415_w_washington
+  caption   = "An interactive map of 415 W Washington and the other locations mentioned in the concept plan diagram."
+  zoom      = 17
+%}
+
+{% include image.html
+  src     = "/assets/2023-04-17/Chimney-Swift-Tower.jpg"
+  alt     = "Photo of a chimney swift tower on a roof.  It is a tall, grey box.  It is tied down by guy wires and has metal legs sticking out for stability and each foot is resting on a wooden plank.  There is some sort of electronic box attached to it, and a red cable runs along the roof to connect to it."
+  caption = "A purpose-built chimney swift tower."
+  credit  = "Jean-Sébastien Guénette, <a href=\"https://creativecommons.org/licenses/by/3.0\">CC-BY</a>, from <a href=\"https://en.wikipedia.org/wiki/Chimney_swift#/media/File:Nesting_tower_for_Chimney_Swift_GUEJ080501-24.jpg\">wikipedia</a>."
+%}
+
+
+## No Food Trucks at the [Center of the City](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6167729&GUID=11070037-B403-412C-924A-25A28D3DB13D&Options=&Search=)
+
+I wrote in my [preview post for this meeting](/posts/a2council-preview-2023-04-17/#ac-1-no-food-trucks-at-the-center-of-the-city) about the Center of the City, and how the Council of the Commons has taken years to develop something at the Library Lot, which has a special significance in the city's charter, due to a ballot initiative passed in 2018.  
+
+The Council of the Commons asked city staff to look into the feasibility of having food trucks at the Library Lot, and city council approved that request.  City staff wrote [this memo, which says that it was not at all feasible](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6167729&GUID=11070037-B403-412C-924A-25A28D3DB13D&Options=&Search=).
+
+There were seven public commenters who spoke at this meeting to say that it's time to put this project out of its misery, and pass a new charter amendment to allow something else to be done here.  And one to say that we should continue the project.
+
+There were no votes to be taken at this meeting about it.
+
+## New Contract for [Gelman Litigation](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6123466&GUID=BB7455EF-5DE5-41D4-A7BC-D35A81CFD029&Options=&Search=)
+
+The city council approved $150k to spend on hiring a lawyer to deal with litigation on the Gelman plume.  [Councilmember Disch explained](https://www.youtube.com/watch?v=oaYHCuOpXPg&t=6828s) that previous court orders have mandated that, if the pollution passes certain thresholds, the polluter has to take new actions, including creating new monitoring wells. The polluter has not done this, so the city has to take additional court actions to get the court to enforce its previous order.
+
+## Antisemitism
+
+This meeting happened on [Yom HaShoah, Holocaust Remembrance Day](https://www.ushmm.org/remember/days-of-remembrance).  Local antisemite Henry Herskovitz came to speak holocaust denial.  No member of the audience stopped or heckled him.  He was allowed to complete his remarks peacefully and leave the building calmly.  No other public commenter after him said anything about it, because they had precious time to deliver the remarks they had prepared.  But several councilmembers spoke against what they had heard.
+
+I wish there were something that could be done to make this person feel less confident about going up there and speaking these things.  Jewish members of the community deserve to participate in their local government without having to listen to hate speech directed against them.
