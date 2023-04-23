@@ -78,6 +78,12 @@ This presentation only covers a small portion of the budget, and doesn't have th
 
 But let's see what the city administrator chose to highlight in his presentation at this meeting.
 
+{% include image.html
+  src = "/assets/2023-04-17/budget/overview.jpg"
+  alt = "Presentation slide. Title: City administrator's proposed FY24-25 budget.  Text:  All funds budget = $563,666,318.  General Fund (GF) = $129,232,651."
+  caption = "Overview slide from the budget presentation."
+%}
+
 ### State Revenue Sharing
 
 An important constraint that the city is operating under is that [state revenue sharing](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/budget-guide/Pages/StateSharedRevenue.aspx) is not going up, so we're on our own.  The state revenue sharing is money that the state gives to municipalities.  It comes from the sales taxes that the state collects.  Since the 90s, Republicans have been reducing the amount of money that the state shares with municipalities.  Back in the day, the city had the voters approve a certain property tax amount for its operating millage, but didn't even need to collect that entire amount, because the state revenue sharing paid for so much.  But since then, the amount that the state shares has decreased, so the city has had to collect increasingly large percentages of its operating millage.  If you've noticed your property taxes increasing over the decades, this is why.  I had hoped that, with Democrats back in control of the state legislature, we might see that trend reverse, but not yet.
@@ -98,6 +104,12 @@ The city administrator proposes building some downtown restrooms using $200k fro
   caption   = "An interactive map showing where Liberty Plaza is."
 %}
 
+{% include image.html
+  src = "/assets/2023-04-17/budget/throne.jpg"
+  alt = "Presentation slide.  A photo of a bathroom stall in a public plaza in some other city. It says 'Throne: your clean bathroom.' Title: Downtown commitment. Text: Public restrooms. $200k - ARPA. Pilot. Partnership with DDA. Public Engagement / Placement Analysis."
+  caption = "A 'Throne' bathroom in some other city.  This one has steps, but city administrator Dohoney assured us that we would get a barrier-free version for Ann Arbor."
+%}
+
 ### 121 E Catherine St
 
 In 2019, the city council passed [a resolution asking the Ann Arbor Housing Commission to evaluate all city-owned land for potential development of subsidized housing](http://a2gov.legistar.com/LegislationDetail.aspx?ID=3903308&GUID=38598520-B6EE-4907-878A-D523E72D50FD&Options=ID%7cText%7c&Search=housing&FullText=1).  After undertaking the analysis, the [Ann Arbor Housing Commission](https://www.a2gov.org/departments/Housing/Pages/default.aspx) came back with [its recommendations](http://a2gov.legistar.com/LegislationDetail.aspx?ID=4218095&GUID=FE93751E-7D9B-4B45-8D74-575095A4AA75&Options=ID%7CText%7C&Search=R-19-138).  They said that 121 E Catherine St is their top priority to develop this parking lot as subsidized housing (63 apartments).
@@ -114,6 +126,12 @@ To build the community center means doing neighborhood outreach, and that means 
   lon       = -83.74743162986981
   zoom      = 18
   caption   = "An interactive map showing where 121 E Catherine is."
+%}
+
+{% include image.html
+  src = "/assets/2023-04-17/budget/121-e-catherine.jpg"
+  alt = "Presentation slide. Illustration: An architectural rendering of what 121 E Catherine may look like. 6 stories. Text: Issues of public interest - 121 E Catherine St. - Reclaiming Our History. 63 apartments. 2300 Square Feet Cultural &amp; Entrepreneurial Pursuits. $325k design &amp; build-out. $150k capacity building for neighborhood based organization."
+  caption = "Plans for 121 E Catherine."
 %}
 
 
@@ -139,6 +157,12 @@ The way I see it, if we really want to pay tribute to indigenous land holders, w
   caption   = "An interactive map showing where Fuller Park is."
 %}
 
+{% include image.html
+  src = "/assets/2023-04-17/budget/bicentennial.jpg"
+  alt = "Presentation slide.  Image: The logo for Ann Arbor's bicentennial, which is mostly the text 'A200', in blue, with the first zero very large and inside of that is an oak tree in green. Slide Text:  Celebrating Ann Arbor. 1824-2024."
+  caption = "The bicentennial logo."
+%}
+
 ### Unarmed Response
 
 In 2022, the city council passed its [resolution about what to do with the $23m that the city would receive from the American Rescue Plan act](http://a2gov.legistar.com/LegislationDetail.aspx?ID=5534294&GUID=E5B3011D-DF6A-474F-A18E-AC754BA50E6E&Options=ID%7CText%7C).  Among the allocations was $3.5m to start a program of unarmed response.  The idea was to have someone you can call who is not the police.  The police sometimes behave in dangerous ways and can hurt or kill people.  If your intent is to get help for a loved one who is experiencing a mental health crisis, and you call 911, that loved one may end up murdered instead of helped, [as happened to Aura Rosser here in Ann Arbor in 2014](https://radicalwashtenaw.org/2015/04/02/peoples-retort-to-the-prosecutors-report/).  Therefore, people may choose not to call 911 to get help for people who they want helped and not killed.
@@ -162,6 +186,12 @@ The city administrator mentione creating a new team for "downtown safety".  The 
 I think those first two are a great idea, and the last one is such a bad idea that it negates the other two.  Do we want to help people?  Great, send supportive connections and EMTs.  Do we want to hurt people and throw them in jail?  Great, send police.  But if we want to give people help, we would be most effective if the people could be honest with the people who are trying to help them.  But people who need help are going to be less likely to be honest about the help they need when there is a police officer around.  Police officers are too likely to inflict harm on a person needing help, or their friends.  For example, If a person needs help because of a substance use disorder, or knows someone who needs help for that reason, it is not safe to discuss this in front of a police officer who might arrest them instead of helping them.  Meanwhile, even in an innocuous conversation, police will be gathering intelligence that they can use to suppress the community.
 
 So I sincerely hope they rethink this program to have only the EMT and supportive connections.
+
+{% include image.html
+  src = "/assets/2023-04-17/budget/downtown-patrol.jpg"
+  alt = "Presentation slide. Illustration:  Three photos.  The first is two Ann Arbor firefighters posing in front of the downtown fire station.  The second is a stock photo of a woman working in an office.  The third is a booth operated by the Ann Arbor police at some sort of outdoor festival.  There is a crane in the background. There is also the logo of Supportive Connections, which is a highly stylized two people hugging to look like a heart, in purple and blue, and it says 'Supportive Connections: Supporting community + Connecting solutions.  Slide text:  Downtown safety. Walking builds relationships. Walking Improves Issues."
+  caption = "A slide representing the downtown safety patrols."
+%}
 
 
 ### Election Center
