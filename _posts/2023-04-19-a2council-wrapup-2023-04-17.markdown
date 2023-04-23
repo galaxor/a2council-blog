@@ -32,7 +32,7 @@ map_415_w_washington:
 ---
 <span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2023-04-17T19:00-0400">Monday, April 17, 2023</time>.</span>
 
-We finally got to see the city administrator's [budget presentation]().  I'll walk you through it and give my thoughts.  The contract for the comprehensive land use plan update was approved, with strong language about redressing segregation in our new plan, and also with the assumption that we will be creating density.  Also, the 415 W Washington rezoning and concept plan were approved.
+We finally got to see the city administrator's [budget presentation](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6122664&GUID=6B3491D0-5C3A-45CC-90E4-3FFE304AA06B&Options=&Search=).  I'll walk you through it and give my thoughts.  The contract for the comprehensive land use plan update was approved, with strong language about redressing segregation in our new plan, and also with the assumption that we will be creating density.  Also, the 415 W Washington rezoning and concept plan were approved.
 
 
 <!--more-->
@@ -75,6 +75,8 @@ There were two proclamations of observance periods made at this meeting:
 This is just the initial proposal.  The city council will be discussing this budget and proposing amendments soon, in coming meetings.  Keep your eyes on it!  [The city council will pass the final budget](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/budget-guide/Pages/BudgetPublicProcess.aspx) at its [second meeting in May (Monday, May 15)](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062173&GUID=74EEC7D8-359A-4593-ABC9-46B99E70F86B&Options=info%7C&Search=).  So there is still time to [contact city council](mailto:CityCouncil@a2gov.org) and share your thoughts on this budget.  There will also be a public hearing on the budget, presumably in its [first meeting in May (Monday, May 1)](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062172&GUID=D4D03A3F-E36B-4793-B34E-6EFB3400D073&Options=info%7C&Search=).
 
 This presentation only covers a small portion of the budget, and doesn't have the charts and tables of numbers that I would expect.  I looked on the city's [budget process page](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/budget-guide/Pages/BudgetPublicProcess.aspx), and it has a bunch of interesting video presentations listed from various departments, but I couldn't find a summary table.  Some of the individual departments have their presentations available for download as PDFs, at least.
+
+Here is the [complete city budget](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/Documents/Draft%20Budget%20Book%20FY24.25.pdf).
 
 But let's see what the city administrator chose to highlight in his presentation at this meeting.
 
