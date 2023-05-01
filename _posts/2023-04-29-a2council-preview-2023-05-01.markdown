@@ -195,6 +195,8 @@ There's also [a webpage that discusses the city's progress toward Vision Zero][v
 
 It looks like some stuff is being done, but the changes are not radical enough.  We have passed two important plans calling for us to move away from car culture.  The city council needs to pass a resolution that specifically tells staff that every time a road has work done on it, road diets should be considered, and other methods of slowing down traffic; it should say that any time cars aren't significantly slowed and don't significantly lose space, there better be a darn good reason for it.  We spend a lot of money on these roads, at every meeting.  This would be a great opportunity to get that stuff done.
 
+Maybe I'm being unfair.  Most of these projects do make big safety upgrades.  I've seen a lot of projects go through that just fix a water main and then put the pavement back the way it was, and I've had this complaint brewing for awhile.  Maybe I chose a bad time to deploy it.  Maybe the city has changed its ways now.  But I want to make sure that we're doing the most we can.  I think narrowing would be possible on at least a couple of these projects.  I want to make sure we're emphasizing slowing cars down.
+
 [quick-builds]: https://www.a2gov.org/departments/engineering/Pages/Vision-Zero-Plan-Quick-Builds.aspx
 [vision-zero-snapshot-2022]: https://storymaps.arcgis.com/stories/8c2e8fde0fb24e28b9bd4f274e4d205d
 
