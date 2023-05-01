@@ -1,0 +1,241 @@
+---
+layout: post
+title:  Ann Arbor City Council Preview for Monday, 2023-05-01
+date:   2023-04-29 16:12:00 -0400
+meeting_date: 2023-05-01 19:00:00 -0400
+image:
+  path: /assets/2023-05-01/maple-quick-build.jpg
+  alt: The plan adds intermittent green paint for bike lanes, on both Maple and Miller, all the way through the intersection, signs that say "No Turn on Red" at every corner, and some new crosswalks.
+  caption: An engineering drawing of what a quick-build safety project might look like at Maple and Miller
+  credit: "From <a href=\"https://www.a2gov.org/departments/engineering/Pages/Vision-Zero-Plan-Quick-Builds.aspx\">the city's list of planned Vision Zero quick builds</a>."
+categories: a2council preview
+tags: unarmed-response budget water-rates quick-build vision-zero federal-building brownfield water
+public_hearings:
+  - url:  "#ph-1-water-rates-and-ph-2-stormwater-rates"
+    desc: "Water Rates"
+  - url:  "#ph-1-water-rates-and-ph-2-stormwater-rates"
+    desc: "Stormwater Rates"
+  - url:  "#ph-3-public-services-fees"
+    desc: "Public Service Fees"
+  - url:  "#ph-5-public-hearing-about-the-budget"
+    desc: "The Budget!"
+road_stuff:
+  - lat: 42.27202663632122
+    lon: -83.74065014698407
+    text: "State and Hill"
+  - lat: 42.2311966158343
+    lon: -83.73265284386123
+    text: "Research Park Drive"
+  - lat: 42.29161667305585
+    lon: -83.75822448753932
+    text: "Brooks"
+  - lat: 42.27370464527341
+    lon: -83.76143254520989
+    text: "Madison/Madison Place"
+---
+{% capture time %}{{ page.meeting_date|date: "%l:%M%P" }}{% endcapture %}
+<span class="h-event">The next <span class="p-name">Ann Arbor City Council meeting</span> will be <time class="dt-start" datetime="{{ page.meeting_date }}">{{ page.meeting_date|date: "%A, %B %e, %Y" }}{% if time %}, at {{ time }}{% endif %}</time>.</span>
+
+The things I'm most excited about are actually things that will not be voted upon at this meeting.
+
+The first thing I'm excited about is the [public hearing about the proposed budget](#ph-5-public-hearing-about-the-budget). This is your chance to comment on the [budget that was proposed by the City Administrator](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/Documents/Draft%20Budget%20Book%20FY24.25.pdf) in his [presentation at the last city council meeting](/posts/a2council-wrapup-2023-04-17/#presentation-of-the-city-administrators-proposed-budget).  The city council will not vote on the budget at this meeting.  This is just a public hearing.  They will vote on it at the next meeting and propose amendments.  You can also email [CityCouncil@a2gov.org](mailto:CityCouncil@a2gov.org) with your thoughts.  I'm going to call in to this public meeting and mention my thoughts:  I don't want cops on the proposed downtown safety patrols - just EMTs and social workers.  And I don't want the police budget expanded to add 1.75 FTE.  
+
+Which brings me to the other thing that I'm excited about at this meeting, which will not be voted on.  In fact, it will not even be discussed, unless people [call the city clerk's office](https://www.a2gov.org/departments/city-clerk/Pages/City-Council-Meetings.aspx) to get on the speaking agenda for the meeting.
+
+The other thing I'm excited about is the response from the consultant we hired to help us design the [unarmed response program](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6190640&GUID=12C60357-5F8D-4926-86BF-917D4DDC82D8&Options=&Search=), in which there will be people you can call when there is a crisis, and they will only send a helpful response, and will not send police.  Let's see what the consultant said!
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox.html 
+  date    = page.meeting_date
+  agenda  = "http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062171&GUID=CA414ADD-66B8-48BE-9373-6DCAFA7EECC3&Options=info|&Search="
+  mtgid   = "942 1273 2148"
+%}
+
+## AC-3: [Unarmed Response Report](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6190640&GUID=12C60357-5F8D-4926-86BF-917D4DDC82D8&Options=&Search=)
+
+In 2021, the city council passed [a resolution calling for the creation of an unarmed response program][unarmed-response-resolution].  This would be a service you can call if there is a problem requiring expert help, but not requiring armed police intervention.  
+
+Often, police are called in to do various social services, such as wellness checks on people who are having mental health problems.  Or conflict resolution between neighbors.  This is very dangerous.  Police are trained to assume they're coming into contact with criminals, and to assume that everyone is about to attack them.  They often have little training in dealing with complex social situations, except to establish the physical safety of the officer, and they haven't developed institutional relationships with agencies that can provide human services.
+
+The result is that it's dangerous to call the police.  If you have a friend or loved one who is having mental health problems, and you call 911, then the police might come and [your friend or loved one might end up dead][aura-rosser].
+
+In 2020, [activists all over the country][george-floyd-protests] drew attention to issues like these.  Among other activist activities, the "[Coalition for Re-Envisioning Our Safety (CROS)][CROS]" was formed here in Washtenaw County to advocate on this issue.
+
+The city council passed that resolution in 2021 calling for the creation of an unarmed response service.  Furthermore, the city made a [one-time allocation of $3.5m toward this project][ARPA-resolution].  The money came from the federal government's American Rescue Plan Act.  The city administrator's proposed budget [includes $250k this year](/posts/a2council-wrapup-2023-04-17/#unarmed-response) for unarmed response, to be paid for from the money we get from marijuana sales tax.
+
+As a result of the 2021 resolution on unarmed response, the city hired a consultant to get diverse, representative public input on how to build the program.  They got in touch with individuals and organizations that have contact with the police, with special attention to certain demographics such as Black people, people with mental illnesses, unhoused people, and formerly incarcerated people, who have a high likelihood of being treated unfairly by police.
+
+[The report that's on the agenda today](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6190640&GUID=12C60357-5F8D-4926-86BF-917D4DDC82D8&Options=&Search=) is our consultant's findings from talking to these people and groups.  
+
+Some of the suggestions they make include:
+* Making sure that there are multiple ways to contact unarmed response - a direct phone number; 911, with operators trained to divert some calls to this group instead of police; and hooking up with the [988 suicide hotline](https://www.samhsa.gov/find-help/988).
+* Don't give the organization an intimidating name by using words like "crisis".  People should be encouraged to call it; they should not be encouraged to think "is this really a _crisis_, though??"
+
+There was also some discussion of the pros and cons of having the organization be run by a department of the city government, or by an outside nonprofit under contract, [like it is in Eugene, Oregon][eugene-unarmed-response].
+
+Another takeaway from the report is how popular unarmed response is.  According to their polls, 90% of people support it.  Let's go!
+
+Now that we have this report, city council may take action in the future to direct staff to develop the program.  This is just a report on the agenda.  There will be no official discussion of this at the meeting, and no votes taken.  The city council will have to initiate the next action. Let's make sure they do!
+
+
+[eugene-unarmed-response]: https://www.eugene-or.gov/4508/CAHOOTS
+
+[george-floyd-protests]: https://www.nytimes.com/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html
+
+[aura-rosser]: https://radicalwashtenaw.org/2015/04/02/peoples-retort-to-the-prosecutors-report/
+
+[unarmed-response-resolution]: http://a2gov.legistar.com/LegislationDetail.aspx?ID=4874520&GUID=84A3D90E-7AF3-46C9-98B8-FE4789A7DAB1&Options=&Search=&FullText=1
+
+[ARPA-resolution]: http://a2gov.legistar.com/LegislationDetail.aspx?ID=5534294&GUID=E5B3011D-DF6A-474F-A18E-AC754BA50E6E&Options=ID%7CText%7C
+
+[CROS]: https://www.reenvisionoursafety.org/
+
+
+## PH-5: [Public Hearing About the Budget](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175884&GUID=1E292595-1C5B-4978-8A5C-E22D9F7EC508&Options=&Search=)
+
+At the last meeting, the city administrator proposed a budget.  Here is [the full budget proposal](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/Documents/Draft%20Budget%20Book%20FY24.25.pdf), and here is [my summary of the presentation, with my opinions][budget-post].
+
+At this meeting, there is a public hearing scheduled.  You can speak at the public hearing without signing up for it.  You can spend three minutes addressing them, as long as you stay on the topic of the budget.  You can also email them at [CityCouncil@a2gov.org][mailto:CityCouncil@a2gov.org].
+
+At the [next city countil meeting](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062173&GUID=74EEC7D8-359A-4593-ABC9-46B99E70F86B&Options=info%7C&Search=), on Monday, 2023-05-15, the city council will vote on the budget, and probably bring amendments.  This is the time to lobby for amendments you want.
+
+I will be callling in to talk about these things:
+* $1m has not yet been allocated.  This is money that came from the marijuana sales tax.  I will be arguing that this money should go toward Reparations for the city's policies that have hurt our Black residents throughout our history and up to the present, such as segregation that stopped Black families from building wealth that white families were allowed to build.  The city of [Evanston, Illinois has a reparations program][evanston-reparations].
+* The city administrator has proposed a [downtown safety program](/posts/a2council-wrapup-2023-04-17/#downtown-safety) in which police, fire EMTs, and social workers from [Supportive Connections](https://www.a2gov.org/services/Pages/Supportive-Connections.aspx) will walk around downtown and look for problems to solve. I will recommend not including police in this crew.
+* The budget calls for 1.75 <abbr title="full-time equivalent">FTE</abbr> of additional police staff.  I will recommend for not increasing the police budget, and setting a goal of reducing the police budget and instead fund programs that help people and prevent crime, such as subsidized housing and harm reduction.
+
+[budget-post]: /posts/a2council-wrapup-2023-04-17/#presentation-of-the-city-administrators-proposed-budget
+[evanston-reparations]: https://www.cityofevanston.org/government/city-council/reparations
+
+## Other Public Hearings
+
+There are some other public hearings on the agenda.
+
+### PH-1: [Water Rates](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6122673&GUID=A5D97CFF-B226-417A-9440-D6301D5F0E39&Options=&Search=) and PH-2: [Stormwater Rates](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6122674&GUID=B86C7EFD-570D-4D6A-9631-9B1C10880908&Options=&Search=)
+
+The city has been raising the water rates and stormwater rates over the last few years, in order to maintain our water and stormwater systems.  There were apparently some years of neglect, in which the water rates were not raised by enough to keep up with the maintenance, and now it's more expensive to fix these mistakes than it would've been if we'd done proper maintenance in the first place.  🤦‍♀️.  But I can see how it happened:  Even as recently as 2018, some politicians were elected, who were campaigning on people's anger about water rates going up.  They ultimately did not attempt to stop the water rates from going up, because apparently we actually need these repairs!  Although they did make some attempts to change who got stuck with the bill, trying to make people who live in apartments subsidize single-family homeowners who water their lawns.  These attempts did not succeed and these politicians are no longer in office.
+
+### PH-3: [Public Services Fees](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175872&GUID=50D3BCAE-8DEE-4951-AEB9-680304A18CD2&Options=&Search=)
+
+Whenever the city passes a new budget, they also update the service fees, to account for the staff's time and wages, to make sure that the city is being compensated for the time they spend on certain services.  This is everything from issuing building permits to issuing residential parking permits.  I haven't really looked into what the changes are, because I trust them to have been computed fairly.
+
+## A Bunch of Road Stuff
+
+There's a lot of road paving contracts on the agenda, with a lot of million dollars attached to them.  Take a look at what's on the agenda at just this meeting:
+
+<table>
+<caption>
+Road paving contracts on the agenda.
+</caption>
+<thead>
+  <th>Project</th>
+  <th>Cost</th>
+  <th>Cool Amenities</th>
+</thead>
+
+<tbody>
+<tr>
+  <td>CA-1: <a href="http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175860&GUID=026C6560-B204-4FF5-B375-A1AB4ED690FA&Options=&Search=">State & Hill</a></td>
+  <td>$6.9m</td>
+  <td>Protected Bike Lanes</td>
+</tr>
+
+<tr>
+  <td>CA-2: <a href="http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175864&GUID=4D4CB075-A07A-49E1-B63B-33A86C19C71B&Options=&Search=&FullText=1">Research Park Drive</a></td>
+  <td>$3.4m</td>
+  <td>Bike lanes (just paint)</td>
+</tr>
+
+<tr>
+  <td>CA-3: <a href="http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175876&GUID=66574821-37D8-41B1-877F-CEAA49007545&Options=&Search=">Brooks</a></td>
+  <td>$2.8m</td>
+  <td>Roundabout. Filling sidewalk gaps.</td>
+</tr>
+
+<tr>
+  <td>CA-4: <a href="http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175880&GUID=3AF2D61C-FE59-4EC1-A033-2AF3B933AECA&Options=&Search=&FullText=1">Washtenaw</a></td>
+  <td>$5k</td>
+  <td>(this is just a contract extension due to a math error)</td>
+</tr>
+
+<tr>
+  <td>CA-5: <a href="http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175875&GUID=3EBEB45E-C49E-42CD-B23C-D62FF2F5B022&Options=&Search=&FullText=1">Madison/Madison Place</a></td>
+  <td>$2.1m</td>
+  <td>Mini-roundabout with crosswalks</td>
+</tr>
+
+<tr>
+  <td> CA-6: <a href="http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175877&GUID=818725F9-83DB-45A0-B158-6A75E9DE0A5B&Options=&Search=&FullText=1">Miscellaneous Asphalt Paving</a></td>
+  <td>$1.3m</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td>Total</td>
+  <td>$16.5m</td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
+I'm just saying, that's a lot of money to be spent on roads.  I want to make sure that each of these projects makes our roads [as safe as we know how to make them](https://www.a2gov.org/departments/engineering/Pages/Ann-Arbor-Moving-Together-Towards-Vision-Zero.aspx).  We should be focusing on getting cars to slow down.  We should be reducing the number of lanes in a road every time we touch it, in order to [encourage other modes of transportation](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx).
+
+We've passed a lot of elaborate plans.  Are we acting on them?
+
+Perhaps not, says Adam Goodman:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s been almost 2 years since CM Briggs&#39; amendment allocating funds for a few &quot;quick build&quot; transportation safety projects (<a href="https://t.co/QAcSOG7owd">https://t.co/QAcSOG7owd</a>). We&#39;ve only managed to put down green paint (&amp; the bike lanes still disappear!).<br><br>This is neither &quot;quick&quot; nor a &quot;build&quot; <a href="https://twitter.com/hashtag/a2council?src=hash&amp;ref_src=twsrc%5Etfw">#a2council</a> <a href="https://t.co/nax7VIaGff">pic.twitter.com/nax7VIaGff</a></p>&mdash; Adam Goodman (@akgood) <a href="https://twitter.com/akgood/status/1648835078137565184?ref_src=twsrc%5Etfw">April 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+On the city's website, there's [a page that shows where we are with our quick-builds][quick-builds].  All of them are spoken of in the future tense.  It does say that vertical elements like flex-posts will accompany the paint.  It's not clear if that applies to all the projects.
+
+There's also [a webpage that discusses the city's progress toward Vision Zero][vision-zero-snapshot-2022] generally.
+
+It looks like some stuff is being done, but the changes are not radical enough.  We have passed two important plans calling for us to move away from car culture.  The city council needs to pass a resolution that specifically tells staff that every time a road has work done on it, road diets should be considered, and other methods of slowing down traffic; it should say that any time cars aren't significantly slowed and don't significantly lose space, there better be a darn good reason for it.  We spend a lot of money on these roads, at every meeting.  This would be a great opportunity to get that stuff done.
+
+[quick-builds]: https://www.a2gov.org/departments/engineering/Pages/Vision-Zero-Plan-Quick-Builds.aspx
+[vision-zero-snapshot-2022]: https://storymaps.arcgis.com/stories/8c2e8fde0fb24e28b9bd4f274e4d205d
+
+{% include mapn.html
+  boxid     = "road-stuff"
+  locations = page.road_stuff
+  caption   = "An interactive map of where all the road projects are going."
+  zoom      = 12
+%}
+
+
+## AC-2: Report: [Can We Convince them to Redevelop the Federal Building?](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6189670&GUID=225C35AE-8A52-4DA6-AC4E-ED90B388C57B&Options=&Search=) Basically, no.
+
+The [federal building and the post office](https://www.gsa.gov/about-us/regions/region-5great-lakes/buildings-and-facilities/michigan/federal-building-ann-arbor) are right next to the library and the bus station.  And yet, a lot of the space is dedicated to parking.  It'd be great if there was housing there, but there isn't.  Wouldn't it be great if we had a better federal building?  City staff went to talk to the agencies in charge of this building.  They basically think it'd be cool if the building was better, but it's not going to happen.  We'd have to secure funding from congress.  We could get the building on a list, but nothing is going to happen for decades.  Sad.
+
+{% include image.html
+  src = "/assets/2023-05-01/federal-bldg.jpg"
+  alt = "Aerial photograph of the federal building.  It has three stories, in a stairstep pattern, such that the side that abuts the plaza has only one story.  The plaza on Liberty has a couple of planters, some trees, and a flagpole with an American flag.  On top of the building are large glass skylights."
+  caption = "Aerial photograph of the federal building."
+  credit = "From <a href=\"https://www.gsa.gov/about-us/regions/region-5great-lakes/buildings-and-facilities/michigan/federal-building-ann-arbor\">the US General Services Administration website</a>"
+%}
+
+## DB-1: [Dissolve the Brownfield Review Committee](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175874&GUID=E945C440-FB09-4237-9E62-C795DA36C57D&Options=&Search=)
+
+In 2019, the city passed a new [Brownfield policy][brownfield-policy].  A brownfield policy is something we do in order to convince developers to build on more difficult sites in town, rather than just expanding sprawl into undeveloped land ("greenfields").  When building in town, they are often redeveloping polluted sites, and someone is going to have to pay to clean up the pollution.  The brownfield plan is that the developer will pay up front for the cleanup, and the city will slowly pay them back by giving them tax breaks on the property taxes they pay after redeveloping the site.  So, ultimately, the city pays for the cleanup, but the developer bankrolls it so we don't have to pay all at once.  We never feel the loss of the money, because the city gets paid taxes as though the new development had never been built.  We're only losing opportunity cost.
+
+Now, the city doesn't have to offer these incentives.  We could simply hope that the future profits of the development are enough to entice developers to build in town, even if they have to pay to clean up the polluted site.  We offer to pay for the cleanup because we worry that if we don't, it will not be profitable to build in town, and so nobody will do it, and there will just be sprawl instead.
+
+The 2019 policy guided staff on how to approve brownfield plans.  One of the big changes was that, for housing developments, there are certain types of site-preparation work that the city would only pay for if the development was providing 15% of its units as below-market-rate housing, or if the developer was paying into the fund that the city uses to develop subsidized housing.
+
+Now, the way brownfields currently work is that, if a developer wants to apply for a brownfield tax credit, they work with staff to negotiate a deal.  Then the deal must be approved by a committee of city council members and volunteers.  Then the city council as a whole votes to approve the plan, after a public hearing.
+
+On the agenda at this meeting is a proposal to eliminate the city council / volunteer committee.  It seems reasonable if the policy approved by city council gives sufficiently specific guidance that this can be an administrative process.  And since the plans go back to city council and have public hearings, they still have oversight.
+
+So I guess the argument is that having the brownfield committee in the mix was not a good use of staff time and volunteer time, and an unnecessary expense for developers, to hire their people to come present to the committee.
+
+[brownfield-policy]: http://a2gov.legistar.com/LegislationDetail.aspx?ID=3954861&GUID=616AE499-D39D-43F2-88C5-7FB7157EBD1F&Options=ID%7cText%7c&Search=brownfield&FullText=1
+
+## C-1: [Water Supply Bond Issue](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6175883&GUID=A5A3C944-A3A3-47AA-B6B8-84A18290099C&Options=&Search=)
+
+At the meeting on Wednesday, 2023-04-03, the city council [posted a notice][water-bonds-notice] that they intended to sell $40m of bonds to maintain our water system, to be repaid by people's water bills.  As I discussed in [my wrap-up post of that meeting][previous-water-bonds], this money will be for fixing water pipes in the ground, rather than for fixing up the water treatment plant.  We expect the water treatment plant repairs and upgrades to be paid for by federal grants.
+
+[water-bonds-notice]: http://a2gov.legistar.com/LegislationDetail.aspx?ID=6103429&GUID=31242111-9FDE-46A7-BE20-FDCE134B1D5B&Options=&Search=&FullText=1
+[previous-water-bonds]: /posts/a2council-wrapup-2023-04-03/#ds-1-water-bonds
