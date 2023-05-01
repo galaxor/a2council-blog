@@ -5,7 +5,7 @@ date:   2023-04-29 16:12:00 -0400
 meeting_date: 2023-05-01 19:00:00 -0400
 image:
   path: /assets/2023-05-01/maple-quick-build.jpg
-  alt: The plan adds intermittent green paint for bike lanes, on both Maple and Miller, all the way through the intersection, signs that say "No Turn on Red" at every corner, and some new crosswalks.
+  alt: The plan adds intermittent green paint for bike lanes, on both Maple and Miller, all the way through the intersection, signs that say 'No Turn on Red' at every corner, and some new crosswalks.
   caption: An engineering drawing of what a quick-build safety project might look like at Maple and Miller
   credit: "From <a href=\"https://www.a2gov.org/departments/engineering/Pages/Vision-Zero-Plan-Quick-Builds.aspx\">the city's list of planned Vision Zero quick builds</a>."
 categories: a2council preview
