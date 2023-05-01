@@ -50,7 +50,7 @@ The other thing I'm excited about is the response from the consultant we hired t
 
 {% include infobox.html 
   date    = page.meeting_date
-  agenda  = "http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062171&GUID=CA414ADD-66B8-48BE-9373-6DCAFA7EECC3&Options=info|&Search="
+  agenda  = "http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062172&GUID=D4D03A3F-E36B-4793-B34E-6EFB3400D073&Options=info|&Search="
   mtgid   = "942 1273 2148"
 %}
 
