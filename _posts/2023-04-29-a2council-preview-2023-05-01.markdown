@@ -54,6 +54,7 @@ The other thing I'm excited about is the response from the consultant we hired t
   mtgid   = "942 1273 2148"
   youtube = "https://www.youtube.com/watch?v=n9bIVLZFyyM"
   thread  = "https://a2mi.social/@MegaMichelle/110295905721313047"
+  votes   = "https://a2council.vote/post/council-meeting-2023-05-01/"
 %}
 
 ## AC-3: [Unarmed Response Report](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6190640&GUID=12C60357-5F8D-4926-86BF-917D4DDC82D8&Options=&Search=)
