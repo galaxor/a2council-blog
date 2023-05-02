@@ -52,6 +52,8 @@ The other thing I'm excited about is the response from the consultant we hired t
   date    = page.meeting_date
   agenda  = "http://a2gov.legistar.com/MeetingDetail.aspx?ID=1062172&GUID=D4D03A3F-E36B-4793-B34E-6EFB3400D073&Options=info|&Search="
   mtgid   = "942 1273 2148"
+  youtube = "https://www.youtube.com/watch?v=n9bIVLZFyyM"
+  thread  = "https://a2mi.social/@MegaMichelle/110295905721313047"
 %}
 
 ## AC-3: [Unarmed Response Report](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6190640&GUID=12C60357-5F8D-4926-86BF-917D4DDC82D8&Options=&Search=)

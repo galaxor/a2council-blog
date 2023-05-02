@@ -8,7 +8,7 @@ image:
   alt: An aerial photograph of the current Fuller Park pool, waterslide, and just a little bit of a soccer field showing.
   caption: The current Fuller Park pool. Fuller Park will be renovated as Bicentennial Park.
   credit: "From <a href=\"http://a2gov.legistar.com/View.ashx?M=F&ID=11901365&GUID=43A752DA-73A1-4C18-9981-BD79147DC615\">the City Administrators Budget Proposal</a>."
-categories: a2council preview
+categories: a2council wrapup
 tags: jude-walton avalon-housing arab-american-heritage-month workers-memorial-day budget state-revenue-sharing pension-fund public-restrooms throne 121-e-catherine ann-arbor-housing-commission lihtc affordable-housing-millage african-american-cultural-entrepreneurial-center bicentennial fuller-park bicentennial-park land-back unarmed-response downtown-safety election-center compensation staff-retention supportive-connections city-hall kline-lot defund-the-police comprehensive-plan segregation 415-w-washington chimney-swifts center-of-the-city library-lot food-trucks gelman-plume antisemitism
 map_415_w_washington:
   - lat: 42.28022290463792
