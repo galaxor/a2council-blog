@@ -1,0 +1,124 @@
+---
+layout: post
+title:  Ann Arbor City Council Wrapup for Monday, 2023-12-18
+date:   2023-12-30 01:55:00 -0500
+meeting_date: 2023-12-18 19:00:00 -0500
+image:
+  path: /assets/2023-04-17/fuller-park.jpg
+  alt: An aerial photograph of the current Fuller Park pool, waterslide, and just a little bit of a soccer field showing.
+  caption: The current Fuller Park pool. Fuller Park will be renovated as Bicentennial Park.
+  credit: "From <a href=\"https://a2gov.legistar.com/View.ashx?M=F&ID=11901365&GUID=43A752DA-73A1-4C18-9981-BD79147DC615\">the City Administrators Budget Proposal</a>."
+categories: a2council wrapup
+tags: 
+---
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2023-12-18T19:00-0500">Monday, December 18, 2023</time>.</span>
+
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1062187&GUID=2E465431-BA69-45E6-99B2-2D5F86AE77CB&Options=info%7c&Search="
+  youtube = "https://www.youtube.com/watch?v=NdtAHyM55vs&t=13165s"
+  thread  = "https://a2mi.social/@MegaMichelle/111604149981860173"
+  votes   = "https://a2council.vote/post/council-meeting-2023-12-18/"
+%}
+
+## [TC-1 Plymouth Road](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6444757&GUID=C400831E-A138-44E6-A0DC-124440C67F48&Options=&Search=)
+
+TC-1 is the <a href="https://www.youtube.com/watch?v=ILlRxeuLxQM">name of a new zoning category</a>.  New-ish.  [It was approved in 2021](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4966621&GUID=4E34C6AE-E4A5-4DC4-B460-124B943D8D79&Options=ID%7CText%7C&Search=tc1).  It is designed to be "transit oriented zoning".  According to the proposal that passed it, "The TC1 district is intended to require at least two-story buildings for sufficient density to support and sustain the existing transit system, encourage infill development, expand housing choices, and further the goals of the Master Plan".  Here are some of the unique characteristics of this zoning category designed to achieve these goals:
+
+* Buildings are required to have least two stories.
+* Buildings must be situated on the sidewalk and not behind a sea of parking.
+* Parking is limited.  There is a maximum amount of land area that may be devoted to parking.
+* Car-oriented uses are not permitted -- uses like car dealerships or drive throughs.
+
+Now that TC-1 exists, any property owner can petition the city council to rezone their property as TC-1, but also, the city council has planned, since the inception of TC-1, to proactively re-zone some corridors, to create a more walkable, residential, transit-oriented character in those neighborhoods to replace the suburban car-oriented construction there.  The corridors mentioned have been:  State/Eisenhower, East Stadium, Plymouth Road, and Washtenaw Ave.
+
+And indeed, what followed was [the State and Eisenhower corridor rezoning in February of 2022](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5397283&GUID=2EC24708-0186-4903-A17D-F8E67AB8C05D&Options=ID), followed by [the West Stadium and Maple rezoning in October of 2022](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5848468&GUID=2C93A7BD-8254-47C4-B6DA-8F34B104B038&Options=ID%7CText).  
+
+However, after those successes, the city council got distracted by a question:  Everyone knows that the major purpose of TC-1 is that car-centric development is not allowed.  But the city council passed a resolution that presupposes: What if they were?  They were thinking that it would help people to live car-free if they could walk to a car rental place in their neighborhood, or help them live car-light lifestyles if they could walk to car repair shops.  It was a bad idea and a terrible time to lose focus.  With everyone knowing that the Plymouth rezoning was on the horizon, a delay would give an incentive to developers to redevelop their land in a car-centric way before the rezoning took place.  Nonetheless, the city council passed the "[Resolution to Direct Planning Commission Following Stadium/Maple Rezoning to TC-1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5950251&GUID=8012EC81-7710-4533-ACBF-2420591260FD&Options=ID%7CText%7C&Search=tc1)" in December of 2022.
+
+That resolution actually had two purposes:  One was to add car-oriented uses to the definition of TC-1.  The other was to come up with some way to allow wider sidewalks on Stadium/Maple, where some of the sidewalks are build unfortunately narrow.  One solution, of course, would be to narrow the roadway there, take away a lane for cars, and give that space back to humans.  Instead, they wanted a solution that would require property owners to have wider offsets where the city built the sidewalk too narrow.  This would not immediately fix the problem, since the city can't build anything on this private property, but it would put the city in a stronger bargaining position to negotiate some sort of easement agreement from these property owners:  "Say, since you can't build anything there anyway for some reason, how about you let us build there??"
+
+These were both tweaks that didn't require immediate attention, but as a result of this resolution, it became the top priority for the Planning staff and Planning commission.  In June of 2023, the city council realized that they had made an error in allowing this to delay the proactive rezonings.  They passed a [Resolution Directing the Planning Commission to Prioritize Rezoning of the Plymouth and Washtenaw Corridors to TC1](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6209367&GUID=44D663AF-6101-455A-A051-1F688B316342&Options=ID%7cText%7c&Search=tc1).  But it was too late.  The time had already been wasted.
+
+The tweaks were eventually passed:
+* [In August 2023, TC-1 was updated to allow some car-oriented uses](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6300535&GUID=63B41C04-F68A-4B18-9E57-0F1FEB13B1DF&Options=ID%7CText%7C&Search=tc1).
+* [In December 2023, TC-1 was updated to address the narrow sidewalks](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6393399&GUID=0A64E817-8471-4AC5-A8C3-68FA299DEFB0&Options=ID%7CText%7C&Search=tc1).
+
+Finally, at this last city council meeting, we had [the first reading of the ordinance to rezone the Plymouth Road corridor to TC-1](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6444757&GUID=C400831E-A138-44E6-A0DC-124440C67F48&Options=&Search=).  The second reading of this ordinance won't happen until the first meeting of 2024, meaning that no properties were proactively rezoned to TC-1 in 2023.
+
+What did we lose by this delay?  [The University of Michigan Credit Union has had a by-right site plan approved by staff for a one-story, car-oriented bank at 2929 Plymouth Road](https://stream.a2gov.org/EnerGov_Prod/selfservice/AnnArborMIProd#/plan/c8446849-cfb1-442c-b3d9-f72a046ced9d), which is currently zoned "Office".  At least [the Planning Commission denied their application to make a drive-through](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6027309&GUID=E23F61D0-A17F-4065-B240-E3A3F88CCA78&Options=ID%7CText%7C&Search=2929+Plymouth+Road).  This will remain a car-oriented building with no residential use for many decades.
+
+Finally, at the last city council meeting, while the TC-1 rezonings were approved, several properties were excluded.  These are properties that were added to [the proposal at the Planning Commission meeting of 2023-11-01](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6392444&GUID=10606E80-251E-4B29-9BDA-C240C27F1CDF&Options=ID%7CText%7C&Search=plymouth+road). Staff believed that these property owners would not need to receive a special notice about the plan to rezone their property because they had already received a notice about the public hearing for the Plymouth Road rezoning proposal in general.  This turned out to be a false assumption, and so those properties had to be removed by the city council at this meeting.
+
+[During public comment for this meeting, the property owner stated their intention to use their property for some unspecified car-oriented purposes that would be prohibited by TC-1](https://youtu.be/NdtAHyM55vs?t=1400).  I hope their properties can be proactively rezoned to TC-1 before something permanent can be built there which would be detrimental to the community.
+
+But, most of the Plymouth Road corridor will probably be rezoned at the Second Reading, at [the next meeting of the city council](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141229&GUID=D3B804BB-C297-4866-9CA3-FD5B424BC41E&Options=info%7C&Search=), on January 8, 2024.
+
+And I hope that the Washtenaw Avenue rezoning will follow shortly thereafter.
+
+And I hope that the properties that were removed from the Plymouth Road rezoning are rezoned in a separate proposal.
+
+And I hope that nothing terrible gets built here before those things are done.
+
+## Leaf Blowers
+
+Gas-powered leaf blowers will be illegal starting in 2028.  You have until then to upgrade to electric ones. Also, immediately, you can only operate leaf blowers of any kind during the times that you could have a party according to the noise ordinance.  So, like, not after 10pm or whatever.
+
+The city will orchestrate bulk-buys, if you’re a business or individual who wants to buy an electric leaf blower.  Also, there’s a $500 fine for running a gas leaf blower after 2028.  The fines will go to a fund to help lower-income people buy electric leaf blowers.
+
+## The Village Ann Arbor
+
+A proposed development on Pontiac Trail.  Several parcels were individually annexed into the city (with R4A zoning) to let this happen.  This was the final parcel.  In the other parcel, they will build townhouses that are all-electric.  In this parcel, they will build apartment buildings that have electric heating but gas stoves.
+
+This adds 200 homes to the already 400 townhomes of the project.  604 homes in total.
+
+
+## That Damn Bridge
+
+The contract is finalized to construct the E Medical Center Drive with an additional right-turn lane for cars, and also with a wider sidewalk than was originally planned.  That’s five lanes.  Too many for that important pedestrian route.  It’s part of the border-to-border trail, and most of the hospital workers have to walk this route from the parking structures.  Someone will get hit and killed.  Someone will get hit and permanently injured.  This was deemed an acceptable loss to move cars faster.  This is contrary to our A2Zero goals and Vision Zero goals.  This mistake will live with us forever.  The university will widen the rest of E Medical Center Drive at some point, for cars.
+
+## Michigan Theater Liquor License
+
+They used to have a “club liquor license” so they could sell alcohol to members.  Now they can sell alcohol to anyone!
+
+## B2B Trail Extension
+
+The border-to-border trail will be extended through Barton Nature Area and Bandemer Park, with a tunnel going under the railroad tracks.
+
+## Home Energy Advisor & Residential Rebate Program
+
+The Home Energy Advisor (“concierge”) will help you figure out how to get your house to be energy-efficient and help you figure out contractors to hire who are up-to-date with the new energy-efficient technology like heat pumps.
+
+The Rebate program will give people need-based rebates to do energy efficiency and electrification upgrades to their house, and also solar and all that.
+
+## Solar Panels
+
+We used to have a weird ordinance that prevented you from having solar panels in your front yard because some people think they’re ugly, so they were regulated more heavily than other outdoor structures.  That was fixed.
+
+## Greenbelt
+
+Two farms in the Greenbelt were approved to be sold to vetted farmers under the greenbelt’s “Buy-Protect-Sell” plan.
+Police Contracts
+There were two contracts for police unions:  The Command Officers Association of America and the Police Special Services union.  I didn’t notice them on the consent agenda until just now, so I didn’t check what’s in them!  But at least I suspect that ICPOC was involved in setting the goals for negotiation at this point.
+New Police Chief
+In other police news, the city hired its new police chief:  Andre Anderson.  I don’t know anything except that ICPOC was definitely involved.  No one in the last round of interviews was deemed good enough.
+
+Also:  Unarmed response when??
+
+
+
+## The removed Palestine resolution
+
+https://docs.google.com/document/d/1-YZbmDr4aXLNhoXeszcP3XsT_O2EBrdLTFOxhHIlzDo/edit
+
+
+## Non-Discrimination about Criminal History
+
+Contractors for the city will not be allowed to ask job applicants about their criminal history until they’ve already extended a conditional offer of employment.  Also, contractors have to document efforts to hire local people.
+
+This was removed from the agenda, but remained up as an error.  It will be discussed 2024-01-08.

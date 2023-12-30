@@ -22,9 +22,13 @@ Ann Arbor City Council Meeting
   <th class="thread">Live-tooting</th><td class="thread"><a class="mastodon" href="{{ include.thread|escape }}">Read my live-posted Mastodon Thread</a></td>
 </tr>
 {% endif %}
+
+{% if include.preview %}
 <tr>
   <th class="preview">Preview Post</th><td class="previewpost"><a class="previewpost" href="{{ include.preview }}">Read what I wrote about this meeting before it happened</a></td>
 </tr>
+{% endif %}
+
 </tbody>
 </table>
 
