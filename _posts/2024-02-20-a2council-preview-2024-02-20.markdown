@@ -4,9 +4,10 @@ title:  Ann Arbor City Council Preview for Tuesday, 2024-02-20
 date:   2024-02-20 14:00:00 -0500
 meeting_date: 2024-02-20 19:00:00 -0500
 image:
-  path: /assets/2024-02-20/pauline-runnymeade-satellite.png
-  alt: An aerial photo of the location of the Pauline-Runnymeade Path.
-  caption: An aerial photo of the location of the Pauline-Runnymeade Path.
+  path: /assets/2024-02-20/pauline-runnymeade-2.jpg
+  alt: "Photo of the path as it exits the woods.  It is cracked and uneven.  It goes at a very steep grade, terminating at a corner with a raised curb on one side and a gravel slope on the other.  There is no clear path down to the actual road, and no sidewalk for it to continue onto.  It goes through a gap in a fence made of rusty highway guardrail.  Very close to the path is a utility pole and some sort of electric box."
+  caption: The Pauline-Runnymeade Path as it exits the woods.
+  credit: "Photo: Adam Jaskiewicz"
 categories: a2council preview
 tags: early-leasing-ordinance conflicting-land-use-buffer pauline-runnymeade trunkline-transfer warming-shelter that-damn-bridge 333-e-william dte solar 
 public_hearings:
@@ -66,6 +67,13 @@ The Pauline-Runnymeade Path (known to locals as the RuPaul Path) is near Dicken 
 The first step is to do the design, which will cost $140k, which we will front.  As part of this, we will apply for a [state “Transportation Alternatives Program” grant](https://www.michigan.gov/mdot/programs/grant-programs/transportation-alternatives), so we’ll get paid back for some portion of the $140k, and also for a portion of the construction.  How much will the state give us for the construction?  We don’t know yet.  So we haven’t negotiated the cost-sharing agreement yet with the condos for the actual construction.
 
 At the end, the city will have an easement, which it does not have now.  Now, people use the path at the pleasure of the condos.  Also, the path will be ADA-compliant, which it would not be if the condo association did it by itself.
+
+{% include image.html
+  src = "/assets/2024-02-20/pauline-runnymeade-1.jpg"
+  alt = "Photo of the path.  The asphalt is cracked and grass is growing through it.  No part of the path is smooth."
+  caption = "The condition of the Pauline-Runnymeade path."
+  credit = "Photo: Adam Jaskiewicz"
+%}
 
 {% include map.html
   boxid     = "pauline-runnymeade"
