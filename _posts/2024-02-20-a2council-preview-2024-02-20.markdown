@@ -1,0 +1,127 @@
+---
+layout: post
+title:  Ann Arbor City Council Preview for Tuesday, 2024-02-20
+date:   2024-02-20 14:00:00 -0500
+meeting_date: 2024-02-20 19:00:00 -0500
+image:
+  path: /assets/2024-02-20/pauline-runnymeade-satellite.png
+  alt: An aerial photo of the location of the Pauline-Runnymeade Path.
+  caption: An aerial photo of the location of the Pauline-Runnymeade Path.
+categories: a2council preview
+tags: early-leasing-ordinance conflicting-land-use-buffer pauline-runnymeade trunkline-transfer warming-shelter that-damn-bridge 333-e-william dte solar 
+public_hearings:
+  - url:  "#ph-1--b-1-conflicting-land-use-buffer-club"
+    desc: "Conflicting Land Use Buffer (CLUB)"
+
+---
+<span class="h-event">The next <span class="p-name">Ann Arbor City Council meeting</span> will be <time class="dt-start" datetime="2024-02-20T19:00-0500">Tuesday, February 20, 2024, at 7pm</time>. (Tuesday because Monday was Presidents' Day).</span>
+
+The things I'm most excited about are:
+* [Closing the loophole of the Early Leasing Ordinance](#c-1-early-leasing-ordinance).
+* [Getting rid of the Conflicting Land-Use Buffer between multifamily and single-family homes](#ph-1--b-1-conflicting-land-use-buffer-club).
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox.html 
+  date    = "2024-02-20T19:00-0500"
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141232&GUID=16540AE6-CE61-473A-BA09-7A98513BFE03&Options=info|&Search="
+  mtgid   = "942 1273 2148"
+%}
+
+## C-1: <a href="https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516922&GUID=DABF7458-A183-4F5A-A102-E77B6E06DF00&Options=&Search=">Early Leasing Ordinance</a>
+
+There’s a thing that happens where, as soon as you move into a place in the city, the landlord is pressuring you to renew the lease for next year.  They’re making you put down deposits and commit to the people you live with, even though a lot can change in a year.  Will you get some kind of opportunity that will take you out of the city?  Will these roommates turn out to be unsafe or unreliable?  Will you form new relationships and want to live with different people?
+
+On the other hand, if you want to stay, moving is quite disruptive!  So people feel pressure to sign early.
+
+[A couple years ago, the city council passed a law saying that landlords couldn't pressure you to renew your lease until some time had passed](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5018056&GUID=E79E3457-BA68-4591-95B3-0F97B0710FFA).  And they must offer you the chance to renew before advertising your apartment to anyone else.
+
+But the landlords found a way around this.  They made people pay money to reserve a spot on a “waiting list” instead of signing the lease directly.  Because of that loophole, the law had no material effect on the life of most renters.
+
+[These proposed changes to the Early Leasing Ordinance seek to close that loophole](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516922&GUID=DABF7458-A183-4F5A-A102-E77B6E06DF00&Options=&Search=).
+
+
+## PH-1 = B-1: [Conflicting Land Use Buffer (CLUB)](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6476016&GUID=CB2F4676-CB8B-4E82-A17D-86C4C6F4457E&Options=&Search=)
+
+Zoning requires a certain distance between buildings.  These are “set-backs”.  They say things like “You can’t build your building any closer than 10 feet from the property line” or whatever.
+
+Additionally, we have a “Conflicting Land-Use Buffer” (CLUB) that says “if this type of property is next to this other type, you have to build even further from the property line.
+
+I guess people were thinking things like “Oh, if they’re gonna build a factory, don’t put it too close to houses” or something.  But in a particularly egregious example of the discriminatory intent of zoning law, we have a CLUB between single-family housing and multi-family housing, as though a duplex is some kind of environmental hazard that the rich lawn-havers don’t want to be exposed to too closely.
+
+This would remove that particular CLUB.  This is second reading, so there is going to be a public hearing and then it will become law (if approved).
+
+## DC-2: [Ban the Box](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516858&GUID=5BCC9E66-F4A8-454F-A81E-69C87EC0D770&Options=&Search=)
+
+A few weeks ago, the city passed a “[Ban the Box](https://bantheboxcampaign.org/)” law, saying it will only do business with contractors who “ban the box” in hiring – they can’t ask a person about their criminal background until a conditional job offer has been made.
+
+Today, they might pass a resolution locking that in as the city’s practice also.  It already is the city’s practice, but this makes it a resolution, making sure this practice won’t end capriciously.
+
+## CA-6: [Pauline-Runnymeade Path](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6509124&GUID=63E4F9A7-D2F9-477D-BFD1-EFF2F235C076&Options=&Search=)
+
+The Pauline-Runnymeade Path (known to locals as the RuPaul Path) is near Dicken Elementary.  It’s owned by Walden Village Condominiums.  It’s a shoddily-built asphalt path and it’s in bad condition.  The Walden Village Condominiums is going to fix it up next year, but they are going to do a bad job if left to their own devices – they are only obligated to keep it up to the standards that it was built at, which are crummy.  The city would prefer that the path be built to ADA standards.  This would cost $750k.  So the city is chipping in to the project.
+
+The first step is to do the design, which will cost $140k, which we will front.  As part of this, we will apply for a [state “Transportation Alternatives Program” grant](https://www.michigan.gov/mdot/programs/grant-programs/transportation-alternatives), so we’ll get paid back for some portion of the $140k, and also for a portion of the construction.  How much will the state give us for the construction?  We don’t know yet.  So we haven’t negotiated the cost-sharing agreement yet with the condos for the actual construction.
+
+At the end, the city will have an easement, which it does not have now.  Now, people use the path at the pleasure of the condos.  Also, the path will be ADA-compliant, which it would not be if the condo association did it by itself.
+
+{% include map.html
+  boxid     = "pauline-runnymeade"
+  lat       = 42.26608257084391
+  lon       = -83.7749336167876
+  zoom      = 16
+  caption   = "An interactive map showing where the Pauline-Runnymeade Path is."
+%}
+
+## AC-5: [Trunkline Transfer Study](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6518925&GUID=00EE1B6C-DE68-4A0E-BA41-87FA53FE0D0A&Options=&Search=)
+
+Some of the most important roads in town are actually controlled by the state, not the city:  Huron, Washtenaw, North Main, Jackson.  The city would like to make these roads safe for humans, but the [Michigan Department of Transportation (MDOT)](https://www.michigan.gov/mdot) only concerns itself with cars moving fast, which is the opposite of making the road safe for humans.
+
+Could the city take jurisdiction of those roads from the state?  Then it’d be the city’s responsibility to maintain the roads, like it is with all the other city’s roads.  But the state would give us some money to help with that.  But also, we could make the roads safe for humans.
+
+We did a cost/benefit study.  It says that most of these roads, the benefits of taking over the road outweigh the cost.  Having only read the executive summary, I don’t know what they considered a “cost” and what they considered a “benefit”.  But using this info, we can prioritize which roads to take over first.
+
+## CA-2: [$72k for Warming Shelters](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6509118&GUID=89831AC5-A1B3-421F-8934-00D231B8A911&Options=&Search=)
+
+The county is kicking in $83k and the shelter assn is kicking in $112k (of in-kind contributions).  But it says this is 2023-2024, so are we paying back something?  Cuz didn’t much of this winter already happen?
+
+## CA-3: [333 E William St Development Agreement](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6509122&GUID=B483E361-A4C2-49A9-9A41-CCB4F266588D&Options=&Search=)
+
+The development agreement isn’t much, I’m just excited about this development.  It will replace the downtown UMCU branch.  It will have 16 stories with 202 homes (645 bedrooms).  It’s a by-right D1 project, so the development agreement isn’t that exciting.
+
+{% include map.html
+  boxid     = "333-e-william"
+  lat       = 42.27816411034395
+  lon       = -83.7449605603223
+  zoom      = 18
+  caption   = "An interactive map showing where 333 E William is."
+%}
+
+## CA-8: [That Damn Bridge cost-sharing agreement](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6509125&GUID=55F89262-A18E-4527-802C-B08A334A3312&Options=&Search=)
+
+The city is going to widen the E Medical Center Drive bridge for cars.  Safety and climate activists fought against this and lost.
+
+This part just specifies the cost-sharing agreement.  The city will pay 50% of the cost to rehabilitate the bridge.  The University will pay the other 50% as well as 100% of the cost of the widening.
+
+The people of the city will pay for it with our lives and health.
+
+{% include map.html
+  boxid     = "that-damn-bridge"
+  lat       = 42.286259697983525
+  lon       = -83.73237261151152
+  zoom      = 16
+  caption   = "An interactive map showing where That Damn Bridge is."
+%}
+
+
+## CA-10: [DTE Solar Cap](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6509129&GUID=3ADDC13C-61C3-4F6B-9237-5C0E998E6035&Options=&Search=)
+
+DTE tried to say it would only pay people for solar power until they’d reached 1% of the system’s peak production capacity, and would not pay for rooftop solar once rooftop solar got more popular than that.  The city got involved in a lawsuit to try to get people paid.
+
+DTE voluntarily raised the cap to 6%, but then the state said “Nuh uh, the cap is going to be 10%”.  It is not expected that we’ll reach this cap any time soon.
+
+So the parties in the lawsuit want to update the settlement to be like “Okay, the old settlement under the old cap?  That’s null and void.  When we’re 90% of the way to the new cap, we’ll renegotiate how we’re going to pay people.”
+
+Should the city sign the new agreement?  That’s what’s on the agenda.
