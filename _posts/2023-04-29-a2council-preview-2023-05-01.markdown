@@ -134,9 +134,11 @@ There's a lot of road paving contracts on the agenda, with a lot of million doll
 Road paving contracts on the agenda.
 </caption>
 <thead>
+  <tr>
   <th>Project</th>
   <th>Cost</th>
   <th>Cool Amenities</th>
+  </tr>
 </thead>
 
 <tbody>

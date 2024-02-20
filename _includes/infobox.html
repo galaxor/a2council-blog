@@ -50,13 +50,12 @@ Ann Arbor City Council Meeting
   <td>
   <p>You don't have to sign up in advance to speak at a public hearing. During the public hearing, you can call at <a class="tel" href="tel:888-788-0099">888-788-0099</a> Meeting ID = {{ include.mtgid|escape }}, Participant ID = #, or use zoom, at <a class="zoom" href="https://a2gov.org/councilzoom/">https://a2gov.org/councilzoom/</a>.  You must speak about the topic of the public hearing, though.</p>
 
-  <p>The public hearings on this agenda are:
+  The public hearings on this agenda are:
   <ul class="public-hearings">
   {% for public_hearing in page.public_hearings %}
   <li><a href="{{ public_hearing.url|escape }}">{{ public_hearing.desc|escape }}</a></li>
   {% endfor %}
   </ul>
-  </p>
 
   </td></tr>
 {% endif %}

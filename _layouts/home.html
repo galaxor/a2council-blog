@@ -51,10 +51,8 @@ layout: page
 
           <div class="card-text post-content">
             {{ post.image.src }}
-            <p>
               {% include no-linenos.html content=post.content %}
               {{ post.excerpt | markdownify }}
-            </p>
           </div>
 
           <div class="post-meta text-muted d-flex">
