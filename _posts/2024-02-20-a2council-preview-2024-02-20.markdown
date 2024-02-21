@@ -29,6 +29,8 @@ The things I'm most excited about are:
   date    = "2024-02-20T19:00-0500"
   agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141232&GUID=16540AE6-CE61-473A-BA09-7A98513BFE03&Options=info|&Search="
   mtgid   = "942 1273 2148"
+  thread  = "https://a2mi.social/@MegaMichelle/111966519243204489"
+  youtube = "https://www.youtube.com/watch?v=7Y00CIIktIU"
 %}
 
 ## C-1: <a href="https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516922&GUID=DABF7458-A183-4F5A-A102-E77B6E06DF00&Options=&Search=">Early Leasing Ordinance</a>
