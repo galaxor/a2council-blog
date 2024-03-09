@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20140312</CreaDate>
+    <CreaTime>09421900</CreaTime>
+    <ArcGISFormat>1.0</ArcGISFormat>
+    <SyncOnce>FALSE</SyncOnce>
+    <DataProperties>
+      <itemProps>
+        <itemName Sync="TRUE">AA_Address</itemName>
+        <imsContentType Sync="TRUE" export="False">002</imsContentType>
+        <nativeExtBox>
+          <westBL Sync="TRUE">13276695.575131</westBL>
+          <eastBL Sync="TRUE">13313571.159777</eastBL>
+          <southBL Sync="TRUE">264151.589895</southBL>
+          <northBL Sync="TRUE">300781.883858</northBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </nativeExtBox>
+        <itemSize Sync="TRUE">0.000</itemSize>
+      </itemProps>
+      <coordRef>
+        <type Sync="TRUE">Projected</type>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+        <csUnits Sync="TRUE">Linear Unit: Foot (0.304800)</csUnits>
+        <projcsn Sync="TRUE">NAD_1983_StatePlane_Michigan_South_FIPS_2113_Feet_Intl</projcsn>
+        <peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/10.8'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_StatePlane_Michigan_South_FIPS_2113_Feet_Intl&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Lambert_Conformal_Conic&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,13123359.58005249],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-84.36666666666666],PARAMETER[&amp;quot;Standard_Parallel_1&amp;quot;,42.1],PARAMETER[&amp;quot;Standard_Parallel_2&amp;quot;,43.66666666666666],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,41.5],UNIT[&amp;quot;Foot&amp;quot;,0.3048],AUTHORITY[&amp;quot;EPSG&amp;quot;,2253]]&lt;/WKT&gt;&lt;XOrigin&gt;-107138600&lt;/XOrigin&gt;&lt;YOrigin&gt;-97193800&lt;/YOrigin&gt;&lt;XYScale&gt;37448250.484633707&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.0032808398950131233&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;2253&lt;/WKID&gt;&lt;LatestWKID&gt;2253&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+      </coordRef>
+    </DataProperties>
+    <SyncDate>20240114</SyncDate>
+    <SyncTime>14514300</SyncTime>
+    <ModDate>20240114</ModDate>
+    <ModTime>14514300</ModTime>
+    <scaleRange>
+      <minScale>150000000</minScale>
+      <maxScale>5000</maxScale>
+    </scaleRange>
+    <ArcGISProfile>ItemDescription</ArcGISProfile>
+  </Esri>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE"> Version 6.2 (Build 9200) ; Esri ArcGIS 10.8.1.14362</envirDesc>
+    <dataLang>
+      <languageCode value="eng" Sync="TRUE"/>
+      <countryCode value="USA" Sync="TRUE"/>
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="FALSE">City of Ann Arbor (Address Points)</resTitle>
+      <presForm>
+        <PresFormCd value="005" Sync="TRUE"/>
+      </presForm>
+      <citRespParty>
+        <rpIndName>Scott Harrod</rpIndName>
+        <rpOrgName>City of Ann Arbor</rpOrgName>
+        <rpPosName>GIS Coordinator</rpPosName>
+        <role>
+          <RoleCd value="006"/>
+        </role>
+        <rpCntInfo>
+          <cntAddress addressType="both">
+            <delPoint>301 E Huron St</delPoint>
+            <city>Ann Arbor</city>
+            <adminArea>MI</adminArea>
+            <postCode>48104</postCode>
+            <eMailAdd>sjharrod@a2gov.org</eMailAdd>
+            <country>US</country>
+          </cntAddress>
+          <cntPhone>
+            <voiceNum tddtty="">734-794-6000</voiceNum>
+          </cntPhone>
+        </rpCntInfo>
+        <displayName>Scott Harrod</displayName>
+      </citRespParty>
+      <date>
+        <createDate>2020-04-20T00:00:00</createDate>
+        <pubDate>2020-04-20T00:00:00</pubDate>
+      </date>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd value="001" Sync="TRUE"/>
+    </spatRpType>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="search">
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+          <westBL Sync="TRUE">-83.800554</westBL>
+          <eastBL Sync="TRUE">-83.663286</eastBL>
+          <northBL Sync="TRUE">42.323934</northBL>
+          <southBL Sync="TRUE">42.222656</southBL>
+        </GeoBndBox>
+      </geoEle>
+      <exDesc>Bounding Box</exDesc>
+      <tempEle>
+        <TempExtent>
+          <exTemp>
+            <TM_Period>
+              <tmBegin>2020-04-20T00:00:00</tmBegin>
+            </TM_Period>
+          </exTemp>
+        </TempExtent>
+      </tempEle>
+    </dataExt>
+    <idPurp>Representation of PIN and address information tied to each basic land ownership unit or sub-unit within the jurisdiction of the City of Ann Arbor.  Included also are other properties which are subject to possible annexation and/or provided with City services requiring payment or regulation.</idPurp>
+    <idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Points were originally generated from parcel centroids combined with PIN and address attributes and supplemented by manual addition of condominium and apartment addresses from the Address Table, Community Services staff maintains the graphic and attribute information for accuracy and consistency to use with other City mapping applications. Points are spatially adjusted as needed.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+    <idCredit>City of Ann Arbor Community Services</idCredit>
+    <resConst>
+      <Consts>
+        <useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;&lt;SPAN&gt;The City of Ann Arbor shall not be held liable for improper or incorrect use of this data. This data and related graphics are not legal documents and are not intended to be used as such. The information contained in this data is dynamic and may change over time. The data is not better than the original sources from which it was derived. It is the responsibility of the data user to use the data appropriately and within the limitations of geospatial data in general. The City of Ann Arbor gives no warranty, expressed or implied, as to the accuracy, reliability, or completeness of this data. It is strongly recommended that this data be directly acquired from the City of Ann Arbor, and not indirectly through other sources which may have changed the data in some way. This disclaimer applies both to individual use of the data and aggregate use with other data.&lt;/SPAN&gt;&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN /&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+      </Consts>
+    </resConst>
+    <searchKeys>
+      <keyword>Ann Arbor</keyword>
+      <keyword>Address</keyword>
+    </searchKeys>
+    <resMaint>
+      <maintFreq>
+        <MaintFreqCd value="001"/>
+      </maintFreq>
+    </resMaint>
+    <idPoC>
+      <rpIndName>Scott Harrod</rpIndName>
+      <rpOrgName>City of Ann Arbor</rpOrgName>
+      <rpPosName>GIS Coordinator</rpPosName>
+      <role>
+        <RoleCd value="007"/>
+      </role>
+      <rpCntInfo>
+        <cntAddress addressType="both">
+          <delPoint>301 E Huron St</delPoint>
+          <city>Ann Arbor</city>
+          <adminArea>MI</adminArea>
+          <postCode>48104</postCode>
+          <eMailAdd>sjharrod@a2gov.org</eMailAdd>
+          <country>US</country>
+        </cntAddress>
+        <cntPhone>
+          <voiceNum tddtty="">734-794-6000</voiceNum>
+        </cntPhone>
+      </rpCntInfo>
+    </idPoC>
+    <dataChar>
+      <CharSetCd value="004"/>
+    </dataChar>
+    <idStatus>
+      <ProgCd value="004"/>
+    </idStatus>
+    <tpCat>
+      <TopicCatCd value="010"/>
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="018"/>
+    </tpCat>
+    <tpCat>
+      <TopicCatCd value="019"/>
+    </tpCat>
+  </dataIdInfo>
+  <mdLang>
+    <languageCode value="eng" Sync="TRUE"/>
+    <countryCode value="USA" Sync="TRUE"/>
+  </mdLang>
+  <distInfo>
+    <distFormat>
+      <formatName Sync="TRUE">Shapefile</formatName>
+    </distFormat>
+    <distTranOps>
+      <transSize Sync="TRUE">0.000</transSize>
+    </distTranOps>
+  </distInfo>
+  <mdHrLv>
+    <ScopeCd value="005" Sync="TRUE"/>
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode code="2253" Sync="TRUE"/>
+        <idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+        <idVersion Sync="TRUE">5.3(9.0.0)</idVersion>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <geometObjs Name="AA_Address">
+        <geoObjTyp>
+          <GeoObjTypCd value="004" Sync="TRUE"/>
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">0</geoObjCnt>
+      </geometObjs>
+      <topLvl>
+        <TopoLevCd value="001" Sync="TRUE"/>
+      </topLvl>
+    </VectSpatRep>
+  </spatRepInfo>
+  <spdoinfo>
+    <ptvctinf>
+      <esriterm Name="AA_Address">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom code="1" Sync="TRUE"/>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">0</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <eainfo>
+    <detailed Name="AA_Address">
+      <enttyp>
+        <enttypl Sync="TRUE">AA_Address</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">0</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">Esri</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ADDRESSPTI</attrlabl>
+        <attalias Sync="TRUE">ADDRESSPTI</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">20</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PIN</attrlabl>
+        <attalias Sync="TRUE">PIN</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">20</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef>Parcel ID number the Address Point geographically lies in.</attrdef>
+        <attrdomv>
+          <edom>
+            <edomv>ROW</edomv>
+            <edomvd>Point is in the ROW typically for Utility Address Points.</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SITUS_ADR</attrlabl>
+        <attalias Sync="TRUE">SITUS_ADR</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">50</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef>Full street address of Address Point.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">STREETNUMB</attrlabl>
+        <attalias Sync="TRUE">STREETNUMB</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">DIRECTION</attrlabl>
+        <attalias Sync="TRUE">DIRECTION</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef>Street direction of Centerline.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">STREET</attrlabl>
+        <attalias Sync="TRUE">STREET</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef>Street name of Centerline.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">TYPE</attrlabl>
+        <attalias Sync="TRUE">TYPE</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">254</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef>Type of Centerline.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PackedPin</attrlabl>
+        <attalias Sync="TRUE">PackedPin</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">20</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef>The packed PIN ID number.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PackedPinL</attrlabl>
+        <attalias Sync="TRUE">PackedPinL</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">50</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+      </attr>
+    </detailed>
+  </eainfo>
+  <mdDateSt Sync="TRUE">20240114</mdDateSt>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAoqFbu2e4NutxE04BJjDgtx1469xU1ABRRXK/EHxpbeBvC0+pS4a6fMVpEQ
+T5kpBxnHYdT7D1xQB1VZN14o8P2N8LG61zTYLs8+RJdIr4xnO0nOMCvD/FPxUj8QfDwRS6isd1da
+XmW3tD5T/ahMikFt2Qu3cxQrgj+L08b1TSordbe6sJ/tFncpvQF0MsZGAyuiklcMcAnG4YI64oA+
+o9V+OXgbS7h4Fv572SNyjfZICygjPRjgEcdQT+Vb1l8R/B+oO623iCyYpbi4bL7cJtZj17gKSV6j
+HIFfFI5IGce9W7TVL6whnitLuWGOddsqo2NwwQf0JH0JHQmgD7QsvH3hbUfEDaHaa1bS6gAGWME4
+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</Data>
+    </Thumbnail>
+  </Binary>
+  <mdMaint>
+    <maintFreq>
+      <MaintFreqCd value="009"/>
+    </maintFreq>
+  </mdMaint>
+  <mdContact>
+    <rpIndName>Scott Harrod</rpIndName>
+    <rpOrgName>City of Ann Arbor</rpOrgName>
+    <rpPosName>GIS Coordinator</rpPosName>
+    <role>
+      <RoleCd value="007"/>
+    </role>
+    <rpCntInfo>
+      <cntAddress addressType="both">
+        <delPoint>301 E Huron St</delPoint>
+        <city>Ann Arbor</city>
+        <adminArea>MI</adminArea>
+        <postCode>48104</postCode>
+        <eMailAdd>sjharrod@a2gov.org</eMailAdd>
+        <country>US</country>
+      </cntAddress>
+      <cntPhone>
+        <voiceNum tddtty="">734-794-6000</voiceNum>
+      </cntPhone>
+    </rpCntInfo>
+    <displayName>Scott Harrod</displayName>
+  </mdContact>
+</metadata>

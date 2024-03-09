@@ -1,0 +1,74 @@
+---
+layout: post
+title:  Ann Arbor City Council Wrapup for Monday, 2023-12-04
+date:   2023-12-12 08:07:00 -0500
+meeting_date: 2023-12-04 19:00:00 -0500
+image:
+  path: /assets/2023-04-17/fuller-park.jpg
+  alt: An aerial photograph of the current Fuller Park pool, waterslide, and just a little bit of a soccer field showing.
+  caption: The current Fuller Park pool. Fuller Park will be renovated as Bicentennial Park.
+  credit: "From <a href=\"http://a2gov.legistar.com/View.ashx?M=F&ID=11901365&GUID=43A752DA-73A1-4C18-9981-BD79147DC615\">the City Administrators Budget Proposal</a>."
+categories: a2council wrapup
+tags: jude-walton avalon-housing arab-american-heritage-month workers-memorial-day budget state-revenue-sharing pension-fund public-restrooms throne 121-e-catherine ann-arbor-housing-commission lihtc affordable-housing-millage african-american-cultural-entrepreneurial-center bicentennial fuller-park bicentennial-park land-back unarmed-response downtown-safety election-center compensation staff-retention supportive-connections city-hall kline-lot defund-the-police comprehensive-plan segregation 415-w-washington chimney-swifts center-of-the-city library-lot food-trucks gelman-plume antisemitism
+map_415_w_washington:
+  - lat: 42.28022290463792
+    lon: -83.75243271637474
+    text: "415 W Washington"
+  - lat: 42.28038319057523
+    lon: -83.75119209919065
+    text: "The Blind Pig"
+  - lat: 42.279601978540384
+    lon: -83.75328108753985
+    text: "St Paul Lutheran Church"
+  - lat: 42.27853357121308
+    lon: -83.75150188938429
+    text: "Liberty Lofts"
+  - lat: 42.27972861988274
+    lon: -83.7520637875398
+    text: "The Mark"
+  - lat: 42.28114240339128
+    lon: -83.75292927397211
+    text: "YMCA"
+
+---
+
+{% include _GIS/TC1.html %}
+
+{% include mapn.html
+  boxid="tc1"
+  caption="Interactive Map: Where is TC1"
+  locations=page.map_415_w_washington
+  layers=page.layers
+  zoom=11 
+%}
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2023-12-04T19:00-0500">Monday, December 4, 2023</time>.</span>
+
+## Lockwood PUD Amendment
+
+Lockwood is a senior living apartment building being built.  It will have a bunch of below-market-rate housing for seniors.  It was approved as a PUD, which means that every tiny aspect of it is specified.  They accidentally poured the foundation a couple feet into the setback.  If this had been a normal project with normal zoning, they’d go to the Zoning Board of Appeals, and get a variance, to allow them to continue to build.  Since it’s a PUD, they had to go before city council to get their extremely specific zoning amended.  It’s totally silly.  City council approved it.
+
+## Downtown Premiums
+
+We have some tools to influence what gets built: We can specify uses, with zoning. We can’t force people to build below-market-rate housing, though, because of Michigan’s rent control law. We can’t force people to build green because building code is determined by the state. But we can influence these things! We can say “Hey, if you want to build a building, it can only be this high. But if you want to build higher than that, do below-market-rate housing!”  This is a premium we set up in 2019. We have a certain height that we’ll tolerate, and we artificially lower that to strongarm people into taking the premium.
+
+We used to have a premium if people built any housing downtown at all.  But in 2019, we changed it so that in order to qualify for the premium, a certain amount of the housing had to be below-market-rate.
+
+Nobody proposed any projects using this premium.  They proposed no projects at all.  We want affordable housing and instead we got no housing.
+
+Last night, city council decided it would be better to just let people build to the maximum height that we’ll tolerate, without demanding any concessions.  If we get too specific about what we want, maybe nobody wants to do that thing.  It’s better to get housing built, even if it’s not exactly as we imagine.  That’ll fix the housing crisis.  That’ll let more people live downtown, near jobs.
+
+## TC1 Setback
+
+There’s a couple TC1 roads where there’s just a narrow sidewalk immediately abutting the street.  No room for bus shelters, bike racks, etc.  TC1 asks developers to build right up to the property line, too.  This permanently locks these spots into this narrow sidewalk condition.
+Solutions:  We could narrow the road.  This was talked about on planning commission, but some said that we didn’t want to commit to having to do this.  Another thing we could do is tell the developers they have to build a little further back.  This doesn’t give the city the right to use their property for these purposes, but it lets us negotiate.  No consensus was achieved about the approach on planning commission, but a compromise was presented to council, with “We couldn’t agree, but this is as far as we got”.  Council accepted it.  What was the compromise?
+
+We specify a wider setback, but measure from the curb, not from the property line.  That way, if there’s enough space, then they have to build right up to the property line, but if not, they have to move the building back.
+
+## 900 Briarwood
+
+They wanna tear down the Sears at the mall, and remove some of the parking lot to build 354 homes, of varying numbers of bedrooms.  The first and second floor will be retail, and they’ve got a grocery store and a sporting goods store signed up.  Everyone is excited.  Approved.
+Leaf Blowers (first reading)
+They want to ban gas-powered leaf blowers by 2028, phasing them out slowly.  Starting immediately (when the final is approved), it will be illegal to use gas-powered leaf blowers except in the fall.  Electric is totally fine.  And by 2028, it will be illegal to use gas-powered leaf blowers ever.  Electric will be totally fine.  But gas?  $500 fine.
+
+They’ll do bulk buys, and the fine money goes to help people replace their gas leaf blowers.  That money will be distributed equitably.
