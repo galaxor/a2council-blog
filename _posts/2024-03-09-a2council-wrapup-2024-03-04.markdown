@@ -1,0 +1,129 @@
+---
+layout: post
+title:  Ann Arbor City Council Wrapup for Monday, 2024-03-04
+date:   2024-03-09 13:18:00 -0500
+meeting_date: 2024-03-04 19:00:00 -0500
+image:
+  path: /assets/2024-03-09/leslie-golf-cart.jpeg
+  alt: A photo of three people golfing at Leslie golf course, standing next to a golf cart.  The people are all facing away from the camera.  One golfer has just completed a swing.
+  caption: Golfers and golf cart at Leslie Golf Course.
+  credit: "From <a href=\"https://twitter.com/leslieparkgolf/status/362544724571209729\">the Leslie golf course's twitter account</a>."
+
+map_golf_courses:
+  - lat: 42.3028334667425
+    lon: -83.72505474520865
+    text: "Leslie Golf Course"
+  - lat: 42.27172439963521
+    lon: -83.69684774705435
+    text: "Huron Hills Golf Course"
+
+categories: a2council wrapup
+tags: golf early-leasing-ordinance renters ambulance supportive-connections diversion deflection
+---
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2024-03-04T19:00-0500">Monday, March 4, 2024</time>.</span>
+
+Some of the big things that happened there were:
+
+* The city council [decided to sign a four-year lease gas-powered golf carts for the city's golf courses](#dc-2-motion-to-reconsider-feb-20-vote-on-golf-cart-lease), changing their mind after deciding not to sign the lease at the last meeting.
+* The city council [updated the "Early Leasing Ordinance" and "Right to Renew" law](#b-1-ordinance-to-amend-chapter-105-housing-code-building-regulations-amendment-to-the-early-leasing-ordinance) to clean up some loopholes.
+
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141233&GUID=8A928EF6-9508-435A-90F0-DF5BC453680C&Options=info"
+  youtube = "https://www.youtube.com/watch?v=-HUnjluKjgQ"
+  thread  = "https://a2mi.social/@MegaMichelle/112040119232123097"
+%}
+
+## DC-2: [Motion to Reconsider Feb. 20 Vote on Golf Cart Lease](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6562071&GUID=5C7C7CD6-B6C8-4FA0-A351-E7993511862C&Options=&Search=)
+
+At [the last City Council meeting meeting on Feb 20](http://a2gov.legistar.com/MeetingDetail.aspx?ID=1141232&GUID=16540AE6-CE61-473A-BA09-7A98513BFE03&Search=), the council [voted not to sign a $750k, 4-year lease on gas-powered golf carts](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6509126&GUID=99DD9915-A0C1-4A85-AD6D-454D6B2D47D0&Options=&Search=) because running gas-powered vehicles goes against [the city’s plan to go carbon-neutral by 2030](https://www.a2gov.org/departments/sustainability/Carbon-Neutrality/Pages/default.aspx). 
+
+The thing that changed is that the staff sent a memo to the city council, and [this memo pointed out that there was no option to get electric golf carts in time for the next golf season](https://mcusercontent.com/a346f7bb4c7ddb07e6f535e4b/files/a412b570-53a7-4890-f343-83842c3773db/240229_Memo_to_City_Council_Golf_Cart_Lease.pdf), and if we don’t have gas powered golf carts, they will have to shut down the golf courses.  The golf cart rental subsidizes the operations of the golf courses.  If we don’t have carts to rent, we’d have to pay the staff to maintain and operate the golf course out of parks money, and we don’t have that kind of money in the general parks budget.  ([I obtained the letter because it was posted in Councilmember Erica Briggs's newsletter](https://us3.campaign-archive.com/?u=a346f7bb4c7ddb07e6f535e4b&id=240147b2d8).)
+
+Why can’t we get electric golf carts?  Because we would have to upgrade the electrical infrastructure.  This would cost $1.2m.  We can’t get it done by next golf season.
+
+Golf cart revenue is likely to be $1.9m in 2024.  If we stop having golf carts, fewer people would play golf, and the city would have to subsidize golf to the tune of a million dollars, or shut the courses down.
+
+At the meeting, parks staff explained that [Leslie golf course](https://leslieparkgolf.com/) is a more challenging course, and alcohol is allowed.  It takes in more money than it costs to run it.  [Huron Hills golf course](https://huronhillsgolf.com/) is beginner-friendly and family-friendly.  It is not a money maker; it is subsidized by Leslie Golf Course.  Together, they almost, but do not, break even.
+
+At this meeting, Councilmembers Cornell and Eyer were ready to shut them down immediately because golf cannot be done while fulfilling our values and they don’t want to invest big money in the upgrades to a thing that can’t be done ethically.  Councilmember Radina said that urban golf courses are not the best land use, but if we want to shut them down, we should have a plan.  Councilmember Briggs said if someone comes up with a resolution to look into better uses of the land, she'd co-sponsor it, but she would not shut them down haphazardly here.  Councilmember Disch pointed out that the [Comprehensive Plan Update process](https://a2compplan-a2-mi.hub.arcgis.com/) is taking place, and asked if the Comprehensive Plan steering committee could look into this.  Staff said they would bring it up with the committee.  Councilmember Song said that the golf courses are a valuable community asset.  One council member also noted that there are 51 golf courses within 15 miles of Ann Arbor, and 41 of them are public.
+
+In the end, the city council [reconsidered this decision and chose to lease the golf carts and keep the golf courses open](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6562071&GUID=5C7C7CD6-B6C8-4FA0-A351-E7993511862C&Options=&Search=).  Only Councilmembers Eyer and Cornell voted against this.  They did pass an amendment, proposed by Councilmember Radina, to make sure that, by the time the lease is up in four years (with an optional one year extension), that parks staff will be able to electrify the golf carts for the next round.
+
+{% include mapn.html
+  boxid     = "golf-courses"
+  locations = page.map_golf_courses
+  caption   = "An interactive map showing the locations of the Leslie and Huron Hills golf courses."
+  zoom      = 12
+%}
+
+
+## B-1: [Ordinance to Amend Chapter 105 (Housing Code) (Building Regulations): Amendment to the Early Leasing Ordinance](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516922&GUID=DABF7458-A183-4F5A-A102-E77B6E06DF00&Options=&Search=)
+
+Since there is a housing crisis in Ann Arbor, landlords have considerable power over tenants, which they often abuse.
+
+In [August 2021](https://a2gov.legistar.com/MeetingDetail.aspx?ID=829776&GUID=44E0FF26-9E79-4608-8CC1-54F90EA3DB48&Options=info), city council passed the [Early Leasing Ordinance and Right to Renew ordinance](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5018056&GUID=E79E3457-BA68-4591-95B3-0F97B0710FFA&Options=&Search=).
+
+The Early Leasing Ordinance aimed to stop one of the landlords’ abusive practices:  They would come to tenants very soon after the start of their lease, and ask them to renew their leases for next year.  This is bad for tenants because they haven’t had time to find out what they want to do next year.  Will they graduate?  Will they find some opportunity elsewhere?  Will they form new relationships?  Will conflict arise with their current roommates?
+
+The Early Leasing Ordinance aimed to change this:  It said that landlords could not offer a new lease or advertise the apartment until close to the end of the current lease,
+
+The Right to Renew ordinance aimed to stop another abusive practice:  Landlords could capriciously decide not to offer a new lease to a tenant for the next year.  Tenants were scared to ask landlords to fix things in the apartment, because they were afraid the landlord would decline to rent to them the next year.  The Right to Renew ordinance said that landlords had to offer a lease to the current tenant before offering it to anyone else, and there were only certain, defined reasons that a landlord could decline to offer a lease renewal.
+
+These laws have been in effect since August 2021, and have been helping people, but there are a number of loopholes, and landlords are getting away with continuing some of these abusive practices.
+
+At this meeting, city council passed [an update to the Early Leasing Ordinance aimed to fix some of the loopholes](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6516922&GUID=DABF7458-A183-4F5A-A102-E77B6E06DF00&Options=&Search=).  It rewrote the law to be in clearer language, and to eliminate places where it was contradictory. 
+
+Several members of the [Ann Arbor Tenants Union](https://annarbortenants.org/) [spoke in favor of these change to the Early Leasing Ordinance](https://youtu.be/-HUnjluKjgQ?t=2652), at the public hearing.
+
+There are some loopholes that this ordinance fixes, and some loopholes that it doesn't fix, so I asked Nathan Kim, from the Ann Arbor Tenants Union to explain what was fixed at this meeting:
+
+<blockquote>
+[This amendment] stops landlords from sending lease renewal offers of any kind until 180 days into the lease, solving a major issue tenants have faced of being pressured into renewing a lease just a few months into their tenancy. The existing ELO had tried to stop this by regulating when deadlines for lease signing could be enforced, but landlords were able to get around this by simply threatening to raise rents if tenants did not renew by a certain date. By preventing leases from being offered at all, we feel that this pressure to renew early has been lifted considerably
+</blockquote>
+
+There are still loopholes that this change does not address.  Among them are waitlists:  Landlords want to pressure tenants to commit very early to renew their lease for the next year.  The Early Leasing Ordinance prevents them from offering leases early, or advertising the apartment.  But instead, landlords ask tenants to pay money to “reserve their spot” on a waitlist.  Since this isn't technically a lease, the Early Leasing Ordinance doesn't prevent it.
+
+The [Ann Arbor Tenants Union explained these waitlists in a press release](https://drive.google.com/file/d/15mIu5k8DUDIjD73pSVrjcV0kzx09Ju7f/view):
+
+<blockquote>
+[The Ann Arbor Tenant Union's Zachariah] Farah pointed to Campus Management Inc. (CMI), a prominent Ann Arbor landlord that owns 275 houses and apartments. According to documents obtained by the AATU, Campus Management charges tenants a $6,745 fee to join a waitlist for a 2 Br apartment. The waitlist contract, termed an “options contract” is in effect an agreement to join a waitlist and doesn’t guarantee a lease to the prospective tenant.
+</blockquote>
+
+The change that was passed last night does not fix this abusive practice.  CM Radina promises that this change will be coming soon, coming from the city council's [Renter's Commission](https://a2gov.granicus.com/boards/w/fe6c5e22e6f4a331/boards).
+
+
+## DS-1: [Fee Approval for Fire Department Ambulance Transport and Lift Assists](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6495943&GUID=D27032FE-8CB8-41CF-8070-A1C01BFB655E&Options=&Search=) and DS-2: [Fire Department Basic Life Support BIlling Fee](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6548988&GUID=BD1FFEE2-777A-49AC-BCD8-3190E7C5FE49&Options=&Search=)
+
+{% include image.html
+  src = "/assets/2024-03-09/ambulance.jpg"
+  alt = "Photo of a fire department ambulance. It is red and it is parked askew at an intersection on Main St."
+  caption = "A fire department ambulance."
+  credit = "From <a href=\"https://www.a2gov.org/departments/fire/Documents/2023%20AAFD%20Annual%20Report.pdf\">the fire department's 2023 annual report</a>."
+%}
+
+If you have a health problem and call 911 for an ambulance, there are two different ambulance services that might come get you, and you cannot choose which – “[Huron Valley Ambulance](https://www.emergenthealth.org/hva/)”, a private, non-profit organization; and the [Ann Arbor Fire Department](https://www.a2gov.org/departments/fire/Pages/default.aspx).  The Ann Arbor Fire Department has only been running its own ambulance service since 2023, according to [the Fire Department's 2023 Annual Report](https://www.a2gov.org/departments/fire/Documents/2023%20AAFD%20Annual%20Report.pdf), and has not yet had a system in place to bill for their services.  Therefore, the Ann Arbor Fire Department’s ambulance service has been providing their services for free, out of the city’s fire department budget.
+
+Last night, the city council allowed the fire department to begin charging for ambulance services.  However, they stipulate that only insurance companies will ever pay.  Any amount of money that the insurance company doesn’t pay, the fee will be waived and no one will be charged any money out of pocket.  This includes co-pays and denials.  That also includes people who have no insurance.
+
+They also passed a change to how the fire department handles “Lift Assists”.  A Lift Assist is when a person has fallen, or can’t get out of bed, or some such thing, but doesn’t need other medical help.  Once they’re picked up or put in a wheelchair or something, they can get themselves to the doctor.
+
+Like ambulance service, Lift Assists were being provided free of charge.  However, the fire department found that quite often, assisted living facilities and other places like that were calling for lift assists in routine situations, rather than having their own staff that were able to do this for their patients.  The proposal passed last night allows the city to charge a fee to these facilities.  But the fire department will not charge individuals who call for this service, which is something people do in emergency situations.
+
+An [earlier version of the Lift Assist proposal](https://a2gov.legistar.com/View.ashx?M=F&ID=12620296&GUID=43685009-9D48-4E2F-BDBC-9F16F44E40AF) contemplated indeed charging individuals if they used the Lift Assist service more than six times in a year.  The city council asked that this be postponed so that the fire department could talk to the city council's [Commission on Disability Issues](https://a2gov.granicus.com/boards/w/fe6c5e22e6f4a331/boards).  After this discussion, the fire department brought the version of the proposal that was ultimately passed at this meeting:  Individuals will never be charged for a Lift Assist, but patient care facilities will.
+
+## CA-6: [Resolution to Approve a Construction Contract with Spence Brothers for the Supportive Connections Office Space Renovations Project (RFP 23-68) ($135,000.00)](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6550112&GUID=F6E83834-B490-46B2-9AED-8A63B53C8573&Options=&Search=)
+
+[Supportive Connections](https://www.a2gov.org/services/Pages/Supportive-Connections.aspx) is a program that is run by the city.  Its goal is to provide services to people who need help with mental health issues, drug use that causes harm, physical health problems, etc.  The service it provides is to figure out what help people need and refer them out to the appropriate service providers.
+
+Anyone can use Supportive Services, and [anyone can refer another person to Supportive Connections](https://www.a2gov.org/services/Pages/Supportive-Connections-Referral.aspx), but it is primarily intended to be a place that local judges or police officers can refer people to, in order to prevent them from becoming involved or re-involved in the criminal justice system.  Judges, prosecutors, and police refer to this type of system as “diversion” and “deflection”.  The ideas is that they don’t send people to jail if all they need is help -- they can send them to Supportive Connections instead.  This is different from court-appointed rehab in that the services provided by Supportive Connections are voluntary, unlike the “pee in a cup or you go to jail” type systems of court-appointed drug rehab.
+
+Supportive Connections is funded by the money the city gets back from the state on marijuana sales tax.
+
+The reason I bring up Supportive Connections is that, last night, the city council approved [a $135k construction contract to move Supportive Connections out of the court/police building and into City Hall](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6550112&GUID=F6E83834-B490-46B2-9AED-8A63B53C8573&Options=&Search=).  The difference is that, to get into the court/police building, you have to go through security.  You can’t bring in a cell phone.  The city wants to be more welcoming and accessible to people who need Supportive Connections, and treat them with more dignity.
