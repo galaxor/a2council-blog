@@ -38,6 +38,7 @@ Some of the big things that happened there were:
   agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141233&GUID=8A928EF6-9508-435A-90F0-DF5BC453680C&Options=info"
   youtube = "https://www.youtube.com/watch?v=-HUnjluKjgQ"
   thread  = "https://a2mi.social/@MegaMichelle/112040119232123097"
+  votes   = "https://a2council.vote/post/council-meeting-2024-03-04/"
 %}
 
 ## DC-2: [Motion to Reconsider Feb. 20 Vote on Golf Cart Lease](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6562071&GUID=5C7C7CD6-B6C8-4FA0-A351-E7993511862C&Options=&Search=)
