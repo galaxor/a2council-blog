@@ -1,0 +1,145 @@
+---
+layout: post
+title:  Ann Arbor City Council Wrapup for Monday, 2024-03-18
+date:   2024-03-23 11:11:00 -0500
+meeting_date: 2024-03-18 19:00:00 -0500
+image:
+  path: /assets/2024-03-23/D2A2.jpg
+  alt: "A \"D2A2\" bus awaits passengers at the Ann Arbor Blake Transit Station, to take them to Detroit."
+  caption: The D2A2 bus between Detroit and Ann Arbor
+  credit: "Credit <a href=\"https://www.theride.org/about/news/theride-offers-partnership-mdot-investigate-transit-scenario-us-23-study\">AAATA</a>."
+
+categories: a2council wrapup
+tags: 121-e-catherine aaata trains-not-lanes us-23 park-and-ride anonymous-hiring dda solar-mobile-nanogrid resilience splash-pad
+---
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2024-03-18T19:00-0500">Monday, March 18, 2024</time>.</span>
+
+Some of the biggest things that happened were:
+* [A $9m bond to build affordable housing at 121 E Catherine](#bond-for-121-e-catherine)
+* [City Council Supports AAATA's proposal for park-and-ride network on US-23](#support-for-aaata-proposal-for-us-23)
+* [Anonymous Hiring Initiative](#anonymous-hiring)
+
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141234&GUID=C2088826-7FE4-4736-A98B-17F0A870AF85&Options=info"
+  youtube = "https://www.youtube.com/watch?v=g6PJwgHD7jc"
+  thread  = "https://a2mi.social/@MegaMichelle/112119177005445969"
+%}
+
+## [DDA Report](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6563496&GUID=1F545956-93A4-4A5F-92AE-1B7E615E7B93&Options=&Search=)
+
+The [Downtown Development Authority (DDA)](https://www.a2dda.org/) did [a study about visits to downtown](https://a2gov.legistar.com/View.ashx?M=F&ID=12756670&GUID=1D5B2242-2756-4D80-A260-06CC7DE3C129), where they bought cell phone tracking data from [Placer.ai](https://www.placer.ai/) to see who was visiting downtown when.
+
+Note that, while the DDA calls this report "Post-Pandemic Downtown Activity", the pandemic is still going strong, disabling and killing people.  If we fail to acknowledge this reality, we put public life out of reach for vulnerable people in our community.  See, for example, [The People's CDC](https://peoplescdc.org/) for information about advocating for covid safety.
+
+Since the pandemic began, downtown businesses are more dependent on UM to bring in visitors, because there aren’t as many office workers.
+
+{% include image.html
+  src = "/assets/2024-03-23/DDA-Presentation-1.svg"
+  alt = "Line graph of visits to downtown, 2017 through 2023, showing a massive dip in 2020 when the pandemic first arrived, and then recovering its normal pattern by 2023, except with deeper troughs during University breaks."
+  caption = "Visits to downtown, 2017 through 2023."
+%}
+
+
+DDA visits are up by 4% since 2019, whereas Briarwood visits are down by 31%.  Downtown is way more popular, so maybe abundant free parking isn’t really the big decider when it comes to retail!
+
+{% include image.html
+  src = "/assets/2024-03-23/DDA-Presentation-2.svg"
+  alt = "Line graph showing visits to downtown in 2023, comparing downtown vs Briarwood Mall, as time goes from January to December. Downtown seems to hover at around 70 thousand visits, except in summer, when it hovers around 40,000.  Briarwood Mall is consistently at about 10,000."
+  caption = "DDA vs. Briarwood Mall, 2023"
+%}
+
+
+In fact, downtown is also way more popular than Arborland and Maple Village too!
+
+{% include image.html
+  src = "/assets/2024-03-23/DDA-Presentation-3.svg"
+  alt = "Line graph comparing visits to different shopping districts in 2023. State Street is consistently the most popular, followed closely by Main Street, and South University is a close third.  But South University takes a big hit in the summer months.  When it's not summer, the average of the three is around 30,000 visits.  In the summer, State and Main are at around 15,000 whereas South University goes down to maybe 5,000, which is where Kerrytown, Maple Village, Arborland, and Arbor Hills are all the time."
+  caption = "DDA vs. Briarwood Mall, 2023"
+%}
+
+
+The DDA did some “[People Friendly Streets](https://www.a2dda.org/people-friendly-streets/)” redesigns on Fifth & Detroit, on State, and on First & Ashley.  Visits have increased in all these places by 15-28% since these projects were done.
+
+But the big winner is [the protected bikeways](https://www.a2dda.org/people-friendly-streets/using-bikeway/).  Visits to businesses near protected bike lanes have increased by 30% since they were built.
+
+And this is all important because visits are strongly correlated with spending.  So it turns out that when you do urbanism, it’s good for local businesses.  Whenever parking gets turned into bike lanes or pedestrian infrastructure, local businesses are always worried that this will cut into their business.  But the data does not support these fears:  Making a place more walkable is good for business.
+
+## [Bond for 121 E Catherine](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6566282&GUID=2CDCBC96-F17F-44A4-B2B2-36EA6A8BA2DF&Options=&Search=)
+
+{% include image.html
+  src = "/assets/2024-03-23/121CatherineStstreetview.jpeg"
+  alt = "Architectural rendering of what 121 E Catherine St might look like when built. Six stories, modern-style architecture, clad in at least four different materials."
+  caption = "121 E Catherine St (Architectural Rendering)"
+  credit = "Credit: <a href=\"https://www.a2gov.org/departments/Housing/development/Pages/121-E-Catherine-St.aspx\">City website about 121 E Catherine St</a>"
+%}
+
+The city [agreed to sell $9m of bonds](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6566282&GUID=2CDCBC96-F17F-44A4-B2B2-36EA6A8BA2DF&Options=&Search=) so that the [Ann Arbor Housing Commission](https://www.a2gov.org/departments/Housing/Pages/default.aspx) could complete [121 E Catherine St](https://www.a2gov.org/departments/Housing/development/Pages/121-E-Catherine-St.aspx), a subsidized housing development, with 63 homes available to people who make 60% of the Area Median Income, or less.  Whatever their income, they will only have to pay 30% of their income to live there.  Ongoing operations are subsidized by obtaining and selling [low-income housing tax credits](https://www.law.cornell.edu/uscode/text/26/42), a program of the [Internal Revenue Service (IRS)](https://www.irs.gov/).  The site is near the farmer's market.  Currently, there is a parking lot on that spot.
+
+The city has an [affordable housing millage](https://www.a2gov.org/departments/Housing/Pages/Affordable-Housing-Millage.aspx), which nets $7.2m per year, but if we had to pay in cash for this development, it would take all of this year’s millage money and all of next year’s millage money.  Since we are selling the bonds, that means we can build this building right away while still working on other affordable housing projects.  The loan will be repaid from the affordable housing millage.  Then we can build this thing right away!
+
+{% include map.html
+  boxid     = "121-e-catherine"
+  lat       = 42.2836468453033
+  lon       = -83.74746381637455
+  zoom      = 18
+  caption   = "An interactive map showing 121 E Catherine."
+%}
+
+## [Anonymous Hiring](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6575132&GUID=75518D9E-7B11-49D2-AED4-CC80AE328214&Options=&Search=)
+
+The city will now practice “[Anonymous Hiring](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6575132&GUID=75518D9E-7B11-49D2-AED4-CC80AE328214&Options=&Search=)”.  When they’re hiring, they’ll be given resumes and asked to make the first cut, to decide who to call back.  These resumes will have no names, zip codes, email addresses, photos, or any other identifying information.  That way, your unconscious biases cannot even operate because there is no biasing information available.
+
+They hope that other hirers will start doing this practice as well.  Studies have shown that it greatly increases the diversity of candidate pools and, indeed, ultimately, the diversity of an organization.
+
+## [Support for AAATA proposal for US-23](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6572576&GUID=3D17F674-0F3E-4589-B8F6-EC7E7178E620&Options=&Search=)
+
+The [Michigan Department of Transportation (MDOT)](https://www.michigan.gov/mdot) has decided there is congestion on US-23 and is doing [a study about how to fix this congestion](https://www.michigan.gov/mdot/projects-studies/studies/traffic-and-environmental-linkages-studies/us-23-improvement-project-study-ann-arbor).  [They have three proposals for what to do, and they all involve increasing driving lanes]!(https://storymaps.arcgis.com/stories/19fd45d58d9248d0aa76e5993347fbc6)!
+
+[The Ann Arbor Area Transit Authority (AAATA)](https://theride.org) has [an alternative proposal](https://www.theride.org/about/news/theride-offers-partnership-mdot-investigate-transit-scenario-us-23-study):  Give then the money instead of spending it on a highway we won’t have the money to maintain.  They will build some park-and-rides and operate buses between them and Ann Arbor.  This will actually remove cars from the road, and is a real solution to congestion, whereas building lanes is not a solution.
+
+The [city council decided to throw its weight behind the AAATA’s proposal](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6572576&GUID=3D17F674-0F3E-4589-B8F6-EC7E7178E620&Options=&Search=&FullText=1), and officially endorsed it, communicating that endorsement to MDOT.
+
+If YOU want to communicate the same thing to MDOT, there’s also a community activism project.  Visit [https://trainsnotlanes.org/](https://trainsnotlanes.org/).  Click “[Take Action!](https://trainsnotlanes.org/take-action)”  They’ll show you how to sign their petition and file your individual comment with MDOT.
+
+{% include image.html
+  src = "/assets/2024-03-23/park-and-ride-US-23.jpg"
+  alt = "Map of proposed park-and-ride routes with express buses to Ann Arbor."
+  caption = "Proposed park-and-ride lots in Saline, Chelsea, Brighton, Canton, and Belleville, with express buses"
+  credit = "Credit: <a href=\"https://www.theride.org/about/news/theride-offers-partnership-mdot-investigate-transit-scenario-us-23-study\">AAATA</a>"
+%}
+
+## [Solar Mobile Nanogrid](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6566279&GUID=570FD956-DA71-4E55-8DD8-9D77AA486801&Options=&Search=)
+
+They bought, for $330,000, a “solar mobile nanogrid”, a trailer that can deploy solar panels.  In a power outage or other emergency, they can take it to a critical area and people can come charge devices and use the internet.  It can even plug into a neighborhood and give some power to the neighborhood.
+
+It’s got 8kW of solar, 45kWh of battery, and a 4kW hydrogen fuel cell.
+
+When it’s not an emergency, they’ll take it around to community events and community centers to talk about resilience and stuff.
+
+They are buying this from a company called [Sesame Solar](https://www.sesame.solar/).
+
+{% include image.html
+  src = "/assets/2024-03-23/SesameSolar.webp"
+  alt = "Photo of the trailer parked, with solar panels deployed. They gather solar energy and also provide shade to people seated at a deployable picnic table where people can sit and watch TV."
+  caption = "A Sesame Solar deployment."
+  credit = "Credit: <a href=\"https://www.sesame.solar/\">Sesame Solar</a>"
+%}
+
+## [Splash Pad](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6568175&GUID=7C6DE278-C9DD-47FD-AEBF-31BD0B4A47F9&Options=&Search=)
+
+The city got a $1m grant from the [Michigan Economic Development Corporation](https://www.michiganbusiness.org/) to build a splash pad at [Bicentennial Park](https://www.a2gov.org/departments/Parks-Recreation/parks-places/pages/southeastarea.aspx).  But more money is needed.  Philanthropy money.
+
+{% include map.html
+  boxid     = "bicentennial-park"
+  lat       = 42.23084949433849
+  lon       = -83.70184001822112
+  zoom      = 18
+  caption   = "An interactive map showing Bicentennial Park"
+%}
