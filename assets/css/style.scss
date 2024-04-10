@@ -112,3 +112,37 @@ a.twitter:before {
 ol.lettered-lower-case {
   list-style-type: lower-alpha;
 }
+
+
+/* Accordion widget, css only */
+aside.accordion {
+  border: 1px solid black;
+  padding: 1ex;
+}
+
+/*
+aside.accordion .accordion-control {
+  display: none;
+}
+*/
+
+aside.accordion .accordion-control ~ label::before {
+  background: #ccc;
+  border: 1px solid black;
+  padding-left: 0.8ex;
+  padding-right: 0.8ex;
+  margin-right: 1ex;
+  content: "+";
+}
+
+aside.accordion .accordion-control:checked ~ label::before {
+  content: "-";
+}
+
+aside.accordion .accordion-control ~ div.collapsible {
+  display: none;
+}
+
+aside.accordion .accordion-control:checked ~ div.collapsible {
+  display: block;
+}

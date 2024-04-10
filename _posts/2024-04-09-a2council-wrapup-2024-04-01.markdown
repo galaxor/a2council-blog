@@ -1,0 +1,116 @@
+---
+layout: post
+title:  2024-04-01 Ann Arbor City Council Wrapup
+date:   2024-04-08 06:19:00 -0500
+meeting_date: 2024-04-01 19:00:00 -0500
+image:
+  path: /assets/2024-03-23/D2A2.jpg
+  alt: "A &quot;D2A2&quot; bus awaits passengers at the Ann Arbor Blake Transit Station, to take them to Detroit."
+  caption: The D2A2 bus between Detroit and Ann Arbor
+  credit: "Credit <a href=\"https://www.theride.org/about/news/theride-offers-partnership-mdot-investigate-transit-scenario-us-23-study\">AAATA</a>."
+
+categories: a2council wrapup
+tags: 121-e-catherine aaata trains-not-lanes us-23 park-and-ride anonymous-hiring dda solar-mobile-nanogrid resilience splash-pad
+---
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2024-04-01T19:00-0500">Monday, April 1, 2024</time>.</span>
+
+This was a big meeting that passed resolutions unequivocally setting the priorities of city council:  We must facilitate the construction of housing at all income levels!
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141235&GUID=FDFFDD45-951C-49DA-B04C-A636AC6B08D5&Options=info|&Search="
+  youtube = "https://www.youtube.com/watch?v=-uN986pTiCA"
+  thread  = "https://a2mi.social/@MegaMichelle/112198446650320957"
+%}
+
+
+## The Four Resolutions
+
+There were four proposals to radically change the direction of the city staff by setting their priorities, proposing changes in staffing levels, and reorganizing city hall.  The recommendations come from a report written by city staff.  This report compiles three separate studies that the city undertook in an effort to streamline our development process to make it in line with best practices.
+
+The recommendations from the three studies were compiled into the report titled [A New Approach To Economic Development](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6455353&GUID=9953264D-8091-454D-8178-7E569BF0A22C).  You can find the report itself, and each of those three reports mentioned above are attached as appendices.
+
+<details>
+<summary>(Find out when the city council approved each of the three studies)</summary>
+<ul>
+<li><a href="http://a2gov.legistar.com/LegislationDetail.aspx?ID=6056075&GUID=328014BD-1FCE-44DC-AAB3-35C79222A4BF&Options=ID%7cText%7c&Search=best+practices&FullText=1">Contract with SPARK to lead best practices for development</a></li>
+<li>A contract with <a href="https://www.cwaplan.com/">Carlisle/Wortman</a> to evaluate how the city does development.  I can't find the specific contract for the report, unless it's part of <a href="https://a2gov.legistar.com/LegislationDetail.aspx?ID=6123570&GUID=92504B01-3B29-4E35-BB40-96808D209AB0&Options=ID">this larger contract with Carlisle/Wortman</a>.  (<a href="https://a2gov.legistar.com/LegislationDetail.aspx?ID=6277945&GUID=26C6507A-231C-4AE4-891D-03512EA2776C&Options=ID">The Carlisle/Wortman contract was renewed in July 2023</a>).</li>
+<li>A stakeholder engagement conducted by city staff, interviewing developers (for-profit and non-profit), contractors, etc.  There is no contract to show here because this was just city-initiated and conducted by city staff.</li>
+</ul>
+</details>
+
+The final compiled report had four main recommendations:
+* Prioritize housing development at all income levels.
+* Support placemaking initiatives by acquiring and disposing of interests in real estate (development options, purchase options, etc)
+* Protect the tax base. When we do nothing, UM gobbles up land and takes it off the tax rolls.
+* Support A2Zero carbon neutrality by creating walkable neighborhoods, electrified buildings, and energy efficient buildings.
+
+So, the city passed four resolutions last night.
+
+* [Adopt the recommendations of the report](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6607006&GUID=A0C5AEA8-40A7-4AF9-8652-483B88135830&Options=&Search=&FullText=1), including one of the recommendations below the headline:  Create an “Office of Economic Development” to be in charge of development in the city and oversee proactive development opportunities (like acquiring property interests including purchase options and development options).
+* [Adopt a bunch of very specific recommendations from the report, about streamlining the development process, keeping the pipeline moving, and injecting community engagement only at the points where it is effective and helpful](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6607007&GUID=8848476B-C873-47D5-A029-B87B314B5248&Options=&Search=&FullText=1).  Approve more things with conditions, rather than making it come back for re-approval.  Don’t ask for public engagement on things where state law actually requires a particular outcome and there’s nothing people can do about it.  That sort of thing. Hire enough staff that stuff can still be approved even if someone is out sick.
+* [Sustainability: How to incentivize it – Define what a “fully electrified” development is, and an “energy efficient” development](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6607008&GUID=E0B8DE58-F54E-4129-9E1D-0E56903BB2DB&Options=&Search=&FullText=1). Fast-track those sorts of developments, as an incentive to developers for proposing them.  Waiving fees and so forth.  Lobby the state to plz let us start requiring sustainable development.
+* [Protect the tax base!](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6607009&GUID=9399494A-53F8-43CB-BA68-A4B311B3947F&Options=&Search=&FullText=1)  Strategically and proactively acquire property interests like purchase options, so we’re on top of it before the University gobbles up valuable land.  Maybe even sell the stuff to them, but get stuff in return. Look into changing the city charter so you don’t need 8 votes to do stuff like this every time. Parcel assembly must be done cloak-and-dagger, which can’t be done if you have to have 8 votes every time.
+
+So, that’s four big recommendations.  None of them will result in immediate changes.  These are all in the form of “Hey, staff, plz look into this and bring us proposals that would implement these priorities.  Resolutions, budget amendments, proposed ordinances.  Give them to us!”
+
+Timelines like December 31 2025 are mentioned for some of these things, but I expect things to start streaming in quickly and continue to stream in.  Some stuff, like charter changes, have to be approved by voters at the ballot box.
+
+## [711 Church](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586150&GUID=9D1DB10E-AFDA-4B4A-B796-F4CA359EFCFF&Options=&Search=)
+
+Developers have proposed a building at 711 Church.  It would be 273 homes with 1,000 beds.  12-17 stories.  Mostly electric, but they’ll have gas water heaters that kick on during peak demand, and a backup gas generator for when the power goes out.
+
+They were asking for a rezoning from R4C to a PUD.  It was egregiously underzoned at R4C, since it’s right next to campus.
+
+But the staff report recommended denying it because it was a big departure from R4C, so they wanted more concessions from the developer.  But if it had been properly zoned as D2, it wouldn’t have been a very big departure from the underlying zoning.
+
+Planning Commission recommended denying it because they thought they could squeeze some more concessions out of the developer.
+
+But in light of the city’s resolutions to hell yeah develop housing as our #1 priority, the city council found both of these reasons silly, and voted to approve it.  The first victory for the new priorities????
+
+## [Multimodal Transportation Impact Analysis](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586223&GUID=BFA362E0-6389-4D99-8E01-574AC5AA1EE6&Options=&Search=)
+
+When new developments happen, one of the things the city usually asks for is a “Transportation Impact Analysis” which is a big old car-brained approach to thinking about stuff.  It’s based on the assumption that building things will always increase the number of car trips on a road, even if it’s a downtown walkable development which may actually decrease car trips.  “Transportation Impact Analyses” are focused on one question:  Will cars be slightly inconvenienced and have to wait at a light or something?  If they do, that’s bad, and we should probably add more car lanes!
+
+That’s not the things we should be caring about.  We should be caring about walkers, bikers, and bus riders too.  And we should be thinking about how a development could impact them, and maybe we need to add bike lanes and better sidewalks and stuff.  Maybe we’ll need to slow cars down to make it safer.
+
+In my opinion, this is cool, but these analyses are expensive, and I’m not really sure they’re worth the trouble.  What do we even do with this information?
+
+## [Sustainable Energy at 121 E Catherine St](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6586150&GUID=9D1DB10E-AFDA-4B4A-B796-F4CA359EFCFF&Options=&Search=&FullText=1)
+
+121 E Catherine St is a subsidized housing project that the city is working on, with Ann Arbor Housing Commission and Avalon Housing.
+
+Last night, they voted to allocate $475,000 over two years to build solar panels and geothermal there.
+
+## Amendment to the Unarmed Response RFP
+
+This is something that wasn't on the agenda.  It was entirely staff action, but it was happening at the same time as the city council meeting, so a couple of the public speakers spoke about it (including myself).
+
+For years, Ann Arbor has been attempting to start an unarmed crisis response program.  An organization called the [Coalition for Re-Envisioning Our Safety](https://www.reenvisionoursafety.org/) has been a driving force behind making this happen.
+
+In April 2021, [the city council passed a resolution directing the city administrator to develop an Unarmed Public Safety Response Program](https://a2gov.legistar.com/LegislationDetail.aspx?ID=4874520&GUID=84A3D90E-7AF3-46C9-98B8-FE4789A7DAB1&Options=ID%7CText%7C&Search=unarmed+response&FullText=1).
+
+In January 2022, [the city administrator responded to this resolution, saying they were working on it](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5365438&GUID=8F62BB3F-47AA-451F-B7AD-F56D00DC67E6&Options=ID%7CText%7C&FullText=1).
+
+In April of 2022, [the city council approved $3.5m of ARPA money to go to an Unarmed Response program](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5534294&GUID=E5B3011D-DF6A-474F-A18E-AC754BA50E6E&Options=ID%7CText%7C&FullText=1).
+
+In June of 2022, [the city council approved a contract to do public engagement about an unarmed response program](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5664583&GUID=EC8616E5-1427-44FE-824B-E6352DC955AC&Options=ID).  In October of 2022, [the contract was amended to pay the members of the public who were being engaged](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5865158&GUID=B4531347-ABBC-4B2B-99B0-3DA9752E8B34&Options=ID%7CText%7C&FullText=1)
+
+In June of 2023, [the city council asked that staff issue an RFP to try to hire an organization to run the unarmed response program](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6261657&GUID=141974AE-5A4E-41BC-84F0-6866A63F2A3C&Options=ID%7CText%7C&FullText=1).
+
+Around this time, a nonprofit organization was founded, called [Care-Based Safety](https://carebasedsafety.org/).  They designed themselves to bid on the RFP, hoping to become the organization that provides unarmed crisis response to the city.
+
+By January 2, 2024, the city staff had only received one bid on the RFP -- the bid from Care-Based Safety.  [However, the city staff determined that the bid did not meet the requirements specified in the RFP, so they decided to cancel the RFP and re-issue it](https://www.facebook.com/ReEnvisionOurSafetyWashCo/posts/pfbid02CF6sXn1BGeSPmQLxwqqnHy2nchStsNmN4cWNkbFrWxiCFEFgP4nEHyWyhvdhDXf8l), after re-working it.  This was not a decision of the city council -- it was a decision by the staff.  One of the main reasons that staff didn't think it met the criteria is that Care-Based Safety did not propose to operate 24/7.  [In a press release, Care-Based Safety contended](https://docs.google.com/document/d/1_Qa62pTb9_oHv7Iv0YGR-xiZwBJqI1fsekLO14-eTT0/edit?link_id=10&can_id=86a58c4865c5c026d0bb4ffd224b1d1b&source=email-take-action-call-into-city-council&email_referrer=email_2156244&email_subject=we-need-you-city-of-ann-arbor-cancels-request-for-proposal) that it was impossible to do with this funding level, and that no other unarmed crisis response organization operated 24/7.
+
+CROS issued a call to action, and many people wrote to city council and spoke at the meeting expressing disappointment over this decision.  As a result, [the city council passed a resolution reaffirming its commitment to creating an unarmed crisis response program](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6469766&GUID=A09856C3-92C0-4435-9218-622996FF893C&Options=ID%7CText%7C&FullText=1).
+
+[The re-tooled RFP was issued in February of 2024](https://www.a2gov.org/departments/finance-admin-services/purchasing/Documents/RFP_24-16_Document.pdf).  However, this version of the RFP insisted that an unarmed response program "must call 911 immediately if they observe or reasonably suspect a crime in progress", effectively making this an _armed_ response program, equivalent to the police.  
+
+[CROS issued another call to action](https://actionnetwork.org/letters/tell-a2-city-council-amend-the-rfp).  Many people wrote to the city council and spoke at the meeting (including myself).  As a result, [the RFP has been amended to remove the requirement to call 911](https://actionnetwork.org/letters/tell-a2-city-council-amend-the-rfp).  However, there are still many problems with the RFP, including retaining the requirement that it operate 24/7, which we have already established, no one is able to do.  Many other of Care-Based Safety's concerns are documented in that RFP amendment.  If these things aren't changed, this RFP is doomed to be cancelled as well.
+
+I certainly hope the city staff is able to create a realistic proposal.  I would rather have an unarmed response program that exists but does not provide 24/7 service than an unarmed response program that provides 24/7 service but does not exist.
