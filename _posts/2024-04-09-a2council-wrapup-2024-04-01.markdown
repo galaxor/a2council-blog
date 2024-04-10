@@ -4,10 +4,10 @@ title:  2024-04-01 Ann Arbor City Council Wrapup
 date:   2024-04-08 06:19:00 -0500
 meeting_date: 2024-04-01 19:00:00 -0500
 image:
-  path: /assets/2024-03-23/D2A2.jpg
-  alt: "A &quot;D2A2&quot; bus awaits passengers at the Ann Arbor Blake Transit Station, to take them to Detroit."
-  caption: The D2A2 bus between Detroit and Ann Arbor
-  credit: "Credit <a href=\"https://www.theride.org/about/news/theride-offers-partnership-mdot-investigate-transit-scenario-us-23-study\">AAATA</a>."
+  path: /assets/2024-04-01/cover.png
+  alt: "Text: The City of Ann Arbor - A New Approach to Economic Development.  A building in the background."
+  caption: A New Approach to Economic Development
+  credit: "A city report"
 
 categories: a2council wrapup
 tags: 121-e-catherine aaata trains-not-lanes us-23 park-and-ride anonymous-hiring dda solar-mobile-nanogrid resilience splash-pad
