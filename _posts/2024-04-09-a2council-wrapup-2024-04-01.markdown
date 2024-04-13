@@ -26,6 +26,7 @@ This was a big meeting that passed resolutions unequivocally setting the priorit
   agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141235&GUID=FDFFDD45-951C-49DA-B04C-A636AC6B08D5&Options=info|&Search="
   youtube = "https://www.youtube.com/watch?v=-uN986pTiCA"
   thread  = "https://a2mi.social/@MegaMichelle/112198446650320957"
+  votes   = "https://a2council.vote/post/council-meeting-2024-04-01/"
 %}
 
 
