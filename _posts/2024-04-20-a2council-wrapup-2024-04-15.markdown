@@ -1,0 +1,152 @@
+---
+layout: post
+title:  2024-04-15 Ann Arbor City Council Wrapup
+date:   2024-04-15 15:15:00 -0400
+meeting_date: 2024-04-15 19:00:00 -0400
+image:
+  path: "/assets/2024-04-20/barf-alley.png"
+  alt: ""
+  caption: "Rendering of the building that will straddle the alley at 616 S Forest"
+
+categories: a2council wrapup
+tags: budget 616-s-forest barf-alley unarmed-response public-power seu 40-40-20
+---
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2024-04-15T19:00-0400">Monday, April 15, 2024</time>.</span>
+
+The big thing that happened at this meeting was the city administrator's presentation about his proposed budget.
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141236&GUID=45D6C613-7D4A-4BE7-9F06-667BDE2B91D2&Options=info"
+  youtube = "https://www.youtube.com/watch?v=YefVgCvuTVk"
+  thread  = "https://a2mi.social/@MegaMichelle/112277725820972791"
+%}
+
+## [Budget Presentation](http://a2gov.legistar.com/LegislationDetail.aspx?ID=6610021&GUID=62199D56-014A-40F1-B207-370A3E9A32B5&Options=&Search=)
+
+At this meeting, city administrator Milton Dohoney gave a presentation that outlines what will be in his proposed budget.  He gave us a slide deck highlighting certain aspects of the proposed budget, and talked about it.  The slide deck can be found at the link above.  The presentation can be found in the youtube video linked in the infobox above.  But I don't know where to get the full information -- the details he didn't talk about.  Numbers for everything.  A complete picture of the budget.  Perhaps this information could be found at the "[A2 Open Book](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/a2openbook/pages/default.aspx)" page on the city website.
+
+Nevertheless, here are the things he presented.  I've tried to find links to the city's website or to Council actions for each of the things he mentioned, in order to give them more context.  For some of this stuff, I didn't find the exact thing discussed, so I linked to a city web page generally associated with the program, so at least you know who to follow up with if you have questions.  But he mentioned a million things, so it's going to be hard to provide the most relevant links for everything.
+
+### Plans
+$1.7m being spent on planning this year!
+
+* The city's [Comprehensive Land Use Plan](https://www.a2gov.org/departments/planning/Pages/City-Master-Plan.aspx) is [being updated](https://a2compplan-a2-mi.hub.arcgis.com/) - $700k
+* [Water Comprehensive Plan](https://www.a2gov.org/departments/water/pages/article.aspx?i=35).  Note that this page links to an interactive map of the Capital Improvement Plan, but the link does not work.  The correct link can be found on the [overall Capital Improvement Plan page](https://www.a2gov.org/departments/systems-planning/Pages/Capital-Improvement-Planning.aspx).  And you can find that [interactive CIP map](https://a2gov.org/a2cipmap) here.
+* Water Distribution Comprehensive Plan - $300K
+* Sanitary Sewer Comprehensive Plan - $350K
+* Stormwater Comprehensive Plan - $166K
+
+### Road Bond
+
+This is Year 3 of the [$15,000,000 road bond](https://a2gov.legistar.com/LegislationDetail.aspx?ID=5547239&GUID=C0E7F890-783B-4E7C-9EA5-F0E1DED061F3&Options=ID).  There’s a list of roads they’re looking to tackle this year:
+
+* Ward 1 N. Ashley (Kingsley to Miller)
+* Wards 1 & 2 E. Medical Center Bridge ("That Damn Bridge")
+* Ward 2 Aberdeen (Drive Heather Way to Arlington)
+* Ward 3 Independence Blvd (Manchester to Nottingham)
+* Wards 3 & 4 Hill Street (Fifth to Church)
+* Ward 4 S. Seventh Street (Scio Church to Delaware)
+* Ward 4 Greenview Drive (Stadium to Scio Church)
+* Ward 5 Miller Ave (Newport to Chapin)
+* Ward 5 Saunders Crescent (Miller to Hatcher)
+
+### [Sustainability](https://www.a2gov.org/departments/sustainability/Pages/default.aspx)
+
+* [Some district geothermal will be built](https://www.a2gov.org/departments/sustainability/Sustainability-Me/Families-Individuals/Pages/Geothermal.aspx) in [certain neighborhoods](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6552249&GUID=7BA4918D-7E37-4DE2-AACC-2319BEADF875&Options=ID)
+* [Solar power plant at the Wheeler Center](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6372490&GUID=52B49706-DC17-4B68-A17C-1315609BA578&Options=ID%7CText%7C&FullText=1)
+* “EV Charger Discount Program” for commercial & multi-family developments. This may be in the form of bulk-buys or something?  Not sure.
+
+### [Development-type staff](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6455353&GUID=9953264D-8091-454D-8178-7E569BF0A22C)
+
+* Two experienced planning dept ppl are retiring.  Bringing on 3 entry-level planners. 
+* Economic Development Director and Economic Development Coordinator
+* Zoning Coordinator
+* Engineering plan reviewer
+* Building inspector.  Also a building inspector for “dangerous buildings”.
+* Also third-party consultant for building inspections.
+* “Permit Liaison” - kinda like an ombudsperson.
+* Sounds like total is approx 7 new ppl.
+
+### Snow removal
+
+* They're gonna hire contractors to do local streets while the city does the major routes.  Then when the city has gotten the major routes done, they'll take over the local streets.
+* The city is also buying a device to plow bike lanes. $100k.
+* They're expanding the capabilities of the plows:  Spreading a liquid thingy to pre-treat roads; using wider plow blades.
+* Maybe will be requiring people to move their cars.
+* They'll use more salt.
+
+### Also
+
+* [Non-Union Compensation Study](https://www.a2gov.org/departments/finance-admin-services/purchasing/Documents/RFP_23-43_Document.pdf) - $167.7K
+* [Urban Tree Canopy Assessment](https://www.a2gov.org/departments/forestry/Pages/The-Urban-Forest.aspx) - $30K
+* Barton Dam Assessment - $120k
+* Refurbishing the 1938 water treatment facility over many years, for a total cost of $100m.  Money will be coming from the federal infrastructure bill, among other sources.  This is year 1, which will be a “pilot”.  Trying out stuff and figuring out how we’re gonna do the refurbishment,.
+* Operating costs for the [election center](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6337882&GUID=3C44B5C2-CEE4-42CC-ABC5-10359FB7D8CA&Options=ID) are in this budget.
+* [Temp compost collection staff for raking season](https://www.a2gov.org/departments/trash-recycling/Pages/default.aspx)
+* [Phase 2 study on power municipalization](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6630862&GUID=64FE657D-3182-4CAC-856A-B8D58ED282CD):  $1m
+* Selling “Air Rights” over “Rick’s Barf Alley” for 616 S Forest development.  Developer can turn the Barf Alley into a Barf Tunnel, with apartments above it.  We get $1.2m.
+* Income from the Marijuana Excise Tax expected to stay flat at $125k.
+  * This has funded, among other things, “[A Brighter Way](https://abrighterway.org/)”’s “[Rising Hope for Housing](https://www.washtenaw.org/DocumentCenter/View/32863/RISING-HOPE-FOR-HOUSING)” project for returning citizens.  People from A Brighter Way came to ask that the funding be continued.
+* [Catherine Street Community Space - operating expenses funded](https://www.a2gov.org/departments/Housing/development/Pages/121-E-Catherine-St.aspx)
+* Shelter Association of Washtenaw County - Substance Abuse Addition $150K
+* Michigan Medicine $181K for helping people coming out of shelter but not yet in housing.
+
+{% include image.html
+  src = "/assets/2024-04-20/barf-alley.png"
+  alt = ""
+  caption = "Rendering of the building that will straddle the alley at 616 S Forest"
+%}
+
+{% include map.html
+  boxid     = "616-s-forest"
+  lat       = 42.274348941026425
+  lon       = -83.73408953035222
+  zoom      = 18
+  caption   = "An interactive map showing 616 S Forest"
+%}
+
+### Things that may be done, but funding hasn’t been allocated yet.  The funding will (may) come from various sources:
+
+* [Treeline Trail](https://www.a2gov.org/departments/systems-planning/programs/Pages/Allen-Creek-Greenway-Master-Plan-Project.aspx)
+* Train Station Design (at Depot St)
+* Election Center Buildout (Operating costs covered no matter what)
+* Barton Pond Embankment (I don’t know what this means)
+
+### And finally
+
+$1m currently unallocated, so city council members will come with amendments to allocate that money at the next city council meeting.  Email them and beg them to spend this money on the things you care about.
+
+## The end of 40/40/20
+
+Mayor Taylor indicated that he would bring an amendment.  In 2017, Washtenaw County passed a millage called the "Public Safety and Mental Health Millage".  It funds the [Washtenaw County Community Mental Health](https://www.washtenaw.org/839/Community-Mental-Health) department.  Also, it funds the [Washtenaw County Sheriff's Department](https://www.washtenaw.org/1124/Sheriff).  However, some communities (such as Ann Arbor) have their own police department and don't use the services of the sheriff.  Therefore, the millage included a provision that these communities would receive a rebate from the county, so they don't have to pay for a sheriff department they don't use.  This rebate goes into the general fund of each community, to spend as they please.  In 2017, the Ann Arbor city council passed a [resolution to direct this rebate funding to be spent](https://a2gov.legistar.com/LegislationDetail.aspx?ID=3091189&GUID=E4207B41-BAC4-4748-8071-47EDCC7B826B&Options=ID%7CText%7C&FullText=1) in the following way:
+
+* 40% for affordable housing
+* 40% for climate action
+* 20% for pedestrian safety
+
+During a time when the city council was hostile to funding climate action, Mayor Taylor had to veto two attempts to redirect this funding in 2019:  [Once in April](https://a2gov.legistar.com/LegislationDetail.aspx?ID=3091189&GUID=E4207B41-BAC4-4748-8071-47EDCC7B826B&Options=ID%7CText%7C&FullText=1) and [once in July](https://a2gov.legistar.com/LegislationDetail.aspx?ID=3091189&GUID=E4207B41-BAC4-4748-8071-47EDCC7B826B&Options=ID%7CText%7C&FullText=1).
+
+However, the latest attempt to redirect this funding has been suggested by the mayor himself.  He said that times have changed since the 40/40/20 resolution was first passed:  The voters have passed separate millages for affordable housing and climate action.
+
+So, Mayor Taylor said that he intends to bring a budget admendment to redirect the millage rebate toward the [Unarmed Response program](/posts/a2council-wrapup-2024-04-01/#amendment-to-the-unarmed-response-rfp) that the city hopes to create.
+
+
+## Sustainable Energy Utility
+
+Several public speakers at the last city council meeting were from [Ann Arbor for Public Power](https://annarborpublicpower.org/), an organization that advocates for the city to buy the power distribution assets from DTE and form a municipal power utility.
+
+According to these speakers, the city government is contemplating doing a ballot question:  Should we do a [Sustainable Energy Utility (SEU)](https://www.a2gov.org/departments/sustainability/Sustainability-Me/Pages/Ann-Arbor's-Sustainable-Energy-Utility-%28SEU%29.aspx)?  The SEU would be a power utility run by the city, but it would be supplemental to the grid-connected power distribution network run by DTE.  The SEU would do things like allow property owners to host city-owned solar panels on their buildings, so they don't have to invest their own capital in installing the panels.  It would allow people to distribute power to their neighbors.  It would allow the city to provide neighborhood-scale battery storage.  But it would not replace DTE's grid-connected distribution network.  Ann Arbor for Public Power wants to replace that network.  These two efforts are compatible and could be run in parallel.
+
+The A2P2 speakers are worried that the ballot language, designed to enable an SEU, would preclude a full municipal utility:  It specifies that the utility must be Opt-in, All-renewable, and Fee-based.
+
+I haven’t seen this ballot proposal come up before city council.  I was not able to find an instance of the proposal coming up at an Energy Commission meeting.  Perhaps it’s just something staff is thinking of and they sent it to A2 Public Power for comment?  Well, comment they got: The A2P2 speakers wanted the city to propose different ballot language that would not include these three things, and therefore would be compatible with a municpal power utility.
+
+Someone who is not a member of A2P2 sent me [this document that was apparently given to A2P2 members to coordinate talking points](https://drive.google.com/file/d/1lokptjLwFgAo-_SrnZLqfdgYyKtGB8_a/view) for this city council meeting.  I tried to clarify this with A2P2, but I haven't gotten a response to my email yet.
+
+According to the document, this question will come before city council at the [May 6th meeting](https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141237&GUID=D829935B-65FC-47F0-AF06-05E74B934FCF&Options=info), but the agenda has not been posted at the time of writing.
