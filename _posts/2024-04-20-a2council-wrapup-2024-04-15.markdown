@@ -6,7 +6,8 @@ meeting_date: 2024-04-15 19:00:00 -0400
 image:
   path: "/assets/2024-04-20/barf-alley.png"
   alt: ""
-  caption: "Rendering of the building that will straddle the alley at 616 S Forest"
+  caption: "Street view photo of 1055 N Park Ave, Tuscon, AZ. This is similar to a development proposed for 616 S Forest in Ann Arbor."
+  credit: "This photo was used in the <a href=\"http://a2gov.legistar.com/LegislationDetail.aspx?ID=6610021&GUID=62199D56-014A-40F1-B207-370A3E9A32B5&Options=&Search=\">budget presentation</a>."
 
 categories: a2council wrapup
 tags: budget 616-s-forest barf-alley unarmed-response public-power seu 40-40-20
@@ -100,7 +101,8 @@ This is Year 3 of the [$15,000,000 road bond](https://a2gov.legistar.com/Legisla
 {% include image.html
   src = "/assets/2024-04-20/barf-alley.png"
   alt = ""
-  caption = "Rendering of the building that will straddle the alley at 616 S Forest"
+  caption = "Street view photo of 1055 N Park Ave, Tuscon, AZ. This is similar to a development proposed for 616 S Forest in Ann Arbor."
+  credit = "This photo was used in the <a href=\"http://a2gov.legistar.com/LegislationDetail.aspx?ID=6610021&GUID=62199D56-014A-40F1-B207-370A3E9A32B5&Options=&Search=\">budget presentation</a>."
 %}
 
 {% include map.html
