@@ -26,6 +26,7 @@ The big thing that happened at this meeting was the city administrator's present
   agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141236&GUID=45D6C613-7D4A-4BE7-9F06-667BDE2B91D2&Options=info"
   youtube = "https://www.youtube.com/watch?v=YefVgCvuTVk"
   thread  = "https://a2mi.social/@MegaMichelle/112277725820972791"
+  votes   = "https://a2council.vote/post/council-meeting-2024-04-15/"
 %}
 
 Bonus information: 
