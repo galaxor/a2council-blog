@@ -1,0 +1,69 @@
+---
+layout: post
+title:  2024-05-20 Ann Arbor City Council Wrapup
+date:   2024-05-28 06:00:00 -0400
+meeting_date: 2024-05-20 19:00:00 -0400
+image:
+  path: "/assets/2024-05-28/access-for-all.png"
+  alt: "Ann Arbor Parks and Recreation, Access for All"
+  caption: "Logo from the front of the Parks ADA Transition Plan"
+  credit: "(<a href=\"https://a2gov.legistar.com/View.ashx?M=F&ID=12918795&GUID=2A6D0D3A-5A43-45BF-A056-F244E904A247\">Parks ADA Transition Plan</a>)"
+
+categories: a2council wrapup
+tags: budget parks ada 121-e-catherine dunbar-tower
+---
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2024-05-20T19:00-0400">Monday, May 20, 2024</time>.</span>
+
+The main thing that happened at this meeting was the passage of [the budget](#the-budget) with some changes to help accelerate housing development and fund human services.
+
+Also exciting is the [ADA Transition Plan](#ada-transition-plan-for-parks) for the parks system.  I haven't actually read it, but I'm glad they have a plan.
+
+Another exciting thing was the [$9m bond to hasten the construction at 121 E Catherine of Dunbar Tower](#bond-for-121-e-catherine-dunbar-tower-and-then-allocating-the-bond-to-the-ann-arbor-housing-commission).
+
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141274&GUID=F154CBCB-300C-4AA0-B298-9F0E9AA17F4B&Options=info"
+  youtube = "https://www.youtube.com/watch?v=oEAiGd1wvuM"
+  thread  = "https://a2mi.social/@MegaMichelle/112475895129440682"
+%}
+
+
+## [ADA Transition Plan for Parks](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6664729&GUID=3C886C59-6B42-4EF6-BCA6-F095AD96F47B&Options=&Search=)
+
+The parks department is launching a plan to upgrade the accessibility of all parks and facilities.  It’s a 30 year plan, and not all the funding has been identified yet.  They’re expecting that a bunch of it will come from grants from the state and federal governments as well as private philanthropic organizations.  Implementation of the full plan will cost $19 million.
+
+## [Fines for Failing to Remove Snow](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6697899&GUID=62E205BC-41A4-4648-ACFD-42A9E522A0A3&Options=&Search=&FullText=1)
+
+The city council voted to increase the fines for failing to shovel snow, particularly for multi-family homes and commercial buildings, under the theory that these are professionally-managed buildings and they can afford to hire someone to do stuff.  Also, they’re going to start contacting building agents using phone and email as well as letters, so that they get their warnings and fines in time to do something about it.
+
+## [Council Rules Update](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6664730&GUID=D0C0A794-0FDB-42CA-A3CF-0843EA19D8EF&Options=&Search=)
+
+This is 40 pages of redlined text which I did not parse to figure out what changed.  Here’s what they talked about at the meeting:
+
+* When you speak at Council, people aren’t allowed to crowd around you while you speak.  People often do this in order to get their signs on camera, and it’s distracting and/or intimidating.
+* They currently have 45 minutes reserved for public comment time.  People get 3 minutes.  If there’s more speakers than will fit in that time, they have to speak after the meeting.  This change makes it so that if there’s more people than will fit into 45 minutes, they’ll reduce each person’s speaking time, down to a limit of 2 minutes, to cram more people into the before-the-meeting speaking slots.
+
+## [Bond for 121 E Catherine (“Dunbar Tower”)](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6662043&GUID=4D73A25F-A2C6-4447-9277-8EE2F462DF3F&Options=&Search=) and then [allocating the bond to the Ann Arbor Housing Commission](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6662050&GUID=9E30BFA4-D2F1-42FB-89C7-BFE710EB3F89&Options=&Search=)
+
+We have a millage for affordable housing, but it trickle-charges funds into the Ann Arbor Housing Commission.  In order to Get Stuff Done, like building buildings, you need that money all at once.  So this is a $9m bond so they can hasten the construction of ["Dunbar Tower" at 121 E Catherine](https://www.a2gov.org/departments/Housing/development/Pages/121-E-Catherine-St.aspx) while doing other things, and then trickle-charge the repayment of the loans.
+
+## [The Budget](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6643073&GUID=EF58483B-CF48-4613-A150-D9738F03E4E3&Options=&Search=)
+
+The city council passed the budget that we talked about at the last meeting, with a few changes that were discussed in detail tonight.  I’m only going to cover the amendments right now.
+
+* $100k to hire someone to help with zoning changes.  It’s part of city council’s new focus on accelerating the development of housing, to address the housing crisis.  The money comes from the general fund’s reserve balance.
+* Change a level 1 planner to a level 5 planner.  The budget called for three new junior planners.  Two of them have already been hired.  For the last one, we will hire an experienced planner instead of a junior one.  They expect this to be revenue neutral because an experienced planner will get more planning done, so the city will get more revenue from permit fees and so forth.
+* $500k from marijuana tax for eviction prevention and low income youth services.
+* $500k from marijuana tax to continue funding for the “Rising Hope for Housing” program for returning citizens; a project of “A Brighter Way”.
+* $100k to send out a mailer of factual information.  The idea is to help out people who have a hard time using the internet.  Let them know who their councilmembers are, and about city programs people can take advantage of, and have phone numbers of who to call for what.  The money just covers printing and mailing.  The council intends to write this themselves, at the “Administration Committee”.  They haven’t decided exactly what will go in it yet.
+
+Here's some additional info to help understand the full context of the budget:
+
+* [FY 2025 Budget Book](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/Documents/FY25%20-%20Draft%20Budget%20Book.pdf)
+* [Citizen Guide to Finance and Budget](https://www.a2gov.org/departments/finance-admin-services/financial-reporting/budget-guide/Pages/default.aspx)
