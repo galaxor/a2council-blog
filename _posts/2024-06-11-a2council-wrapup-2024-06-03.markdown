@@ -1,0 +1,221 @@
+---
+layout: post
+title:  2024-06-03 Ann Arbor City Council Wrapup
+date:   2024-06-11 06:00:00 -0400
+meeting_date: 2024-06-03 19:00:00 -0400
+image:
+  path: "/assets/2024-06-11/5-corners-1.jpg"
+  alt: "A 14-story tall building, clad in black metal. The first floor looks like it could have retail on at least part of it. The roads form a wedge shape that the building fits into."
+  caption: "Architectural Rendering of what the 5-Corners Development, at Packard and State, could look like"
+  credit: "(From the <a href=\"https://a2gov.legistar.com/View.ashx?M=F&ID=12879817&GUID=6BB9DE44-BFF9-40DB-A81C-1D08E587276D\">Staff Report on the 5-Corners Development</a>)"
+
+categories: a2council wrapup
+tags: new-human-services-partnership parks parks-millage energy-rebate-program 415-w-washington spin-scooters scooters 732-packard 5-corners
+---
+
+<span class="h-event">The <span class="p-name">Ann Arbor City Council met</span> on <time class="dt-start" datetime="2024-06-03T19:00-0400">Monday, June 3, 2024</time>.</span>
+
+Exciting things on the agenda included:
+
+* A new [rebate program to help make energy efficiency upgrades to your household](#energy-rebate-program)
+* Entering a [six-month negotiating period with a developer interested in developing 415 W Washington](#415-w-washington).
+* PUD Zoning for the ["five corners" development at Packard and State](#732-packard-pud-zoning-district-and-site-plan)
+
+
+<!--more-->
+
+## Meeting Details
+
+{% include infobox-wrapup.html 
+  date    = page.meeting_date
+  agenda  = "https://a2gov.legistar.com/MeetingDetail.aspx?ID=1141275&GUID=98D6185A-D2FF-4471-A990-3DAFACBD5496&Options=info|&Search="
+  youtube = "https://www.youtube.com/watch?v=guFi0K3e7CY"
+  thread  = "https://a2mi.social/@MegaMichelle/112555183165990922"
+%}
+
+This meeting had the longest Consent Agenda I’ve ever seen!  The consent agenda is intended to be stuff that’s uncontroversial and the city council attempts to pass it all in one stroke without discussion, to save time.  If a councilmember wants to discuss an item separately, they ask for it to be pulled from the consent agenda so that the uncontroversial stuff can still be passed at once, dramatically shortening the meeting.
+
+These were the consent agenda items that Councilmembers pulled out to discuss.  Most of them, the councilmembers just wanted to say good things about them to let the public know.  Where there was actual controversy, I'll note it.
+
+## [FY23 Budget Allocations for New Human Service Partnership](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702494&GUID=704DB7A3-3685-4777-85CC-FE3473004387&Options=&Search=&FullText=1)
+
+$350,000 for human services.  This goes into a pool of money into which Washtenaw County also contributes.  The nonprofit recipients of these grants were chosen in an administrative, nonpolitical process.
+
+The recipients ended up being:
+* Legal Services of South Central Michigan
+* Dispute Resolution Center
+* Student Advocacy Center
+
+## [Parks Millage Renewal](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702388&GUID=CE7965DD-A317-42F9-A2C2-3DEAA16CF30C&Options=&Search=)
+
+A renewal of the Parks Millage will be put on the ballot in November.  1.1 mills.  Goes thru 2044.  Estimated revenue: $8.5 million.
+
+## [Energy Rebate Program](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702324&GUID=B216B90D-F696-4DF9-9306-A2784D7E1F5C&Options=&Search=&FullText=1)
+
+$4.2 million will be spent from the Climate millage, over the course of 3 years, to reimburse people for energy-efficiency and renewable energy upgrades they make to their house.  This includes solar panels, battery storage, heat pumps, and even e-bike purchases!
+
+If you meet the income requirements, you can get extra generous rebates, but there are also smaller, non-income-qualified rebates, available to everyone.  To meet the income requirements, you must make 120% of the area median income or less.  By the definition of the median, this means that more than half of Ann Arbor residents will meet the income requirements.
+
+According to [this table of 2024 Area Median Income from the City of Ann Arbor](https://www.a2gov.org/departments/Housing/development/Documents/2024%20Ann%20Arbor%20Area%20Median%20Income.pdf), the median household income depends on the number of persons in your household.  Here are the 2024 numbers:
+
+<table>
+<caption>120% Area median Income for each household size in Ann Arbor, 2024</caption>
+<thead>
+<tr>
+<th id="household-size">Household Size</th>
+<th id="120-percent-ami">120% Area Median Income</th>
+</tr>
+</thead>
+<tbody>
+<tr><th id="1-person" aria-labelledby="household-size">1 Person</th> 
+  <td aria-labelledby="120-percent-ami">$100,400</td></tr>
+<tr><th id="2-person" aria-laelledby="household-size">2 Person</th>
+  <td aria-labelledby="120-percent-ami">$114,800</td></tr>
+<tr><th id="3-person" aria-laelledby="household-size">3 Person</th>
+  <td aria-labelledby="120-percent-ami">$129,200</td></tr>
+<tr><th id="4-person" aria-laelledby="household-size">4 Person</th>
+  <td aria-labelledby="120-percent-ami">$143,400</td></tr>
+<tr><th id="5-person" aria-laelledby="household-size">5 Person</th>
+  <td aria-labelledby="120-percent-ami">$155,000</td></tr>
+</tbody>
+</table>
+
+And here are the rebates that the city is offering for various household energy improvements.
+
+<table>
+<caption>Household Energy Improvement Rebates Available in Ann Arbor, 2024-2026</caption>
+<thead>
+<tr>
+<td></td>
+<th colspan="2" id="income-qualified-rebates">Income Qualified Rebates</th>
+<th colspan="2" id="non-income-qualified-rebates">Non-Income Qualified Rebates</th>
+</tr>
+<tr>
+<td></td>
+<th id="max-rebate-amount-income-qualified" aria-labelledby="income-qualified-rebates">Max Rebate Amount</th>
+<th id="num-rebates-income-qualified" aria-labelledby="income-qualified-rebates"># Rebates Available</th>
+<th id="max-rebate-amount-non-income-qualified" aria-labelledby="non-income-qualified-rebates">Max Rebate Amount</th>
+<th id="num-rebates-non-income-qualified" aria-labelledby="non-income-qualified-rebates"># Rebates Available</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th id="solar">Solar</th>
+<td aria-labelledby="solar max-rebate-amount-income-qualified income-qualified-rebates">$1,000</td>
+<td aria-labelledby="solar num-rebates-income-qualified income-qualified-rebates">50</td>
+<td colspan="2" aria-labelledby="solar non-income-qualified-rebates">Only income-qualified rebates available</td>
+</tr>
+<tr>
+<th id="battery-storage">Battery Storage</th>
+<td colspan="2" aria-labelledby="battery-storage income-qualified-rebates">No income qualification required</td>
+<td aria-labelledby="battery-storage max-rebate-amount-non-income-qualified non-income-qualified-rebates">$500</td>
+<td aria-labelledby="battery-storage num-rebates-non-income-qualified non-income-qualified-rebates">100</td>
+</tr>
+<tr>
+<th id="energy-efficiency">Energy Efficiency</th>
+<td aria-labelledby="energy-efficiency max-rebate-amount-income-qualified income-qualified-rebates">$1,250</td>
+<td aria-labelledby="energy-efficiency num-rebates-income-qualified income-qualified-rebates">750</td>
+<td aria-labelledby="energy-efficiency max-rebate-amount-non-income-qualified non-income-qualified-rebates">$625</td>
+<td aria-labelledby="energy-efficiency num-rebates-non-income-qualified non-income-qualified-rebates">550</td>
+</tr>
+<tr>
+<th id="air-source-heat-pumps">Air Source Heat Pumps</th>
+<td aria-labelledby="air-source-heat-pumps max-rebate-amount-income-qualified income-qualified-rebates">$3,500</td>
+<td aria-labelledby="air-source-heat-pumps num-rebates-income-qualified income-qualified-rebates">185</td>
+<td aria-labelledby="air-source-heat-pumps max-rebate-amount-non-income-qualified non-income-qualified-rebates">$2,500</td>
+<td aria-labelledby="air-source-heat-pumps num-rebates-non-income-qualified non-income-qualified-rebates">300</td>
+</tr>
+<tr>
+<th id="heat-pump-water-heaters">Heat Pump Water Heaters</th>
+<td aria-labelledby="heat-pump-water-heaters max-rebate-amount-income-qualified income-qualified-rebates">$750</td>
+<td aria-labelledby="heat-pump-water-heaters num-rebates-income-qualified income-qualified-rebates">50</td>
+<td aria-labelledby="heat-pump-water-heaters max-rebate-amount-non-income-qualified non-income-qualified-rebates">$500</td>
+<td aria-labelledby="heat-pump-water-heaters num-rebates-non-income-qualified non-income-qualified-rebates">100</td>
+</tr>
+<tr>
+<th id="electric-panel-upgrades">Electric Panel Upgrades</th>
+<td aria-labelledby="electric-panel-upgrades max-rebate-amount-income-qualified income-qualified-rebates">$1,000</td>
+<td aria-labelledby="electric-panel-upgrades num-rebates-income-qualified income-qualified-rebates">50</td>
+<td aria-labelledby="electric-panel-upgrades max-rebate-amount-non-income-qualified non-income-qualified-rebates">$500</td>
+<td aria-labelledby="electric-panel-upgrades num-rebates-non-income-qualified non-income-qualified-rebates">100</td>
+</tr>
+<tr>
+<th id="standard-e-bikes">Standard E-Bikes</th>
+<td aria-labelledby="standard-e-bikes max-rebate-amount-income-qualified income-qualified-rebates">$1,000</td>
+<td aria-labelledby="standard-e-bikes num-rebates-income-qualified income-qualified-rebates">50</td>
+<td aria-labelledby="standard-e-bikes max-rebate-amount-non-income-qualified non-income-qualified-rebates">$100</td>
+<td aria-labelledby="standard-e-bikes num-rebates-non-income-qualified non-income-qualified-rebates">100</td>
+</tr>
+<tr>
+<th id="cargo-e-bikes">Cargo E-Bikes</th>
+<td aria-labelledby="cargo-e-bikes max-rebate-amount-income-qualified income-qualified-rebates">$1,200</td>
+<td aria-labelledby="cargo-e-bikes num-rebates-income-qualified income-qualified-rebates">20</td>
+<td aria-labelledby="cargo-e-bikes max-rebate-amount-non-income-qualified non-income-qualified-rebates">$200</td>
+<td aria-labelledby="cargo-e-bikes num-rebates-non-income-qualified non-income-qualified-rebates">100</td>
+</tr>
+</tbody>
+</table>
+
+The city's [Office of Sustainability and Innovations](https://www.a2gov.org/departments/sustainability/Pages/default.aspx) website doesn't seem to have information yet on how to apply for these rebates, but that is where it will appear.  You could also [email the Office of Sustainability and Innovation](mailto:sustainability@a2gov.org) to ask about the rebates.
+
+
+## [415 W Washington](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702495&GUID=3D3CACBD-3295-476D-9A9A-6FC3EB058FAE&Options=&Search=&FullText=1)
+
+415 W Washington is the site of an abandoned city fleet yard.  For 30 years, it’s been a boarded-up building and a parking lot.  In 2019, the city evaluated it for possibly affordable housing, when it evaluated all of its underutilized land for that.  They found that they wouldn’t be able to get federal funding for affordable housing there because it’s in the floodplain, and recommended selling it to a developer.
+
+The city went through a “pre-entitlement” process, where a specific Planned Unit Development zoning was approved.  If someone built this exact project, they’ve got all their approvals and can get started right away.  They decided what to put into the requirements, in a process with lots of public input.  [The “pre-entitlement” was completed in 2023](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6054963&GUID=41B151CE-10DE-4380-811B-79A5ADFADB3E&Options=ID%7CText%7C).
+
+After being in this state for a while, a developer has proposed a development that exceeds our demands.  It will be net zero, use mass timber, have 4 onsite below-market-rate apartments, and remediate the property.
+
+The proposal tonight established a 6 month negotiating period to negotiate a potential sale.  If the negotiations are successful, a purchase agreement will come back for city council approval.
+
+Councilmembers Eyer and Radina voted against this.  Each of them says they love this proposal, but they thought it should’ve gone through an RFP process.  The counterargument from some councilmembers was that the pre-entitlement process had a lot of public engagement and set out specifications, much like an RFP would.
+
+{% include image.html
+  src = "/assets/2024-06-11/415-w-washington.png"
+  alt = "Conceptual drawing of a possible 415 W Washington development.  It is primarily concerned with elevations.  The building has two towers with a courtyard in between.  One tower is 5 stories, and the other is 3 stories.  The building is on stilts, and preserves the historic chimney.  Height comparisons are depiced, with other nearby builidngs.  The maximum height is the same as Liberty Lofts, The Mark, and The Y, at 70 feet.  It is not as tall as the St Paul church, and A2 City Club Apartments stands taller by several stories.  City Club Apartments is 120 feet tall."
+  caption = "415 W Washington Concept Plan"
+  credit = "From the <a href=\"https://a2gov.legistar.com/View.ashx?M=F&ID=12973348&GUID=E082640B-A754-4CC0-AE1A-AF6AE9CCA920\">415 W Washington Concept Plan</a>"
+%}
+
+{% include map.html
+  boxid     = "415-w-washington-map"
+  lat       = 42.280428723230834
+  lon       = -83.75270091823937
+  zoom      = 18
+  caption   = "An interactive map showing 415 W Washington"
+%}
+
+## [SPIN Scooters](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6702366&GUID=C7B98D61-5B4A-48C1-9C5A-61A79C3C1791&Options=&Search=&FullText=1)
+
+SPIN scooters has a contract to operate on the city’s right-of-ways.  This was a renewal of their contract.  Councilmember Akmon was concerned about two things:
+* Are the scooters safe enough?  The city says there were some people injured in scooter-related incidents, and the company says there were none.  What’s up with that?
+* What about abandoned scooters?  The city tends to deal with these.  Can the company plz deal with them instead?
+
+She proposed an amendment to the contract.  The amendment doesn’t change the terms of the contract, but it shortens the contract so the city has time to think about how to deal with these issues, and will come back with new terms next time the contract is up.  This amendment passed.
+
+On the safety concerns:  Perhaps the company is keeping track of people injured by scooters, whereas the city is keeping track of people injured while on scooters?  People have gotten hit by cars when they were on scooters.  That’s not a reason to think scooters are unsafe, that’s a reason to think that cars are unsafe.  Maybe we should renegotiate terms with car companies for use of the huge amount of right-of-way they get to use!
+
+
+## [732 Packard PUD Zoning District](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6647545&GUID=700F5EF6-6B74-4F90-B9B3-C1A2DFB373E2&Options=&Search=) and [Site Plan](https://a2gov.legistar.com/LegislationDetail.aspx?ID=6704249&GUID=D1709469-2773-4542-AE4C-5C6666A327D9&Options=&Search=)
+
+This will be a whole bunch of housing over by where Packard, State, and Arch street meet.  “5 corners”.
+
+The landlord that owns the Dominos Pizza there is big mad about this and has announced their intention to sue the city.
+
+Councilmember Disch proposed an amendment to the zoning.  All it did was meticulously list the reasons that the city council thinks the rezoning is appropriate.  I suspect this was done on the advice of the city attorney, as a way to protect the city from the lawsuit.
+
+{% include image.html
+  src = "/assets/2024-06-11/5-corners-2.jpg"
+  alt = "A 14-story tall building, clad in black metal. The first floor looks like it could have retail on at least part of it. The facade is not flat, as is the style of the time.  There is a central portion of the building with two prominences jutting out diagonally."
+  caption = "5 Corners Development Architectural Rendering"
+  credit = "From the <a href=\"https://a2gov.legistar.com/View.ashx?M=F&ID=12879817&GUID=6BB9DE44-BFF9-40DB-A81C-1D08E587276D\">Staff Report on the 5-Corners Development</a>"
+%}
+
+{% include map.html
+  boxid     = "5-corners-map"
+  lat       = 42.27138691692331
+  lon       = -83.74079369310154
+  zoom      = 18
+  caption   = "An interactive map showing the 5 corners development at 732 Packard"
+%}
