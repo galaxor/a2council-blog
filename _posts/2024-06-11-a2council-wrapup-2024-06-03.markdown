@@ -214,8 +214,8 @@ Councilmember Disch proposed an amendment to the zoning.  All it did was meticul
 
 {% include map.html
   boxid     = "5-corners-map"
-  lat       = 42.27138691692331
-  lon       = -83.74079369310154
+  lat       = 42.27014963255828
+  lon       = -83.74005564707525
   zoom      = 18
   caption   = "An interactive map showing the 5 corners development at 732 Packard"
 %}
