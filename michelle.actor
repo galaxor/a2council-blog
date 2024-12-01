@@ -3,7 +3,7 @@
     "https://www.w3.org/ns/activitystreams",
     "https://w3id.org/security/v1"
   ],
-  "id": "https://a2council.info/.michelle.actor",
+  "id": "https://a2council.info/michelle.actor",
   "type": "Person",
   "publickey": {
     "id": "https://a2council.info/michelle.actor#main-key",
