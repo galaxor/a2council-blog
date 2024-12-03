@@ -57,7 +57,7 @@
     "memorial": false,
     "publicKey": {
         "id": "https://a2council.info/MegaMichelle.json#main-key",
-        "owner": "https://a2mi.social/users/MegaMichelle",
+        "owner": "https://a2council.info/MegaMichelle.json",
         "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtqod0T0ZBRWPeuH9pWUe\n8XTTO1IXig/F4P0/u/UEmcwgRF962uvH10OwXBULzJ/s3BdXB3ZZTQXey3kZmLMP\nnPzDVJDlgtQ7XBtznofBbcNhY/jNuaIZVRud0zrbu87zsdpixUBnc/16koIR0Da3\nB+6dIUt+csXjxBgtatnLgD6TnQJOxzUo/vIKZObBkzqa9iSGZRB7uhRykmTzzvb6\nUx559p6eJSpH1RZ76Uc5+RKQn9KCUp21YmlxCGQVhcBGAVTFXbWeoEAn1DpETfbr\nk3nayCJ2lD5IgoccelCD+ZtRHTpN3TsDuExBIyxQTrxzHV+OlUPxdRxvfb1TGiLg\nQwIDAQAB\n-----END PUBLIC KEY-----\n"
     },
     "tag": [],
