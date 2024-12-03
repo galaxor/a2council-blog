@@ -1,0 +1,94 @@
+{
+    "@context": [
+        "https://www.w3.org/ns/activitystreams",
+        "https://w3id.org/security/v1",
+        {
+            "manuallyApprovesFollowers": "as:manuallyApprovesFollowers",
+            "toot": "http://joinmastodon.org/ns#",
+            "featured": {
+                "@id": "toot:featured",
+                "@type": "@id"
+            },
+            "featuredTags": {
+                "@id": "toot:featuredTags",
+                "@type": "@id"
+            },
+            "alsoKnownAs": {
+                "@id": "as:alsoKnownAs",
+                "@type": "@id"
+            },
+            "movedTo": {
+                "@id": "as:movedTo",
+                "@type": "@id"
+            },
+            "schema": "http://schema.org#",
+            "PropertyValue": "schema:PropertyValue",
+            "value": "schema:value",
+            "discoverable": "toot:discoverable",
+            "suspended": "toot:suspended",
+            "memorial": "toot:memorial",
+            "indexable": "toot:indexable",
+            "attributionDomains": {
+                "@id": "toot:attributionDomains",
+                "@type": "@id"
+            },
+            "focalPoint": {
+                "@container": "@list",
+                "@id": "toot:focalPoint"
+            }
+        }
+    ],
+    "id": "https://a2council.info/MegaMichelle.json",
+    "type": "Person",
+    "following": "https://a2mi.social/users/MegaMichelle/following",
+    "followers": "https://a2mi.social/users/MegaMichelle/followers",
+    "inbox": "https://a2mi.social/users/MegaMichelle/inbox",
+    "outbox": "https://a2mi.social/users/MegaMichelle/outbox",
+    "featured": "https://a2mi.social/users/MegaMichelle/collections/featured",
+    "featuredTags": "https://a2mi.social/users/MegaMichelle/collections/tags",
+    "preferredUsername": "MegaMichelle",
+    "name": "Michelle Hughes",
+    "summary": "<p>Ann Arbor City Council thoughts, and also random nonsense.</p><p>Special abilities: Flying, shooting lasers out of eyes -- you know, &quot;girl power&quot;.  &quot;Ms. Information&quot;. (She/Her)  \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f</p><p>DJ on WCBN-FM, 88.3, <a href=\"https://wcbn.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">wcbn.org</span><span class=\"invisible\"></span></a>.  Tue 6-9am Eastern time.  I play music that is made primarily by people other than cis men.  And then I talk about city council stuff.</p>",
+    "url": "https://a2mi.social/@MegaMichelle",
+    "manuallyApprovesFollowers": false,
+    "discoverable": true,
+    "indexable": true,
+    "published": "2022-11-07T00:00:00Z",
+    "memorial": false,
+    "publicKey": {
+        "id": "https://a2council.info/MegaMichelle.json#main-key",
+        "owner": "https://a2mi.social/users/MegaMichelle",
+        "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtqod0T0ZBRWPeuH9pWUe\n8XTTO1IXig/F4P0/u/UEmcwgRF962uvH10OwXBULzJ/s3BdXB3ZZTQXey3kZmLMP\nnPzDVJDlgtQ7XBtznofBbcNhY/jNuaIZVRud0zrbu87zsdpixUBnc/16koIR0Da3\nB+6dIUt+csXjxBgtatnLgD6TnQJOxzUo/vIKZObBkzqa9iSGZRB7uhRykmTzzvb6\nUx559p6eJSpH1RZ76Uc5+RKQn9KCUp21YmlxCGQVhcBGAVTFXbWeoEAn1DpETfbr\nk3nayCJ2lD5IgoccelCD+ZtRHTpN3TsDuExBIyxQTrxzHV+OlUPxdRxvfb1TGiLg\nQwIDAQAB\n-----END PUBLIC KEY-----\n"
+    },
+    "tag": [],
+    "attachment": [
+        {
+            "type": "PropertyValue",
+            "name": "Pronouns",
+            "value": "she/her"
+        },
+        {
+            "type": "PropertyValue",
+            "name": "Twitter",
+            "value": "<a href=\"https://twitter.com/xMegaMichellex\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/xMegaMichellex</span><span class=\"invisible\"></span></a>"
+        },
+        {
+            "type": "PropertyValue",
+            "name": "Ann Arbor City Council Blog",
+            "value": "<a href=\"https://a2council.info\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">a2council.info</span><span class=\"invisible\"></span></a>"
+        }
+    ],
+    "endpoints": {
+        "sharedInbox": "https://a2mi.social/inbox"
+    },
+    "icon": {
+        "type": "Image",
+        "mediaType": "image/jpeg",
+        "url": "https://files.a2mi.social/accounts/avatars/109/303/801/530/486/818/original/b0b94055071ee7e7.jpg"
+    },
+    "image": {
+        "type": "Image",
+        "mediaType": "image/jpeg",
+        "url": "https://files.a2mi.social/accounts/headers/109/303/801/530/486/818/original/90a30dfb9f6749a8.jpeg"
+    }
+}
